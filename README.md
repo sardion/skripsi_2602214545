@@ -119,62 +119,79 @@ This research was executed on AWS:
 - **PyTorch: 2.8 (CPU mode)
 - **Environment: Virtual environment (venv)
 
-## Raw Data Policy
+## 📦 Raw Data Policy
 
-This repository includes the full preprocessing and training pipeline, but **does not include full raw datasets** due to size and licensing restrictions.
+This repository provides the complete preprocessing and training pipeline, but **does not include large datasets** due to size constraints and licensing rules.
 
-### 1. Sample Raw Data Included
+### ✅ 1. Sample Raw Data Included
 The directory:
 
 ```
 data/raw/
 ```
 
-contains only small sample files to illustrate structure and allow limited pipeline testing.
+contains **only minimal sample files** illustrating the expected input structure  
+(e.g., trimmed IDX, Investing.com, Yahoo Finance samples).
 
-Included samples:
-- trimmed IDX stock summary
-- trimmed macroeconomic event rows
-- trimmed Yahoo Finance OHLC samples
+These samples allow reviewers to understand the format without distributing full datasets.
 
-These samples help reviewers understand expected input formats without requiring large datasets.
+### ❌ 2. Full Raw Data Not Included
+The full raw datasets (Jan 2020 – Aug 2025) are *not* included because:
+- They exceed GitHub’s storage limits
+- Redistribution violates data source terms & conditions
+- Total size reaches multiple GB across all tickers and macro sources
 
-### 2. Full Raw Data Not Included
-The complete raw datasets (Jan 2020 – Aug 2025) are *not* provided because:
-- File sizes exceed GitHub limits (100MB per file)
-- Total dataset size reaches hundreds of MB to several GB
-- Redistribution from IDX, Yahoo Finance, and Investing.com violates usage terms
+All download instructions and file formats are documented in Lampiran A–C of the thesis.
 
-All data sources and download procedures are documented in the thesis appendices (Lampiran A–C).
-
-### 3. Derived / Processed Data Included
-To ensure reproducibility, all *processed* datasets **are included**:
+### 🗂 3. Processed Data Included (Except Sliding-Window)
+The following directories **are included** because they are lightweight and safe to publish:
 
 ```
 data/raw_features/
 data/processed/
-data/features/
 ```
 
 These contain:
-- calendar-aligned features  
-- cleaned and engineered variables  
-- sliding-window supervised datasets  
+- calendar-aligned time series  
+- engineered features  
+- normalized variants  
+- integrated ticker feature tables  
 
-They are safe to publish and sufficient to rerun the entire LSTM, TCN, and TFT training pipeline without downloading raw data.
+These are sufficient for reviewers to inspect feature engineering.
 
-### 4. Dataset Regeneration
-All preprocessing scripts are provided under:
+### ❌ 4. Sliding-Window Supervised Datasets Not Included
+The directory:
+
+```
+data/features/
+```
+
+is **left empty on purpose**, because:
+- Sliding-window supervised learning datasets are extremely large  
+- Sizes range from hundreds of MB to several GB  
+- Regeneration is deterministic using the provided preprocessing scripts
+
+Users can regenerate the full supervised learning datasets by running:
+
+```
+python scripts/transform_sliding_window.py
+```
+
+(as documented in Lampiran E).
+
+### 🔁 5. Full Dataset Regeneration
+All scripts needed to rebuild the entire dataset pipeline are provided under:
 
 ```
 scripts/
 ```
 
-Using the scripts plus the instructions in the Lampiran, users can fully regenerate:
-- calendar time series  
-- technical indicators  
-- macroeconomic features  
-- sliding-window datasets  
+This ensures full reproducibility without distributing copyrighted raw data.
+
+### 🔒 6. Optional Private Repository Access
+If required, the repository can remain private, with access granted manually to supervisors or reviewers.
+
+ 
 
 ## Access to Full Code (Private Repository Policy)
 
