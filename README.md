@@ -191,7 +191,48 @@ This ensures full reproducibility without distributing copyrighted raw data.
 ### 6. Optional Private Repository Access
 If required, the repository can remain private, with access granted manually to reviewers.
 
- 
+## Large Log & Profiler Files Not Included
+
+During efficiency experiments, each architecture (LSTM, TCN, TFT) produces detailed
+profiling logs inside:
+
+```
+lstm/efficiency/results/logs/
+tcn/efficiency/results/logs/
+tft/efficiency/results/logs/
+```
+
+These include files such as:
+
+```
+{TICKER}_close_trace_cpu.json
+{TICKER}_mean_trace_cpu.json
+```
+
+### Why These Files Are Excluded
+These JSON trace files:
+- Frequently exceed **100–300 MB** per ticker
+- Surpass GitHub’s **100 MB per file** limit
+- Contain low-level CPU event traces not essential for report evaluation
+- Are fully regenerable from the public training scripts
+
+### How to Regenerate Them
+If needed, they can be reproduced by running the efficiency training scripts:
+
+```
+python lstm/efficiency/train_close.py --ticker BBCA
+python tcn/efficiency/train_close.py --ticker BBCA
+python tft/efficiency/train_close.py --ticker BBCA
+```
+
+The profiler will automatically create new trace files in:
+
+```
+results/logs/
+```
+
+These profiler traces are **not required** to reproduce metrics or conclusions of the thesis.
+
 ## Access to Full Code (Private Repository Policy)
 
 This repository may be set to private to protect academic integrity.
