@@ -123,7 +123,7 @@ This research was executed on AWS:
 
 This repository provides the complete preprocessing and training pipeline, but **does not include large datasets** due to size constraints and licensing rules.
 
-### ✅ 1. Sample Raw Data Included
+### 1. Sample Raw Data Included
 The directory:
 
 ```
@@ -135,7 +135,7 @@ contains **only minimal sample files** illustrating the expected input structure
 
 These samples allow reviewers to understand the format without distributing full datasets.
 
-### ❌ 2. Full Raw Data Not Included
+### 2. Full Raw Data Not Included
 The full raw datasets (Jan 2020 – Aug 2025) are *not* included because:
 - They exceed GitHub’s storage limits
 - Redistribution violates data source terms & conditions
@@ -159,7 +159,7 @@ These contain:
 
 These are sufficient for reviewers to inspect feature engineering.
 
-### ❌ 4. Sliding-Window Supervised Datasets Not Included
+### 4. Sliding-Window Supervised Datasets Not Included
 The directory:
 
 ```
@@ -179,7 +179,7 @@ python scripts/transform_sliding_window.py
 
 (as documented in Lampiran E).
 
-### 🔁 5. Full Dataset Regeneration
+### 5. Full Dataset Regeneration
 All scripts needed to rebuild the entire dataset pipeline are provided under:
 
 ```
@@ -188,11 +188,10 @@ scripts/
 
 This ensures full reproducibility without distributing copyrighted raw data.
 
-### 🔒 6. Optional Private Repository Access
-If required, the repository can remain private, with access granted manually to supervisors or reviewers.
+### 6. Optional Private Repository Access
+If required, the repository can remain private, with access granted manually to reviewers.
 
  
-
 ## Access to Full Code (Private Repository Policy)
 
 This repository may be set to private to protect academic integrity.
