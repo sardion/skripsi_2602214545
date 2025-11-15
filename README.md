@@ -53,32 +53,39 @@ on **five IDX tickers** (BBCA, ANTM, ICBP, TLKM, ASII) using a **55-feature unif
 skripsi_2602214545/
 │
 ├── data/
-│ ├── raw/ # Raw IDX, Yahoo Finance, Investing.com data
-│ ├── raw_features/ # Processed calendar TS + technical indicators
-│ ├── processed/ # Per-ticker aligned feature tables
-│ └── features/ # Sliding-window supervised datasets
+│   ├── raw/                     # Raw IDX, Yahoo Finance, Investing.com data
+│   ├── raw_features/            # Output preprocessing: calendar TS + technical indicators
+│   ├── processed/               # Per-ticker aligned feature tables
+│   └── features/                # Sliding-window supervised datasets (per ticker)
 │
 ├── lstm/
-│ ├── stopping_embargo/
-│ ├── stopping_no_embargo/
-│ └── efficiency/
+│   ├── stopping_embargo/        # LSTM training scripts (early stopping + embargo)
+│   ├── stopping_no_embargo/     # LSTM training scripts (early stopping, no embargo)
+│   └── efficiency/              # LSTM efficiency scenario (fixed 100 epochs)
 │
 ├── tcn/
-│ ├── stopping_embargo/
-│ ├── stopping_no_embargo/
-│ └── efficiency/
+│   ├── stopping_embargo/        # TCN training scripts (early stopping + embargo)
+│   ├── stopping_no_embargo/     # TCN training scripts (early stopping, no embargo)
+│   └── efficiency/              # TCN efficiency scenario (fixed 100 epochs)
 │
 ├── tft/
-│ ├── stopping_embargo/
-│ ├── stopping_no_embargo/
-│ └── efficiency/
+│   ├── stopping_embargo/        # TFT training scripts (early stopping + embargo)
+│   ├── stopping_no_embargo/     # TFT training scripts (early stopping, no embargo)
+│   └── efficiency/              # TFT efficiency scenario (fixed 100 epochs)
 │
-├── config/ # Global configuration
-├── splitter/ # Train-val-test split logic (+ embargo)
-├── figures/ # Plotting utilities
-├── metrics/ # Eval + metrics collector
-├── scripts/ # Data preprocessing scripts
-└── results/ # All metrics, figures, logs, checkpoints
+├── config/                      # Global configuration defaults for all architectures
+├── splitter/                    # Train/val/test split utilities (+ embargo handling)
+├── figures/                     # Plotting utilities (loss curves, pred-vs-true, etc.)
+├── metrics/                     # Evaluation utilities + metrics collector automation
+├── scripts/                     # All preprocessing scripts (calendar TS, indicators, etc.)
+└── results/
+    ├── metrics/                 # JSON/TXT metrics (val/test) for all runs
+    ├── figures/                 # Prediction plots + loss curves
+    ├── logs/                    # Terminal logs, profiler outputs, CPU/memory usage
+    └── checkpoints/             # Saved model weights (per ticker & scenario)
+
+
+
 
 ## Installation
 git clone https://github.com/sardion/thesis2602214545.git
@@ -95,16 +102,16 @@ pip install -r requirements.txt
 ## Running Training Scripts
 Each architecture has independent training scripts.
 Example: 
-1. Train LSTM (close price, early stopping + embargo)
-python lstm/stopping_embargo/train_close.py --ticker BBCA
-2. Train TCN (mean price, efficiency 100 epochs)
-python tcn/efficiency/train_mean.py --ticker TLKM
+- **1. Train LSTM (close price, early stopping + embargo)
+- **python lstm/stopping_embargo/train_close.py --ticker BBCA
+- **2. Train TCN (mean price, efficiency 100 epochs)
+- **python tcn/efficiency/train_mean.py --ticker TLKM
 
 All results are automatically saved to:
-results/metrics/
-results/figures/
-results/logs/
-results/checkpoints/
+- **results/metrics/
+- **results/figures/
+- **results/logs/
+- **results/checkpoints/
 
 ## Collecting Metrics
 python collect_all_metrics.py
@@ -112,11 +119,11 @@ This generates: all_metrics_summary.csv
 
 ## Computational Environment (AWS)
 This research was executed on AWS:
-Instance Type: r6i.2xlarge
-OS: Ubuntu 24.04
-Python: 3.10
-PyTorch: 2.8 (CPU mode)
-Environment: Virtual environment (venv)
+- **Instance Type: r6i.2xlarge
+- **OS: Ubuntu 24.04
+- **Python: 3.10
+- **PyTorch: 2.8 (CPU mode)
+- **Environment: Virtual environment (venv)
 
 ## Access to Full Code (Private Repository Policy)
 
