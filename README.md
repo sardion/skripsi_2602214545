@@ -49,7 +49,6 @@ on **five IDX tickers** (BBCA, ANTM, ICBP, TLKM, ASII) using a **55-feature unif
 ---
 
 ## Project Structure
----
 ```txt
 skripsi_2602214545/
 │
@@ -81,9 +80,6 @@ skripsi_2602214545/
 ├── scripts/                     # Data preprocessing scripts
 └── results/                     # All outputs: metrics, logs, figures, checkpoints
 ```
-
-
----
 
 ## Installation
 git clone https://github.com/sardion/thesis2602214545.git
