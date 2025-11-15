@@ -119,6 +119,63 @@ This research was executed on AWS:
 - **PyTorch: 2.8 (CPU mode)
 - **Environment: Virtual environment (venv)
 
+## Raw Data Policy
+
+This repository includes the full preprocessing and training pipeline, but **does not include full raw datasets** due to size and licensing restrictions.
+
+### 1. Sample Raw Data Included
+The directory:
+
+```
+data/raw/
+```
+
+contains only small sample files to illustrate structure and allow limited pipeline testing.
+
+Included samples:
+- trimmed IDX stock summary
+- trimmed macroeconomic event rows
+- trimmed Yahoo Finance OHLC samples
+
+These samples help reviewers understand expected input formats without requiring large datasets.
+
+### 2. Full Raw Data Not Included
+The complete raw datasets (Jan 2020 – Aug 2025) are *not* provided because:
+- File sizes exceed GitHub limits (100MB per file)
+- Total dataset size reaches hundreds of MB to several GB
+- Redistribution from IDX, Yahoo Finance, and Investing.com violates usage terms
+
+All data sources and download procedures are documented in the thesis appendices (Lampiran A–C).
+
+### 3. Derived / Processed Data Included
+To ensure reproducibility, all *processed* datasets **are included**:
+
+```
+data/raw_features/
+data/processed/
+data/features/
+```
+
+These contain:
+- calendar-aligned features  
+- cleaned and engineered variables  
+- sliding-window supervised datasets  
+
+They are safe to publish and sufficient to rerun the entire LSTM, TCN, and TFT training pipeline without downloading raw data.
+
+### 4. Dataset Regeneration
+All preprocessing scripts are provided under:
+
+```
+scripts/
+```
+
+Using the scripts plus the instructions in the Lampiran, users can fully regenerate:
+- calendar time series  
+- technical indicators  
+- macroeconomic features  
+- sliding-window datasets  
+
 ## Access to Full Code (Private Repository Policy)
 
 This repository may be set to private to protect academic integrity.
