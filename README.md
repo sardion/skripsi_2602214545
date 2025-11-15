@@ -50,39 +50,37 @@ on **five IDX tickers** (BBCA, ANTM, ICBP, TLKM, ASII) using a **55-feature unif
 
 ## Project Structure
 ---
+```txt
 skripsi_2602214545/
 │
 ├── data/
 │   ├── raw/                     # Raw IDX, Yahoo Finance, Investing.com data
-│   ├── raw_features/            # Output preprocessing: calendar TS + technical indicators
+│   ├── raw_features/            # Output: calendar TS + technical indicators
 │   ├── processed/               # Per-ticker aligned feature tables
-│   └── features/                # Sliding-window supervised datasets (per ticker)
+│   └── features/                # Sliding-window supervised datasets
 │
 ├── lstm/
-│   ├── stopping_embargo/        # LSTM training scripts (early stopping + embargo)
-│   ├── stopping_no_embargo/     # LSTM training scripts (early stopping, no embargo)
-│   └── efficiency/              # LSTM efficiency scenario (fixed 100 epochs)
+│   ├── stopping_embargo/
+│   ├── stopping_no_embargo/
+│   └── efficiency/
 │
 ├── tcn/
-│   ├── stopping_embargo/        # TCN training scripts (early stopping + embargo)
-│   ├── stopping_no_embargo/     # TCN training scripts (early stopping, no embargo)
-│   └── efficiency/              # TCN efficiency scenario (fixed 100 epochs)
+│   ├── stopping_embargo/
+│   ├── stopping_no_embargo/
+│   └── efficiency/
 │
 ├── tft/
-│   ├── stopping_embargo/        # TFT training scripts (early stopping + embargo)
-│   ├── stopping_no_embargo/     # TFT training scripts (early stopping, no embargo)
-│   └── efficiency/              # TFT efficiency scenario (fixed 100 epochs)
+│   ├── stopping_embargo/
+│   ├── stopping_no_embargo/
+│   └── efficiency/
 │
-├── config/                      # Global configuration defaults for all architectures
-├── splitter/                    # Train/val/test split utilities (+ embargo handling)
-├── figures/                     # Plotting utilities (loss curves, pred-vs-true, etc.)
-├── metrics/                     # Evaluation utilities + metrics collector automation
-├── scripts/                     # All preprocessing scripts (calendar TS, indicators, etc.)
-└── results/
-    ├── metrics/                 # JSON/TXT metrics (val/test) for all runs
-    ├── figures/                 # Prediction plots + loss curves
-    ├── logs/                    # Terminal logs, profiler outputs, CPU/memory usage
-    └── checkpoints/             # Saved model weights (per ticker & scenario)
+├── config/                      # Global configuration defaults
+├── splitter/                    # Train/val/test splitting (with embargo logic)
+├── figures/                     # Plotting utilities
+├── metrics/                     # Evaluation + metrics collector
+├── scripts/                     # Data preprocessing scripts
+└── results/                     # All outputs: metrics, logs, figures, checkpoints
+```
 
 
 ---
