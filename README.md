@@ -49,7 +49,7 @@ on **five IDX tickers** (BBCA, ANTM, ICBP, TLKM, ASII) using a **55-feature unif
 ---
 
 ## Project Structure
-
+---
 skripsi_2602214545/
 │
 ├── data/
@@ -85,7 +85,7 @@ skripsi_2602214545/
     └── checkpoints/             # Saved model weights (per ticker & scenario)
 
 
-
+---
 
 ## Installation
 git clone https://github.com/sardion/thesis2602214545.git
