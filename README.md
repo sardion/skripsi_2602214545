@@ -237,5 +237,5 @@ These profiler traces are **not required** to reproduce metrics or conclusions o
 
 This repository may be set to private to protect academic integrity.
 Examiners can request access by contacting:
-Email: sardion.maranatha@gmail.coom
+Email: sardion.maranatha@binus.ac.id / sardion.maranatha@gmail.com
 
