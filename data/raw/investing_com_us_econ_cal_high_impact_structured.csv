@@ -1,0 +1,2809 @@
+Date,Time,Currency,Impact,Event,Actual,Forecast,Previous
+2020-01-01,All Day,,,United States - New Year's Day,,,
+2020-01-02,20:30:00,,,Initial Jobless Claims,222K,225K,224K
+2020-01-03,22:00:00,,,ISM Manufacturing PMI (Dec),47.2,49,48.1
+2020-01-03,22:00:00,,,ISM Manufacturing Prices (Dec),51.7,47.5,46.7
+2020-01-03,23:00:00,,,Crude Oil Inventories,-11.463M,-3.288M,-5.474M
+2020-01-04,03:00:00,,,FOMC Meeting Minutes,,,
+2020-01-07,22:00:00,,,ISM Non-Manufacturing PMI (Dec),55,54.5,53.9
+2020-01-07,22:00:00,,,ISM Non-Manufacturing Prices (Dec),58.5,,58.5
+2020-01-08,20:15:00,,,ADP Nonfarm Employment Change (Dec),202K,160K,124K
+2020-01-08,22:30:00,,,Crude Oil Inventories,1.164M,-3.572M,-11.463M
+2020-01-09,01:01:00,,,10-Year Note Auction,1.87%,,1.84%
+2020-01-09,20:30:00,,,Initial Jobless Claims,214K,220K,223K
+2020-01-10,01:01:00,,,30-Year Bond Auction,2.34%,,2.31%
+2020-01-10,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.10%,0.30%,0.30%
+2020-01-10,20:30:00,,,Nonfarm Payrolls (Dec),145K,164K,256K
+2020-01-10,20:30:00,,,Unemployment Rate (Dec),3.50%,3.50%,3.50%
+2020-01-14,20:30:00,,,Core CPI (MoM) (Dec),0.10%,0.20%,0.20%
+2020-01-14,20:30:00,,,CPI (MoM) (Dec),0.20%,0.30%,0.30%
+2020-01-14,20:30:00,,,CPI (YoY) (Dec),2.30%,2.30%,2.10%
+2020-01-15,20:30:00,,,PPI (MoM) (Dec),0.10%,0.20%,0.00%
+2020-01-15,22:30:00,,,Crude Oil Inventories,-2.549M,-0.474M,1.164M
+2020-01-16,20:30:00,,,Core Retail Sales (MoM) (Dec),0.70%,0.50%,0.10%
+2020-01-16,20:30:00,,,Initial Jobless Claims,204K,216K,214K
+2020-01-16,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),17,3.8,2.4
+2020-01-16,20:30:00,,,Retail Sales (MoM) (Dec),0.30%,0.30%,0.30%
+2020-01-17,22:00:00,,,JOLTS Job Openings (Nov),6.800M,7.233M,7.361M
+2020-01-20,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2020-01-21,17:30:00,,,U.S. President Trump Speaks,,,
+2020-01-22,22:00:00,,,Existing Home Sales (Dec),5.54M,5.43M,5.35M
+2020-01-23,20:30:00,,,Initial Jobless Claims,211K,215K,205K
+2020-01-23,23:00:00,,,Crude Oil Inventories,-0.405M,-1.009M,-2.549M
+2020-01-27,22:00:00,,,New Home Sales (Dec),694K,730K,697K
+2020-01-28,20:30:00,,,Durable Goods Orders (MoM) (Dec),2.40%,0.40%,-3.10%
+2020-01-28,22:00:00,,,CB Consumer Confidence (Jan),131.6,128,128.2
+2020-01-29,22:30:00,,,Crude Oil Inventories,3.548M,0.482M,-0.405M
+2020-01-30,02:00:00,,,FOMC Statement,,,
+2020-01-30,02:00:00,,,Fed Interest Rate Decision,1.75%,1.75%,1.75%
+2020-01-30,02:30:00,,,FOMC Press Conference,,,
+2020-01-30,20:30:00,,,GDP (QoQ) (Q4),2.10%,2.10%,2.10%
+2020-01-30,20:30:00,,,Initial Jobless Claims,216K,215K,223K
+2020-01-31,20:30:00,,,Core PCE Price Index (YoY) (Dec),1.60%,1.60%,1.50%
+2020-01-31,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.20%,0.10%,0.10%
+2020-01-31,21:45:00,,,Chicago PMI (Jan),42.9,48.8,48.2
+2020-02-03,22:00:00,,,ISM Manufacturing PMI (Jan),50.9,48.5,47.8
+2020-02-03,22:00:00,,,ISM Manufacturing Prices (Jan),53.3,50.8,51.7
+2020-02-05,20:15:00,,,ADP Nonfarm Employment Change (Jan),291K,156K,199K
+2020-02-05,22:00:00,,,ISM Non-Manufacturing PMI (Jan),55.5,55,54.9
+2020-02-05,22:00:00,,,ISM Non-Manufacturing Prices (Jan),55.5,,59.3
+2020-02-05,22:30:00,,,Crude Oil Inventories,3.355M,2.831M,3.548M
+2020-02-06,20:30:00,,,Initial Jobless Claims,202K,215K,217K
+2020-02-07,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.20%,0.30%,0.10%
+2020-02-07,20:30:00,,,Nonfarm Payrolls (Jan),225K,160K,147K
+2020-02-07,20:30:00,,,Unemployment Rate (Jan),3.60%,3.50%,3.50%
+2020-02-11,22:00:00,,,Fed Chair Powell Testifies,,,
+2020-02-11,22:00:00,,,JOLTS Job Openings (Dec),6.423M,7.000M,6.787M
+2020-02-12,22:00:00,,,Fed Chair Powell Testifies,,,
+2020-02-12,22:30:00,,,Crude Oil Inventories,7.459M,2.987M,3.355M
+2020-02-13,01:01:00,,,10-Year Note Auction,1.62%,,1.87%
+2020-02-13,20:30:00,,,Core CPI (MoM) (Jan),0.20%,0.20%,0.10%
+2020-02-13,20:30:00,,,CPI (MoM) (Jan),0.10%,0.20%,0.20%
+2020-02-13,20:30:00,,,CPI (YoY) (Jan),2.50%,2.40%,2.30%
+2020-02-13,20:30:00,,,Initial Jobless Claims,205K,210K,203K
+2020-02-14,01:01:00,,,30-Year Bond Auction,2.06%,,2.34%
+2020-02-14,20:30:00,,,Core Retail Sales (MoM) (Jan),0.30%,0.30%,0.60%
+2020-02-14,20:30:00,,,Retail Sales (MoM) (Jan),0.30%,0.30%,0.20%
+2020-02-17,All Day,,,United States - Washington's Birthday,,,
+2020-02-19,20:30:00,,,PPI (MoM) (Jan),0.50%,0.10%,0.20%
+2020-02-20,02:00:00,,,FOMC Meeting Minutes,,,
+2020-02-20,20:30:00,,,Initial Jobless Claims,210K,210K,206K
+2020-02-20,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),36.7,12,17
+2020-02-20,23:00:00,,,Crude Oil Inventories,0.414M,2.494M,7.459M
+2020-02-21,22:00:00,,,Existing Home Sales (Jan),5.46M,5.43M,5.53M
+2020-02-25,22:00:00,,,CB Consumer Confidence (Feb),130.7,132,130.4
+2020-02-26,22:00:00,,,New Home Sales (Jan),764K,710K,708K
+2020-02-26,22:30:00,,,Crude Oil Inventories,0.452M,2.005M,0.414M
+2020-02-27,06:00:00,,,U.S. President Trump Speaks,,,
+2020-02-27,20:30:00,,,Durable Goods Orders (MoM) (Jan),-0.20%,-1.50%,2.90%
+2020-02-27,20:30:00,,,GDP (QoQ) (Q4),2.10%,2.10%,2.10%
+2020-02-27,20:30:00,,,Initial Jobless Claims,219K,212K,211K
+2020-02-28,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.10%,0.20%,0.20%
+2020-02-28,20:30:00,,,Core PCE Price Index (YoY) (Jan),1.60%,1.70%,1.50%
+2020-02-28,21:45:00,,,Chicago PMI (Feb),49,45.9,42.9
+2020-03-02,22:00:00,,,ISM Manufacturing PMI (Feb),50.1,50.5,50.9
+2020-03-02,22:00:00,,,ISM Manufacturing Prices (Feb),45.9,51,53.3
+2020-03-03,22:00:00,,,Fed Interest Rate Decision,1.25%,,1.75%
+2020-03-04,20:15:00,,,ADP Nonfarm Employment Change (Feb),183K,170K,209K
+2020-03-04,22:00:00,,,ISM Non-Manufacturing PMI (Feb),57.3,54.9,55.5
+2020-03-04,22:00:00,,,ISM Non-Manufacturing Prices (Feb),50.8,,55.5
+2020-03-04,22:30:00,,,Crude Oil Inventories,0.785M,2.644M,0.452M
+2020-03-05,20:30:00,,,Initial Jobless Claims,216K,215K,219K
+2020-03-06,19:30:00,,,Nonfarm Payrolls (Feb),273K,175K,273K
+2020-03-06,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.30%,0.30%,0.20%
+2020-03-06,20:30:00,,,Unemployment Rate (Feb),3.50%,3.60%,3.60%
+2020-03-11,04:30:00,,,U.S. President Trump Speaks,,,
+2020-03-11,19:30:00,,,Core CPI (MoM) (Feb),0.20%,0.20%,0.20%
+2020-03-11,19:30:00,,,CPI (MoM) (Feb),0.10%,0.20%,0.10%
+2020-03-11,19:30:00,,,CPI (YoY) (Feb),2.30%,2.20%,2.50%
+2020-03-11,21:30:00,,,Crude Oil Inventories,7.664M,2.266M,0.785M
+2020-03-12,00:01:00,,,10-Year Note Auction,0.85%,,1.62%
+2020-03-12,19:30:00,,,Initial Jobless Claims,211K,218K,215K
+2020-03-12,19:30:00,,,PPI (MoM) (Feb),-0.60%,-0.10%,0.50%
+2020-03-13,00:01:00,,,30-Year Bond Auction,1.32%,,2.06%
+2020-03-14,02:00:00,,,U.S. President Trump Speaks,,,
+2020-03-16,04:00:00,,,FOMC Statement,,,
+2020-03-16,04:00:00,,,Fed Interest Rate Decision,0.25%,,1.25%
+2020-03-16,04:20:00,,,U.S. President Trump Speaks,,,
+2020-03-16,05:30:00,,,FOMC Press Conference,,,
+2020-03-17,19:30:00,,,Core Retail Sales (MoM) (Feb),-0.40%,0.20%,0.60%
+2020-03-17,19:30:00,,,Retail Sales (MoM) (Feb),-0.50%,0.20%,0.60%
+2020-03-17,21:00:00,,,JOLTS Job Openings (Jan),6.963M,6.476M,6.552M
+2020-03-18,21:30:00,,,Crude Oil Inventories,1.954M,3.256M,7.664M
+2020-03-19,19:30:00,,,Initial Jobless Claims,281K,220K,211K
+2020-03-19,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),-12.7,10,36.7
+2020-03-20,21:00:00,,,Existing Home Sales (Feb),5.77M,5.50M,5.42M
+2020-03-24,21:00:00,,,New Home Sales (Feb),765K,750K,800K
+2020-03-24,23:05:00,,,U.S. President Trump Speaks,,,
+2020-03-25,19:30:00,,,Durable Goods Orders (MoM) (Feb),1.20%,-0.80%,0.10%
+2020-03-25,21:30:00,,,Crude Oil Inventories,1.623M,2.774M,1.954M
+2020-03-26,18:00:00,,,Fed Chair Powell Speaks,,,
+2020-03-26,19:30:00,,,GDP (QoQ) (Q4),2.10%,2.10%,2.10%
+2020-03-26,19:30:00,,,Initial Jobless Claims,"3,283K","1,650K",282K
+2020-03-27,19:30:00,,,Core PCE Price Index (YoY) (Feb),1.80%,1.70%,1.70%
+2020-03-27,19:30:00,,,Core PCE Price Index (MoM) (Feb),0.20%,0.20%,0.20%
+2020-03-31,20:45:00,,,Chicago PMI (Mar),47.8,40,49
+2020-03-31,21:00:00,,,CB Consumer Confidence (Mar),120,110,132.6
+2020-04-01,19:15:00,,,ADP Nonfarm Employment Change (Mar),-27K,-150K,183K
+2020-04-01,21:00:00,,,ISM Manufacturing PMI (Mar),49.1,45,50.1
+2020-04-01,21:00:00,,,ISM Manufacturing Prices (Mar),37.4,41.2,45.9
+2020-04-01,21:30:00,,,Crude Oil Inventories,13.834M,3.997M,1.623M
+2020-04-02,19:30:00,,,Initial Jobless Claims,"6,648K","3,500K","3,307K"
+2020-04-03,19:30:00,,,Average Hourly Earnings (MoM) (Mar),0.40%,0.20%,0.30%
+2020-04-03,19:30:00,,,Nonfarm Payrolls (Mar),-701K,-100K,275K
+2020-04-03,19:30:00,,,Unemployment Rate (Mar),4.40%,3.80%,3.50%
+2020-04-03,21:00:00,,,ISM Non-Manufacturing PMI (Mar),52.5,44,57.3
+2020-04-03,21:00:00,,,ISM Non-Manufacturing Prices (Mar),50,,50.8
+2020-04-07,21:00:00,,,JOLTS Job Openings (Feb),6.882M,6.600M,7.012M
+2020-04-08,00:01:00,,,10-Year Note Auction,0.78%,,0.85%
+2020-04-08,21:30:00,,,Crude Oil Inventories,15.177M,9.271M,13.834M
+2020-04-09,00:01:00,,,30-Year Bond Auction,1.32%,,1.32%
+2020-04-09,01:00:00,,,FOMC Meeting Minutes,,,
+2020-04-09,19:30:00,,,Initial Jobless Claims,"6,606K","5,250K","6,867K"
+2020-04-09,19:30:00,,,PPI (MoM) (Mar),-0.20%,-0.40%,-0.60%
+2020-04-09,21:00:00,,,Fed Chair Powell Speaks,,,
+2020-04-10,All Day,,,United States - Good Friday,,,
+2020-04-10,19:30:00,,,Core CPI (MoM) (Mar),-0.10%,0.10%,0.20%
+2020-04-10,19:30:00,,,CPI (MoM) (Mar),-0.40%,-0.30%,0.10%
+2020-04-10,19:30:00,,,CPI (YoY) (Mar),1.50%,1.60%,2.30%
+2020-04-15,19:30:00,,,Core Retail Sales (MoM) (Mar),-4.50%,-4.80%,-0.40%
+2020-04-15,19:30:00,,,Retail Sales (MoM) (Mar),-8.70%,-8.00%,-0.40%
+2020-04-15,21:30:00,,,Crude Oil Inventories,19.248M,11.676M,15.177M
+2020-04-16,19:30:00,,,Initial Jobless Claims,"5,245K","5,105K","6,615K"
+2020-04-16,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),-56.6,-30,-12.7
+2020-04-21,21:00:00,,,Existing Home Sales (Mar),5.27M,5.30M,5.76M
+2020-04-22,21:30:00,,,Crude Oil Inventories,15.022M,15.150M,19.248M
+2020-04-23,19:30:00,,,Initial Jobless Claims,"4,427K","4,200K","5,237K"
+2020-04-23,21:00:00,,,New Home Sales (Mar),627K,645K,741K
+2020-04-24,19:30:00,,,Durable Goods Orders (MoM) (Mar),-14.40%,-11.90%,1.10%
+2020-04-28,21:00:00,,,CB Consumer Confidence (Apr),86.9,87.9,118.8
+2020-04-29,19:30:00,,,GDP (QoQ) (Q1),-4.80%,-4.00%,2.10%
+2020-04-29,21:30:00,,,Crude Oil Inventories,8.991M,10.619M,15.022M
+2020-04-30,01:00:00,,,FOMC Statement,,,
+2020-04-30,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-04-30,01:30:00,,,FOMC Press Conference,,,
+2020-04-30,19:30:00,,,Core PCE Price Index (YoY) (Mar),1.70%,1.60%,1.80%
+2020-04-30,19:30:00,,,Core PCE Price Index (MoM) (Mar),-0.10%,-0.10%,0.20%
+2020-04-30,19:30:00,,,Initial Jobless Claims,"3,839K","3,500K","4,442K"
+2020-04-30,20:45:00,,,Chicago PMI (Apr),35.4,38,47.8
+2020-05-01,21:00:00,,,ISM Manufacturing PMI (Apr),41.5,36.9,49.1
+2020-05-01,21:00:00,,,ISM Manufacturing Prices (Apr),35.3,35,37.4
+2020-05-05,21:00:00,,,ISM Non-Manufacturing PMI (Apr),41.8,36.8,52.5
+2020-05-05,21:00:00,,,ISM Non-Manufacturing Prices (Apr),55.1,,50
+2020-05-06,19:15:00,,,ADP Nonfarm Employment Change (Apr),"-20,236K","-20,050K",-149K
+2020-05-06,21:30:00,,,Crude Oil Inventories,4.590M,7.759M,8.991M
+2020-05-07,19:30:00,,,Initial Jobless Claims,"3,169K","3,000K","3,846K"
+2020-05-08,19:30:00,,,Average Hourly Earnings (MoM) (Apr),4.70%,0.40%,0.50%
+2020-05-08,19:30:00,,,Nonfarm Payrolls (Apr),"-20,537K","-22,000K",-870K
+2020-05-08,19:30:00,,,Unemployment Rate (Apr),14.70%,16.00%,4.40%
+2020-05-12,19:30:00,,,Core CPI (MoM) (Apr),-0.40%,-0.20%,-0.10%
+2020-05-12,19:30:00,,,CPI (MoM) (Apr),-0.80%,-0.80%,-0.40%
+2020-05-12,19:30:00,,,CPI (YoY) (Apr),0.30%,0.40%,1.50%
+2020-05-13,00:01:00,,,10-Year Note Auction,0.70%,,0.78%
+2020-05-13,19:30:00,,,PPI (MoM) (Apr),-1.30%,-0.50%,-0.20%
+2020-05-13,20:00:00,,,Fed Chair Powell Speaks,,,
+2020-05-13,21:30:00,,,Crude Oil Inventories,-0.745M,4.147M,4.590M
+2020-05-14,00:00:00,,,30-Year Bond Auction,1.34%,,1.32%
+2020-05-14,19:30:00,,,Initial Jobless Claims,"2,981K","2,500K","3,176K"
+2020-05-15,19:30:00,,,Core Retail Sales (MoM) (Apr),-17.20%,-8.60%,-4.00%
+2020-05-15,19:30:00,,,Retail Sales (MoM) (Apr),-16.40%,-12.00%,-8.30%
+2020-05-15,21:00:00,,,JOLTS Job Openings (Mar),6.191M,,7.004M
+2020-05-18,06:00:00,,,Fed Chair Powell Speaks,,,
+2020-05-19,21:00:00,,,Fed Chair Powell Testifies,,,
+2020-05-20,21:30:00,,,Crude Oil Inventories,-4.983M,1.151M,-0.745M
+2020-05-21,01:00:00,,,FOMC Meeting Minutes,,,
+2020-05-21,19:30:00,,,Initial Jobless Claims,"2,438K","2,400K","2,687K"
+2020-05-21,19:30:00,,,Philadelphia Fed Manufacturing Index (May),-43.1,-41.5,-56.6
+2020-05-21,21:00:00,,,Existing Home Sales (Apr),4.33M,4.30M,5.27M
+2020-05-22,01:30:00,,,Fed Chair Powell Speaks,,,
+2020-05-25,All Day,,,United States - Memorial Day,,,
+2020-05-26,21:00:00,,,CB Consumer Confidence (May),86.6,88,85.7
+2020-05-26,21:00:00,,,New Home Sales (Apr),623K,490K,619K
+2020-05-28,19:30:00,,,Durable Goods Orders (MoM) (Apr),-17.20%,-19.00%,-16.60%
+2020-05-28,19:30:00,,,GDP (QoQ) (Q1),-5.00%,-4.80%,-4.80%
+2020-05-28,19:30:00,,,Initial Jobless Claims,"2,123K","2,100K","2,446K"
+2020-05-28,22:00:00,,,Crude Oil Inventories,7.928M,-1.944M,-4.983M
+2020-05-29,19:30:00,,,Core PCE Price Index (YoY) (Apr),1.00%,1.10%,1.70%
+2020-05-29,19:30:00,,,Core PCE Price Index (MoM) (Apr),-0.40%,-0.30%,-0.10%
+2020-05-29,20:45:00,,,Chicago PMI (May),32.3,40,35.4
+2020-05-29,22:00:00,,,Fed Chair Powell Speaks,,,
+2020-05-30,Tentative,,,U.S. President Trump Speaks,,,
+2020-06-01,21:00:00,,,ISM Manufacturing PMI (May),43.1,43,41.5
+2020-06-01,21:00:00,,,ISM Manufacturing Prices (May),40.8,37,35.3
+2020-06-03,19:15:00,,,ADP Nonfarm Employment Change (May),"-2,760K","-9,000K","-19,557K"
+2020-06-03,21:00:00,,,ISM Non-Manufacturing PMI (May),45.4,44,41.8
+2020-06-03,21:00:00,,,ISM Non-Manufacturing Prices (May),55.6,,55.1
+2020-06-03,21:30:00,,,Crude Oil Inventories,-2.077M,3.038M,7.928M
+2020-06-04,19:30:00,,,Initial Jobless Claims,"1,877K","1,800K","2,126K"
+2020-06-05,19:30:00,,,Average Hourly Earnings (MoM) (May),-1.00%,1.00%,4.70%
+2020-06-05,19:30:00,,,Nonfarm Payrolls (May),"2,509K","-8,000K","-20,687K"
+2020-06-05,19:30:00,,,Unemployment Rate (May),13.30%,19.70%,14.70%
+2020-06-05,21:00:00,,,U.S. President Trump Speaks,,,
+2020-06-09,21:00:00,,,JOLTS Job Openings (Apr),5.046M,5.000M,6.011M
+2020-06-10,00:01:00,,,10-Year Note Auction,0.83%,,0.70%
+2020-06-10,19:30:00,,,Core CPI (MoM) (May),-0.10%,-0.10%,-0.40%
+2020-06-10,19:30:00,,,CPI (MoM) (May),-0.10%,-0.10%,-0.80%
+2020-06-10,19:30:00,,,CPI (YoY) (May),0.10%,0.20%,0.30%
+2020-06-10,21:30:00,,,Crude Oil Inventories,5.720M,-1.738M,-2.077M
+2020-06-11,01:00:00,,,FOMC Economic Projections,,,
+2020-06-11,01:00:00,,,FOMC Statement,,,
+2020-06-11,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-06-11,01:30:00,,,FOMC Press Conference,,,
+2020-06-11,19:30:00,,,Initial Jobless Claims,"1,542K","1,550K","1,897K"
+2020-06-11,19:30:00,,,PPI (MoM) (May),0.40%,0.10%,-1.30%
+2020-06-12,00:01:00,,,30-Year Bond Auction,1.45%,,1.34%
+2020-06-16,19:30:00,,,Core Retail Sales (MoM) (May),12.40%,5.50%,-15.20%
+2020-06-16,19:30:00,,,Retail Sales (MoM) (May),17.70%,8.00%,-14.70%
+2020-06-16,21:00:00,,,Fed Chair Powell Testifies,,,
+2020-06-17,21:30:00,,,Crude Oil Inventories,1.215M,-0.152M,5.720M
+2020-06-17,23:00:00,,,Fed Chair Powell Testifies,,,
+2020-06-18,19:30:00,,,Initial Jobless Claims,"1,508K","1,300K","1,566K"
+2020-06-18,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),27.5,-23,-43.1
+2020-06-20,00:00:00,,,Fed Chair Powell Speaks,,,
+2020-06-22,21:00:00,,,Existing Home Sales (May),3.91M,4.12M,4.33M
+2020-06-23,21:00:00,,,New Home Sales (May),676K,640K,580K
+2020-06-24,21:30:00,,,Crude Oil Inventories,1.442M,0.299M,1.215M
+2020-06-25,19:30:00,,,Durable Goods Orders (MoM) (May),15.80%,10.90%,-18.10%
+2020-06-25,19:30:00,,,GDP (QoQ) (Q1),-5.00%,-5.00%,-5.00%
+2020-06-25,19:30:00,,,Initial Jobless Claims,"1,480K","1,300K","1,540K"
+2020-06-26,19:30:00,,,Core PCE Price Index (YoY) (May),1.00%,0.90%,1.00%
+2020-06-26,19:30:00,,,Core PCE Price Index (MoM) (May),0.10%,0.20%,-0.40%
+2020-06-30,20:45:00,,,Chicago PMI (Jun),36.6,45,32.3
+2020-06-30,21:00:00,,,CB Consumer Confidence (Jun),98.1,91.8,85.9
+2020-06-30,23:30:00,,,Fed Chair Powell Testifies,,,
+2020-07-01,19:15:00,,,ADP Nonfarm Employment Change (Jun),"2,369K","3,000K","3,065K"
+2020-07-01,21:00:00,,,ISM Manufacturing PMI (Jun),52.6,49.5,43.1
+2020-07-01,21:00:00,,,ISM Manufacturing Prices (Jun),51.3,43,40.8
+2020-07-01,21:30:00,,,Crude Oil Inventories,-7.195M,-0.710M,1.442M
+2020-07-02,01:00:00,,,FOMC Meeting Minutes,,,
+2020-07-02,19:30:00,,,Average Hourly Earnings (MoM) (Jun),-1.20%,-0.70%,-1.00%
+2020-07-02,19:30:00,,,Initial Jobless Claims,"1,427K","1,355K","1,482K"
+2020-07-02,19:30:00,,,Nonfarm Payrolls (Jun),"4,800K","3,000K","2,699K"
+2020-07-02,19:30:00,,,Unemployment Rate (Jun),11.10%,12.30%,13.30%
+2020-07-02,20:30:00,,,U.S. President Trump Speaks,,,
+2020-07-03,All Day,,,United States - Independence Day,,,
+2020-07-06,21:00:00,,,ISM Non-Manufacturing PMI (Jun),57.1,50.1,45.4
+2020-07-06,21:00:00,,,ISM Non-Manufacturing Prices (Jun),62.4,,55.6
+2020-07-07,21:00:00,,,JOLTS Job Openings (May),5.397M,4.850M,4.996M
+2020-07-08,21:30:00,,,Crude Oil Inventories,5.654M,-3.114M,-7.195M
+2020-07-09,00:01:00,,,10-Year Note Auction,0.65%,,0.83%
+2020-07-09,19:30:00,,,Initial Jobless Claims,"1,314K","1,375K","1,413K"
+2020-07-10,00:01:00,,,30-Year Bond Auction,1.33%,,1.45%
+2020-07-10,19:30:00,,,PPI (MoM) (Jun),-0.20%,0.40%,0.40%
+2020-07-14,19:30:00,,,Core CPI (MoM) (Jun),0.20%,0.10%,-0.10%
+2020-07-14,19:30:00,,,CPI (MoM) (Jun),0.60%,0.50%,-0.10%
+2020-07-14,19:30:00,,,CPI (YoY) (Jun),0.60%,0.60%,0.10%
+2020-07-15,21:30:00,,,Crude Oil Inventories,-7.493M,-2.098M,5.654M
+2020-07-16,19:30:00,,,Core Retail Sales (MoM) (Jun),7.30%,5.00%,12.10%
+2020-07-16,19:30:00,,,Initial Jobless Claims,"1,300K","1,250K","1,310K"
+2020-07-16,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),24.1,20,27.5
+2020-07-16,19:30:00,,,Retail Sales (MoM) (Jun),7.50%,5.00%,18.20%
+2020-07-22,21:00:00,,,Existing Home Sales (Jun),4.72M,4.78M,3.91M
+2020-07-22,21:30:00,,,Crude Oil Inventories,4.892M,-2.088M,-7.493M
+2020-07-23,19:30:00,,,Initial Jobless Claims,"1,416K","1,300K","1,307K"
+2020-07-24,21:00:00,,,New Home Sales (Jun),776K,700K,682K
+2020-07-27,19:30:00,,,Durable Goods Orders (MoM) (Jun),7.30%,7.20%,15.10%
+2020-07-28,21:00:00,,,CB Consumer Confidence (Jul),92.6,94.5,98.3
+2020-07-29,21:30:00,,,Crude Oil Inventories,-10.612M,0.357M,4.892M
+2020-07-30,01:00:00,,,FOMC Statement,,,
+2020-07-30,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-07-30,01:30:00,,,FOMC Press Conference,,,
+2020-07-30,19:30:00,,,GDP (QoQ) (Q2),-32.90%,-34.10%,-5.00%
+2020-07-30,19:30:00,,,Initial Jobless Claims,"1,434K","1,450K","1,422K"
+2020-07-31,19:30:00,,,Core PCE Price Index (YoY) (Jun),0.90%,1.00%,1.00%
+2020-07-31,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.20%,0.20%,0.20%
+2020-07-31,20:45:00,,,Chicago PMI (Jul),51.9,43.9,36.6
+2020-08-03,21:00:00,,,ISM Manufacturing PMI (Jul),54.2,53.6,52.6
+2020-08-03,21:00:00,,,ISM Manufacturing Prices (Jul),53.2,52,51.3
+2020-08-05,19:15:00,,,ADP Nonfarm Employment Change (Jul),167K,"1,500K","4,314K"
+2020-08-05,21:00:00,,,ISM Non-Manufacturing PMI (Jul),58.1,55,57.1
+2020-08-05,21:00:00,,,ISM Non-Manufacturing Prices (Jul),57.6,,62.4
+2020-08-05,21:30:00,,,Crude Oil Inventories,-7.373M,-3.001M,-10.612M
+2020-08-06,19:30:00,,,Initial Jobless Claims,"1,186K","1,415K","1,435K"
+2020-08-07,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.20%,-0.50%,-1.30%
+2020-08-07,19:30:00,,,Nonfarm Payrolls (Jul),"1,763K","1,600K","4,791K"
+2020-08-07,19:30:00,,,Unemployment Rate (Jul),10.20%,10.50%,11.10%
+2020-08-10,21:00:00,,,JOLTS Job Openings (Jun),5.889M,,5.371M
+2020-08-11,19:30:00,,,PPI (MoM) (Jul),0.60%,0.30%,-0.20%
+2020-08-12,19:30:00,,,Core CPI (MoM) (Jul),0.60%,0.20%,0.20%
+2020-08-12,19:30:00,,,CPI (MoM) (Jul),0.60%,0.30%,0.60%
+2020-08-12,19:30:00,,,CPI (YoY) (Jul),1.00%,0.80%,0.60%
+2020-08-12,21:30:00,,,Crude Oil Inventories,-4.512M,-2.875M,-7.373M
+2020-08-13,00:01:00,,,10-Year Note Auction,0.66%,,0.65%
+2020-08-13,19:30:00,,,Initial Jobless Claims,963K,"1,120K","1,191K"
+2020-08-14,00:01:00,,,30-Year Bond Auction,1.41%,,1.33%
+2020-08-14,19:30:00,,,Core Retail Sales (MoM) (Jul),1.90%,1.30%,8.30%
+2020-08-14,19:30:00,,,Retail Sales (MoM) (Jul),1.20%,1.90%,8.40%
+2020-08-19,21:30:00,,,Crude Oil Inventories,-1.632M,-2.670M,-4.512M
+2020-08-20,01:00:00,,,FOMC Meeting Minutes,,,
+2020-08-20,19:30:00,,,Initial Jobless Claims,"1,106K",925K,971K
+2020-08-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),17.2,21,24.1
+2020-08-21,21:00:00,,,Existing Home Sales (Jul),5.86M,5.38M,4.70M
+2020-08-25,21:00:00,,,CB Consumer Confidence (Aug),84.8,93,91.7
+2020-08-25,21:00:00,,,New Home Sales (Jul),901K,785K,791K
+2020-08-26,19:30:00,,,Durable Goods Orders (MoM) (Jul),11.20%,4.30%,7.70%
+2020-08-26,21:30:00,,,Crude Oil Inventories,-4.689M,-3.694M,-1.632M
+2020-08-27,19:30:00,,,GDP (QoQ) (Q2),-31.70%,-32.50%,-32.90%
+2020-08-27,19:30:00,,,Initial Jobless Claims,"1,006K","1,000K","1,104K"
+2020-08-27,20:10:00,,,Fed Chair Powell Speaks,,,
+2020-08-28,19:30:00,,,Core PCE Price Index (YoY) (Jul),1.30%,1.20%,1.10%
+2020-08-28,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.30%,0.50%,0.30%
+2020-08-28,20:45:00,,,Chicago PMI (Aug),51.2,52,51.9
+2020-09-01,21:00:00,,,ISM Manufacturing PMI (Aug),56,54.5,54.2
+2020-09-01,21:00:00,,,ISM Manufacturing Prices (Aug),59.5,54,53.2
+2020-09-02,19:15:00,,,ADP Nonfarm Employment Change (Aug),428K,950K,212K
+2020-09-02,21:30:00,,,Crude Oil Inventories,-9.362M,-1.887M,-4.689M
+2020-09-03,19:30:00,,,Initial Jobless Claims,881K,950K,"1,011K"
+2020-09-03,21:00:00,,,ISM Non-Manufacturing PMI (Aug),56.9,57,58.1
+2020-09-03,21:00:00,,,ISM Non-Manufacturing Prices (Aug),64.2,,57.6
+2020-09-04,19:30:00,,,Average Hourly Earnings (MoM) (Aug),0.40%,,0.10%
+2020-09-04,19:30:00,,,Nonfarm Payrolls (Aug),"1,371K","1,400K","1,734K"
+2020-09-04,19:30:00,,,Unemployment Rate (Aug),8.40%,9.80%,10.20%
+2020-09-07,All Day,,,United States - Labor Day,,,
+2020-09-09,21:00:00,,,JOLTS Job Openings (Jul),6.618M,6.000M,6.001M
+2020-09-10,00:01:00,,,10-Year Note Auction,0.70%,,0.68%
+2020-09-10,19:30:00,,,Initial Jobless Claims,884K,846K,884K
+2020-09-10,19:30:00,,,PPI (MoM) (Aug),0.30%,0.20%,0.60%
+2020-09-10,22:00:00,,,Crude Oil Inventories,2.032M,-1.335M,-9.362M
+2020-09-11,00:01:00,,,30-Year Bond Auction,1.47%,,1.41%
+2020-09-11,19:30:00,,,Core CPI (MoM) (Aug),0.40%,0.20%,0.60%
+2020-09-11,19:30:00,,,CPI (MoM) (Aug),0.40%,0.30%,0.60%
+2020-09-11,19:30:00,,,CPI (YoY) (Aug),1.30%,1.20%,1.00%
+2020-09-16,19:30:00,,,Core Retail Sales (MoM) (Aug),0.70%,0.90%,1.30%
+2020-09-16,19:30:00,,,Retail Sales (MoM) (Aug),0.60%,1.00%,0.90%
+2020-09-16,21:30:00,,,Crude Oil Inventories,-4.389M,1.271M,2.032M
+2020-09-17,01:00:00,,,FOMC Economic Projections,,,
+2020-09-17,01:00:00,,,FOMC Statement,,,
+2020-09-17,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-09-17,01:30:00,,,FOMC Press Conference,,,
+2020-09-17,19:30:00,,,Initial Jobless Claims,860K,850K,893K
+2020-09-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Sep),15,15,17.2
+2020-09-21,21:00:00,,,Fed Chair Powell Speaks,,,
+2020-09-22,21:00:00,,,Existing Home Sales (Aug),6.00M,6.00M,5.86M
+2020-09-22,21:30:00,,,Fed Chair Powell Testifies,,,
+2020-09-23,21:00:00,,,Fed Chair Powell Testifies,,,
+2020-09-23,21:30:00,,,Crude Oil Inventories,-1.639M,-2.325M,-4.389M
+2020-09-24,19:30:00,,,Initial Jobless Claims,870K,840K,866K
+2020-09-24,21:00:00,,,Fed Chair Powell Testifies,,,
+2020-09-24,21:00:00,,,New Home Sales (Aug),"1,011K",895K,965K
+2020-09-25,19:30:00,,,Durable Goods Orders (MoM) (Aug),0.40%,1.50%,11.70%
+2020-09-29,21:00:00,,,CB Consumer Confidence (Sep),101.8,89.2,86.3
+2020-09-30,19:15:00,,,ADP Nonfarm Employment Change (Sep),749K,650K,481K
+2020-09-30,19:30:00,,,GDP (QoQ) (Q2),-31.40%,-31.70%,-31.70%
+2020-09-30,20:45:00,,,Chicago PMI (Sep),62.4,52,51.2
+2020-09-30,21:30:00,,,Crude Oil Inventories,-1.980M,1.569M,-1.639M
+2020-10-01,19:30:00,,,Core PCE Price Index (YoY) (Aug),1.60%,1.40%,1.40%
+2020-10-01,19:30:00,,,Core PCE Price Index (MoM) (Aug),0.30%,0.30%,0.40%
+2020-10-01,19:30:00,,,Initial Jobless Claims,837K,850K,873K
+2020-10-01,21:00:00,,,ISM Manufacturing PMI (Sep),55.4,56.4,56
+2020-10-01,21:00:00,,,ISM Manufacturing Prices (Sep),62.8,58.6,59.5
+2020-10-02,19:30:00,,,Average Hourly Earnings (MoM) (Sep),0.10%,0.20%,0.30%
+2020-10-02,19:30:00,,,Nonfarm Payrolls (Sep),661K,850K,"1,489K"
+2020-10-02,19:30:00,,,Unemployment Rate (Sep),7.90%,8.20%,8.40%
+2020-10-05,21:00:00,,,ISM Non-Manufacturing PMI (Sep),57.8,56.3,56.9
+2020-10-05,21:00:00,,,ISM Non-Manufacturing Prices (Sep),59,,64.2
+2020-10-06,21:00:00,,,JOLTS Job Openings (Aug),6.493M,6.685M,6.697M
+2020-10-06,21:40:00,,,Fed Chair Powell Speaks,,,
+2020-10-07,21:30:00,,,Crude Oil Inventories,0.501M,0.294M,-1.980M
+2020-10-08,00:01:00,,,10-Year Note Auction,0.77%,,0.70%
+2020-10-08,01:00:00,,,FOMC Meeting Minutes,,,
+2020-10-08,01:00:00,,,FOMC Statement,,,
+2020-10-08,19:30:00,,,Initial Jobless Claims,840K,820K,849K
+2020-10-09,00:00:00,,,30-Year Bond Auction,1.58%,,1.47%
+2020-10-13,19:30:00,,,Core CPI (MoM) (Sep),0.20%,0.20%,0.40%
+2020-10-13,19:30:00,,,CPI (MoM) (Sep),0.20%,0.20%,0.40%
+2020-10-13,19:30:00,,,CPI (YoY) (Sep),1.40%,1.40%,1.30%
+2020-10-14,19:30:00,,,PPI (MoM) (Sep),0.40%,0.20%,0.30%
+2020-10-15,19:30:00,,,Initial Jobless Claims,898K,825K,845K
+2020-10-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Oct),32.3,14,15
+2020-10-15,22:00:00,,,Crude Oil Inventories,-3.818M,-2.835M,0.501M
+2020-10-16,04:00:00,,,Sec Kashkari Speaks,,,
+2020-10-16,19:30:00,,,Core Retail Sales (MoM) (Sep),1.50%,0.50%,0.50%
+2020-10-16,19:30:00,,,Retail Sales (MoM) (Sep),1.90%,0.70%,0.60%
+2020-10-19,19:00:00,,,Fed Chair Powell Speaks,,,
+2020-10-21,21:30:00,,,Crude Oil Inventories,-1.001M,-1.021M,-3.818M
+2020-10-22,19:30:00,,,Initial Jobless Claims,787K,860K,842K
+2020-10-22,21:00:00,,,Existing Home Sales (Sep),6.54M,6.30M,5.98M
+2020-10-26,21:00:00,,,New Home Sales (Sep),959K,"1,025K",994K
+2020-10-27,19:30:00,,,Durable Goods Orders (MoM) (Sep),1.90%,0.50%,0.40%
+2020-10-27,21:00:00,,,CB Consumer Confidence (Oct),100.9,102,101.3
+2020-10-28,21:30:00,,,Crude Oil Inventories,4.320M,1.230M,-1.001M
+2020-10-29,19:30:00,,,GDP (QoQ) (Q3),33.10%,31.00%,-31.40%
+2020-10-29,19:30:00,,,Initial Jobless Claims,751K,775K,791K
+2020-10-30,19:30:00,,,Core PCE Price Index (MoM) (Sep),0.20%,0.20%,0.30%
+2020-10-30,19:30:00,,,Core PCE Price Index (YoY) (Sep),1.50%,1.70%,1.40%
+2020-10-30,20:45:00,,,Chicago PMI (Oct),61.1,58,62.4
+2020-11-02,22:00:00,,,ISM Manufacturing PMI (Oct),59.3,55.8,55.4
+2020-11-02,22:00:00,,,ISM Manufacturing Prices (Oct),65.5,60,62.8
+2020-11-03,20:00:00,,,U.S. Presidential Election,,,
+2020-11-04,20:15:00,,,ADP Nonfarm Employment Change (Oct),365K,650K,749K
+2020-11-04,22:00:00,,,ISM Non-Manufacturing PMI (Oct),56.6,57.5,57.8
+2020-11-04,22:00:00,,,ISM Non-Manufacturing Prices (Oct),63.9,,59
+2020-11-04,22:30:00,,,Crude Oil Inventories,-7.998M,0.890M,4.320M
+2020-11-05,20:30:00,,,Initial Jobless Claims,751K,732K,758K
+2020-11-06,02:00:00,,,FOMC Statement,,,
+2020-11-06,02:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-11-06,02:30:00,,,FOMC Press Conference,,,
+2020-11-06,20:30:00,,,Average Hourly Earnings (MoM) (Oct),0.10%,0.20%,0.10%
+2020-11-06,20:30:00,,,Nonfarm Payrolls (Oct),638K,600K,672K
+2020-11-06,20:30:00,,,Unemployment Rate (Oct),6.90%,7.70%,7.90%
+2020-11-10,22:00:00,,,JOLTS Job Openings (Sep),6.436M,6.500M,6.352M
+2020-11-11,01:01:00,,,10-Year Note Auction,0.96%,,0.77%
+2020-11-12,20:30:00,,,Core CPI (MoM) (Oct),0.00%,0.20%,0.20%
+2020-11-12,20:30:00,,,CPI (MoM) (Oct),0.00%,0.10%,0.20%
+2020-11-12,20:30:00,,,CPI (YoY) (Oct),1.20%,1.30%,1.40%
+2020-11-12,20:30:00,,,Initial Jobless Claims,709K,735K,757K
+2020-11-12,23:00:00,,,Crude Oil Inventories,4.278M,-0.913M,-7.998M
+2020-11-13,01:00:00,,,30-Year Bond Auction,1.68%,,1.58%
+2020-11-13,20:30:00,,,PPI (MoM) (Oct),0.30%,0.20%,0.40%
+2020-11-17,20:30:00,,,Core Retail Sales (MoM) (Oct),0.20%,0.60%,1.20%
+2020-11-17,20:30:00,,,Retail Sales (MoM) (Oct),0.30%,0.50%,1.60%
+2020-11-18,22:30:00,,,Crude Oil Inventories,0.768M,1.650M,4.278M
+2020-11-19,20:30:00,,,Initial Jobless Claims,742K,707K,711K
+2020-11-19,20:30:00,,,Philadelphia Fed Manufacturing Index (Nov),26.3,22,32.3
+2020-11-19,22:00:00,,,Existing Home Sales (Oct),6.85M,6.45M,6.57M
+2020-11-24,22:00:00,,,CB Consumer Confidence (Nov),96.1,98,101.4
+2020-11-25,19:30:00,,,Durable Goods Orders (MoM) (Sep),1.30%,0.90%,2.10%
+2020-11-25,20:30:00,,,GDP (QoQ) (Q3),33.10%,33.20%,33.10%
+2020-11-25,20:30:00,,,Initial Jobless Claims,778K,730K,748K
+2020-11-25,22:00:00,,,Core PCE Price Index (MoM) (Oct),0.00%,0.10%,0.20%
+2020-11-25,22:00:00,,,Core PCE Price Index (YoY) (Oct),1.40%,1.40%,1.60%
+2020-11-25,22:00:00,,,New Home Sales (Oct),999K,970K,"1,002K"
+2020-11-25,22:30:00,,,Crude Oil Inventories,-0.754M,0.127M,0.768M
+2020-11-26,All Day,,,United States - Thanksgiving Day,,,
+2020-11-26,02:00:00,,,FOMC Meeting Minutes,,,
+2020-11-27,,,,United States - Thanksgiving Day - Early close at 13:00,,,
+2020-11-30,21:45:00,,,Chicago PMI (Nov),58.2,59,61.1
+2020-12-01,22:00:00,,,Fed Chair Powell Testifies,,,
+2020-12-01,22:00:00,,,ISM Manufacturing PMI (Nov),57.5,58,59.3
+2020-12-01,22:00:00,,,ISM Manufacturing Prices (Nov),65.4,65,65.5
+2020-12-02,20:15:00,,,ADP Nonfarm Employment Change (Nov),307K,410K,404K
+2020-12-02,22:00:00,,,Fed Chair Powell Testifies,,,
+2020-12-02,22:30:00,,,Crude Oil Inventories,-0.679M,-2.358M,-0.754M
+2020-12-03,20:30:00,,,Initial Jobless Claims,712K,775K,787K
+2020-12-03,22:00:00,,,ISM Non-Manufacturing PMI (Nov),55.9,56,56.6
+2020-12-03,22:00:00,,,ISM Non-Manufacturing Prices (Nov),66.1,,63.9
+2020-12-04,20:30:00,,,Average Hourly Earnings (MoM) (Nov),0.30%,0.10%,0.10%
+2020-12-04,20:30:00,,,Nonfarm Payrolls (Nov),245K,469K,610K
+2020-12-04,20:30:00,,,Unemployment Rate (Nov),6.70%,6.80%,6.90%
+2020-12-09,22:00:00,,,JOLTS Job Openings (Oct),6.652M,6.300M,6.494M
+2020-12-09,22:30:00,,,Crude Oil Inventories,15.189M,-1.424M,-0.679M
+2020-12-10,01:00:00,,,10-Year Note Auction,0.95%,,0.96%
+2020-12-10,20:30:00,,,Core CPI (MoM) (Nov),0.20%,0.10%,0.20%
+2020-12-10,20:30:00,,,CPI (MoM) (Nov),0.20%,0.10%,0.20%
+2020-12-10,20:30:00,,,CPI (YoY) (Nov),1.20%,1.10%,1.20%
+2020-12-10,20:30:00,,,Initial Jobless Claims,853K,725K,716K
+2020-12-11,01:01:00,,,30-Year Bond Auction,1.67%,,1.68%
+2020-12-11,20:30:00,,,PPI (MoM) (Nov),0.10%,0.20%,0.30%
+2020-12-16,20:30:00,,,Core Retail Sales (MoM) (Nov),-0.90%,0.10%,-0.10%
+2020-12-16,20:30:00,,,Retail Sales (MoM) (Nov),-1.10%,-0.30%,-0.10%
+2020-12-16,22:30:00,,,Crude Oil Inventories,-3.135M,-1.937M,15.189M
+2020-12-17,02:00:00,,,FOMC Economic Projections,,,
+2020-12-17,02:00:00,,,FOMC Statement,,,
+2020-12-17,02:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2020-12-17,02:30:00,,,FOMC Press Conference,,,
+2020-12-17,20:30:00,,,Initial Jobless Claims,885K,800K,862K
+2020-12-17,20:30:00,,,Philadelphia Fed Manufacturing Index (Dec),11.1,20,26.3
+2020-12-22,20:30:00,,,GDP (QoQ) (Q3),33.40%,33.10%,33.10%
+2020-12-22,22:00:00,,,CB Consumer Confidence (Dec),88.6,97,92.9
+2020-12-22,22:00:00,,,Existing Home Sales (Nov),6.69M,6.70M,6.86M
+2020-12-23,20:30:00,,,Core PCE Price Index (MoM) (Nov),0.00%,0.10%,0.20%
+2020-12-23,20:30:00,,,Core PCE Price Index (YoY) (Nov),1.40%,1.50%,1.40%
+2020-12-23,20:30:00,,,Durable Goods Orders (MoM) (Nov),0.90%,0.60%,1.80%
+2020-12-23,20:30:00,,,Initial Jobless Claims,803K,885K,892K
+2020-12-23,22:00:00,,,New Home Sales (Nov),841K,995K,945K
+2020-12-23,22:30:00,,,Crude Oil Inventories,-0.562M,-3.186M,-3.135M
+2020-12-24,,,,United States - Christmas - Early close at 13:00,,,
+2020-12-25,All Day,,,United States - Christmas,,,
+2020-12-30,21:45:00,,,Chicago PMI (Dec),59.5,57,58.2
+2020-12-30,22:30:00,,,Crude Oil Inventories,-6.065M,-2.583M,-0.562M
+2020-12-31,20:30:00,,,Initial Jobless Claims,787K,833K,806K
+2021-01-01,All Day,,,United States - New Year's Day,,,
+2021-01-05,22:00:00,,,ISM Manufacturing PMI (Dec),60.7,56.6,57.5
+2021-01-05,22:00:00,,,ISM Manufacturing Prices (Dec),77.6,65.7,65.4
+2021-01-06,20:15:00,,,ADP Nonfarm Employment Change (Dec),-123K,88K,304K
+2021-01-06,22:30:00,,,Crude Oil Inventories,-8.010M,-2.133M,-6.065M
+2021-01-07,02:00:00,,,FOMC Meeting Minutes,,,
+2021-01-07,20:30:00,,,Initial Jobless Claims,787K,800K,790K
+2021-01-07,22:00:00,,,ISM Non-Manufacturing PMI (Dec),57.2,54.6,55.9
+2021-01-07,22:00:00,,,ISM Non-Manufacturing Prices (Dec),64.8,,66.1
+2021-01-08,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.80%,0.20%,0.30%
+2021-01-08,20:30:00,,,Nonfarm Payrolls (Dec),-140K,71K,336K
+2021-01-08,20:30:00,,,Unemployment Rate (Dec),6.70%,6.80%,6.70%
+2021-01-12,22:00:00,,,JOLTS Job Openings (Nov),6.527M,,6.632M
+2021-01-13,01:00:00,,,10-Year Note Auction,1.16%,,0.95%
+2021-01-13,20:30:00,,,Core CPI (MoM) (Dec),0.10%,0.10%,0.20%
+2021-01-13,20:30:00,,,CPI (MoM) (Dec),0.40%,0.40%,0.20%
+2021-01-13,20:30:00,,,CPI (YoY) (Dec),1.40%,1.30%,1.20%
+2021-01-13,22:30:00,,,Crude Oil Inventories,-3.247M,-2.266M,-8.010M
+2021-01-14,01:01:00,,,30-Year Bond Auction,1.82%,,1.67%
+2021-01-14,20:30:00,,,Initial Jobless Claims,965K,795K,784K
+2021-01-15,00:30:00,,,Fed Chair Powell Speaks,,,
+2021-01-15,07:15:00,,,U.S. President Biden Speaks,,,
+2021-01-15,20:30:00,,,Core Retail Sales (MoM) (Dec),-1.40%,-0.10%,-1.30%
+2021-01-15,20:30:00,,,PPI (MoM) (Dec),0.30%,0.40%,0.10%
+2021-01-15,20:30:00,,,Retail Sales (MoM) (Dec),-0.70%,-0.20%,-1.40%
+2021-01-18,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2021-01-20,Tentative,,,U.S. President Biden Speaks,,,
+2021-01-21,20:30:00,,,Initial Jobless Claims,900K,910K,926K
+2021-01-21,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),26.5,12,9.1
+2021-01-22,22:00:00,,,Existing Home Sales (Dec),6.76M,6.55M,6.71M
+2021-01-22,23:00:00,,,Crude Oil Inventories,4.351M,-1.167M,-3.247M
+2021-01-26,22:00:00,,,CB Consumer Confidence (Jan),89.3,89,87.1
+2021-01-27,20:30:00,,,Durable Goods Orders (MoM) (Dec),0.20%,0.90%,1.20%
+2021-01-27,22:30:00,,,Crude Oil Inventories,-9.910M,0.430M,4.351M
+2021-01-28,02:00:00,,,FOMC Statement,,,
+2021-01-28,02:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-01-28,02:30:00,,,FOMC Press Conference,,,
+2021-01-28,20:30:00,,,GDP (QoQ) (Q4),4.00%,4.00%,33.40%
+2021-01-28,20:30:00,,,Initial Jobless Claims,847K,875K,914K
+2021-01-28,22:00:00,,,New Home Sales (Dec),842K,865K,829K
+2021-01-29,20:30:00,,,Core PCE Price Index (YoY) (Dec),1.50%,1.30%,1.40%
+2021-01-29,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.30%,0.10%,
+2021-01-29,21:45:00,,,Chicago PMI (Jan),63.8,58.5,58.7
+2021-02-01,22:00:00,,,ISM Manufacturing PMI (Jan),58.7,60,60.5
+2021-02-01,22:00:00,,,ISM Manufacturing Prices (Jan),82.1,77,77.6
+2021-02-03,20:15:00,,,ADP Nonfarm Employment Change (Jan),174K,49K,-78K
+2021-02-03,22:00:00,,,ISM Non-Manufacturing PMI (Jan),58.7,56.8,57.7
+2021-02-03,22:00:00,,,ISM Non-Manufacturing Prices (Jan),64.2,,64.4
+2021-02-03,22:30:00,,,Crude Oil Inventories,-0.994M,0.446M,-9.910M
+2021-02-04,20:30:00,,,Initial Jobless Claims,779K,830K,812K
+2021-02-05,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.20%,0.30%,1.00%
+2021-02-05,20:30:00,,,Nonfarm Payrolls (Jan),49K,50K,-227K
+2021-02-05,20:30:00,,,Unemployment Rate (Jan),6.30%,6.70%,6.70%
+2021-02-09,22:00:00,,,JOLTS Job Openings (Dec),6.646M,6.500M,6.572M
+2021-02-10,20:30:00,,,Core CPI (MoM) (Jan),0.00%,0.20%,0.10%
+2021-02-10,20:30:00,,,CPI (MoM) (Jan),0.30%,0.30%,0.20%
+2021-02-10,20:30:00,,,CPI (YoY) (Jan),1.40%,1.50%,1.30%
+2021-02-10,22:30:00,,,Crude Oil Inventories,-6.644M,0.985M,-0.994M
+2021-02-11,01:00:00,,,10-Year Note Auction,1.16%,,1.16%
+2021-02-11,02:00:00,,,Fed Chair Powell Speaks,,,
+2021-02-11,20:30:00,,,Initial Jobless Claims,793K,757K,812K
+2021-02-12,01:00:00,,,30-Year Bond Auction,1.93%,,1.82%
+2021-02-15,All Day,,,United States - Presidents' Day,,,
+2021-02-17,20:30:00,,,Core Retail Sales (MoM) (Jan),5.90%,1.00%,-1.80%
+2021-02-17,20:30:00,,,PPI (MoM) (Jan),1.30%,0.40%,0.30%
+2021-02-17,20:30:00,,,Retail Sales (MoM) (Jan),5.30%,1.10%,-1.00%
+2021-02-18,02:00:00,,,FOMC Meeting Minutes,,,
+2021-02-18,20:30:00,,,Initial Jobless Claims,861K,765K,848K
+2021-02-18,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),23.1,20,26.5
+2021-02-18,23:00:00,,,Crude Oil Inventories,-7.258M,-2.429M,-6.644M
+2021-02-19,22:00:00,,,Existing Home Sales (Jan),6.69M,6.61M,6.65M
+2021-02-19,Tentative,,,Fed Monetary Policy Report,,,
+2021-02-23,22:00:00,,,CB Consumer Confidence (Feb),91.3,90,88.9
+2021-02-23,22:00:00,,,Fed Chair Powell Testifies,,,
+2021-02-24,22:00:00,,,Fed Chair Powell Testifies,,,
+2021-02-24,22:00:00,,,New Home Sales (Jan),923K,855K,885K
+2021-02-24,22:30:00,,,Crude Oil Inventories,1.285M,-5.190M,-7.258M
+2021-02-25,20:30:00,,,Durable Goods Orders (MoM) (Jan),3.40%,1.10%,1.20%
+2021-02-25,20:30:00,,,GDP (QoQ) (Q4),4.10%,4.20%,4.00%
+2021-02-25,20:30:00,,,Initial Jobless Claims,730K,838K,841K
+2021-02-26,20:30:00,,,Core PCE Price Index (YoY) (Jan),1.50%,1.40%,1.40%
+2021-02-26,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.30%,0.20%,0.30%
+2021-02-26,21:45:00,,,Chicago PMI (Feb),59.5,61.1,63.8
+2021-03-01,22:00:00,,,ISM Manufacturing PMI (Feb),60.8,58.8,58.7
+2021-03-01,22:00:00,,,ISM Manufacturing Prices (Feb),86,80,82.1
+2021-03-03,20:15:00,,,ADP Nonfarm Employment Change (Feb),117K,177K,195K
+2021-03-03,22:00:00,,,ISM Non-Manufacturing PMI (Feb),55.3,58.7,58.7
+2021-03-03,22:00:00,,,ISM Non-Manufacturing Prices (Feb),71.8,,64.2
+2021-03-03,22:30:00,,,Crude Oil Inventories,21.563M,-0.928M,1.285M
+2021-03-04,20:30:00,,,Initial Jobless Claims,745K,750K,736K
+2021-03-05,00:05:00,,,Fed Chair Powell Speaks,,,
+2021-03-05,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.20%,0.20%,0.10%
+2021-03-05,20:30:00,,,Nonfarm Payrolls (Feb),379K,182K,166K
+2021-03-05,20:30:00,,,Unemployment Rate (Feb),6.20%,6.30%,6.30%
+2021-03-10,20:30:00,,,Core CPI (MoM) (Feb),0.10%,0.20%,0.10%
+2021-03-10,20:30:00,,,CPI (MoM) (Feb),0.40%,0.40%,0.30%
+2021-03-10,20:30:00,,,CPI (YoY) (Feb),1.70%,1.70%,1.40%
+2021-03-10,22:30:00,,,Crude Oil Inventories,13.798M,0.816M,21.563M
+2021-03-11,01:00:00,,,10-Year Note Auction,1.52%,,1.16%
+2021-03-11,20:30:00,,,Initial Jobless Claims,712K,725K,754K
+2021-03-11,22:00:00,,,JOLTS Job Openings (Jan),6.917M,6.600M,6.752M
+2021-03-12,01:00:00,,,30-Year Bond Auction,2.30%,,1.93%
+2021-03-12,20:30:00,,,PPI (MoM) (Feb),0.50%,0.50%,1.30%
+2021-03-16,19:30:00,,,Core Retail Sales (MoM) (Feb),-2.70%,-0.10%,8.30%
+2021-03-16,19:30:00,,,Retail Sales (MoM) (Feb),-3.00%,-0.50%,7.60%
+2021-03-17,21:30:00,,,Crude Oil Inventories,2.396M,2.964M,13.798M
+2021-03-18,01:00:00,,,FOMC Economic Projections,,,
+2021-03-18,01:00:00,,,FOMC Statement,,,
+2021-03-18,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-03-18,01:30:00,,,FOMC Press Conference,,,
+2021-03-18,19:30:00,,,Initial Jobless Claims,770K,700K,725K
+2021-03-18,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),51.8,23,23.1
+2021-03-22,20:00:00,,,Fed Chair Powell Speaks,,,
+2021-03-22,21:00:00,,,Existing Home Sales (Feb),6.22M,6.50M,6.66M
+2021-03-23,21:00:00,,,New Home Sales (Feb),775K,875K,948K
+2021-03-23,23:00:00,,,Fed Chair Powell Testifies,,,
+2021-03-24,19:30:00,,,Durable Goods Orders (MoM) (Feb),-1.10%,0.80%,3.50%
+2021-03-24,21:00:00,,,Fed Chair Powell Testifies,,,
+2021-03-24,21:30:00,,,Crude Oil Inventories,1.912M,-0.272M,2.396M
+2021-03-25,19:30:00,,,GDP (QoQ) (Q4),4.30%,4.10%,4.10%
+2021-03-25,19:30:00,,,Initial Jobless Claims,684K,730K,781K
+2021-03-26,20:30:00,,,Core PCE Price Index (YoY) (Feb),1.40%,1.50%,1.50%
+2021-03-26,20:30:00,,,Core PCE Price Index (MoM) (Feb),0.10%,0.10%,0.20%
+2021-03-30,21:00:00,,,CB Consumer Confidence (Mar),109.7,96.9,90.4
+2021-03-31,19:15:00,,,ADP Nonfarm Employment Change (Mar),517K,550K,176K
+2021-03-31,20:45:00,,,Chicago PMI (Mar),66.3,60.7,59.5
+2021-03-31,21:30:00,,,Crude Oil Inventories,-0.876M,0.107M,1.912M
+2021-04-01,Tentative,,,U.S. President Biden Speaks,,,
+2021-04-01,19:30:00,,,Initial Jobless Claims,719K,680K,658K
+2021-04-01,21:00:00,,,ISM Manufacturing PMI (Mar),64.7,61.3,60.8
+2021-04-01,21:00:00,,,ISM Manufacturing Prices (Mar),85.6,85,86
+2021-04-02,All Day,,,United States - Good Friday,,,
+2021-04-02,19:30:00,,,Average Hourly Earnings (MoM) (Mar),-0.10%,0.10%,0.30%
+2021-04-02,19:30:00,,,Nonfarm Payrolls (Mar),916K,647K,468K
+2021-04-02,19:30:00,,,Unemployment Rate (Mar),6.00%,6.00%,6.20%
+2021-04-05,21:00:00,,,ISM Non-Manufacturing PMI (Mar),63.7,59,55.3
+2021-04-05,21:00:00,,,ISM Non-Manufacturing Prices (Mar),74,,71.8
+2021-04-06,21:00:00,,,JOLTS Job Openings (Feb),7.367M,6.995M,7.099M
+2021-04-07,21:30:00,,,Crude Oil Inventories,-3.522M,-1.436M,-0.876M
+2021-04-08,01:00:00,,,FOMC Meeting Minutes,,,
+2021-04-08,19:30:00,,,Initial Jobless Claims,744K,680K,728K
+2021-04-08,23:00:00,,,Fed Chair Powell Speaks,,,
+2021-04-09,19:30:00,,,PPI (MoM) (Mar),1.00%,0.50%,0.50%
+2021-04-13,00:00:00,,,10-Year Note Auction,1.68%,,1.52%
+2021-04-13,19:30:00,,,Core CPI (MoM) (Mar),0.30%,0.20%,0.10%
+2021-04-13,19:30:00,,,CPI (MoM) (Mar),0.60%,0.50%,0.40%
+2021-04-13,19:30:00,,,CPI (YoY) (Mar),2.60%,2.50%,1.70%
+2021-04-14,00:00:00,,,30-Year Bond Auction,2.32%,,2.30%
+2021-04-14,21:30:00,,,Crude Oil Inventories,-5.889M,-2.889M,-3.522M
+2021-04-14,23:00:00,,,Fed Chair Powell Speaks,,,
+2021-04-15,19:30:00,,,Core Retail Sales (MoM) (Mar),8.40%,5.00%,-2.50%
+2021-04-15,19:30:00,,,Initial Jobless Claims,576K,700K,769K
+2021-04-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),50.2,42,51.8
+2021-04-15,19:30:00,,,Retail Sales (MoM) (Mar),9.80%,5.90%,-2.70%
+2021-04-21,21:30:00,,,Crude Oil Inventories,0.594M,-2.975M,-5.889M
+2021-04-22,19:30:00,,,Initial Jobless Claims,547K,617K,586K
+2021-04-22,21:00:00,,,Existing Home Sales (Mar),6.01M,6.19M,6.24M
+2021-04-23,21:00:00,,,New Home Sales (Mar),"1,021K",886K,846K
+2021-04-26,19:30:00,,,Durable Goods Orders (MoM) (Mar),0.50%,2.50%,-0.90%
+2021-04-27,21:00:00,,,CB Consumer Confidence (Apr),121.7,113,109
+2021-04-28,21:30:00,,,Crude Oil Inventories,0.090M,0.659M,0.594M
+2021-04-29,01:00:00,,,FOMC Statement,,,
+2021-04-29,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-04-29,01:30:00,,,FOMC Press Conference,,,
+2021-04-29,Tentative,,,U.S. President Biden Speaks,,,
+2021-04-29,19:30:00,,,GDP (QoQ) (Q1),6.40%,6.10%,4.30%
+2021-04-29,19:30:00,,,Initial Jobless Claims,553K,549K,566K
+2021-04-30,19:30:00,,,Core PCE Price Index (YoY) (Mar),1.80%,1.80%,1.40%
+2021-04-30,19:30:00,,,Core PCE Price Index (MoM) (Mar),0.40%,0.30%,0.10%
+2021-04-30,20:45:00,,,Chicago PMI (Apr),72.1,65.3,66.3
+2021-05-03,21:00:00,,,ISM Manufacturing PMI (Apr),60.7,65,64.7
+2021-05-03,21:00:00,,,ISM Manufacturing Prices (Apr),89.6,86.1,85.6
+2021-05-04,01:20:00,,,Fed Chair Powell Speaks,,,
+2021-05-05,19:15:00,,,ADP Nonfarm Employment Change (Apr),742K,800K,565K
+2021-05-05,21:00:00,,,ISM Non-Manufacturing PMI (Apr),62.7,64.3,63.7
+2021-05-05,21:00:00,,,ISM Non-Manufacturing Prices (Apr),76.8,,74
+2021-05-05,21:30:00,,,Crude Oil Inventories,-7.990M,-2.346M,0.090M
+2021-05-06,19:30:00,,,Initial Jobless Claims,498K,540K,590K
+2021-05-07,19:30:00,,,Average Hourly Earnings (MoM) (Apr),0.70%,0.10%,-0.10%
+2021-05-07,19:30:00,,,Nonfarm Payrolls (Apr),266K,978K,770K
+2021-05-07,19:30:00,,,Unemployment Rate (Apr),6.10%,5.80%,6.00%
+2021-05-11,00:15:00,,,U.S. President Biden Speaks,,,
+2021-05-11,21:00:00,,,JOLTS Job Openings (Mar),8.123M,7.500M,7.526M
+2021-05-12,19:30:00,,,Core CPI (MoM) (Apr),0.90%,0.30%,0.30%
+2021-05-12,19:30:00,,,CPI (MoM) (Apr),0.80%,0.20%,0.60%
+2021-05-12,19:30:00,,,CPI (YoY) (Apr),4.20%,3.60%,2.60%
+2021-05-12,21:30:00,,,Crude Oil Inventories,-0.427M,-2.817M,-7.990M
+2021-05-13,00:00:00,,,10-Year Note Auction,1.68%,,1.68%
+2021-05-13,19:30:00,,,Initial Jobless Claims,473K,490K,507K
+2021-05-13,19:30:00,,,PPI (MoM) (Apr),0.60%,0.30%,1.00%
+2021-05-14,00:00:00,,,30-Year Bond Auction,2.40%,,2.32%
+2021-05-14,19:30:00,,,Core Retail Sales (MoM) (Apr),-0.80%,0.70%,9.00%
+2021-05-14,19:30:00,,,Retail Sales (MoM) (Apr),0.00%,1.00%,10.70%
+2021-05-19,21:30:00,,,Crude Oil Inventories,1.321M,1.623M,-0.427M
+2021-05-20,01:00:00,,,FOMC Meeting Minutes,,,
+2021-05-20,19:30:00,,,Initial Jobless Claims,444K,450K,478K
+2021-05-20,19:30:00,,,Philadelphia Fed Manufacturing Index (May),31.5,43,50.2
+2021-05-21,21:00:00,,,Existing Home Sales (Apr),5.85M,6.09M,6.01M
+2021-05-25,21:00:00,,,CB Consumer Confidence (May),117.2,119.2,117.5
+2021-05-25,21:00:00,,,New Home Sales (Apr),863K,970K,917K
+2021-05-26,21:30:00,,,Crude Oil Inventories,-1.662M,-1.050M,-0.426M
+2021-05-27,19:30:00,,,Durable Goods Orders (MoM) (Apr),-1.30%,0.70%,1.30%
+2021-05-27,19:30:00,,,GDP (QoQ) (Q1),6.40%,6.50%,6.40%
+2021-05-27,19:30:00,,,Initial Jobless Claims,406K,425K,444K
+2021-05-28,19:30:00,,,Core PCE Price Index (YoY) (Apr),3.10%,2.90%,1.90%
+2021-05-28,19:30:00,,,Core PCE Price Index (MoM) (Apr),0.70%,0.60%,0.40%
+2021-05-28,20:45:00,,,Chicago PMI (May),75.2,68,72.1
+2021-05-29,01:00:00,,,US Federal Budget,"-1,837.0B",,-966.0B
+2021-05-31,All Day,,,United States - Memorial Day,,,
+2021-06-01,21:00:00,,,ISM Manufacturing PMI (May),61.2,60.9,60.7
+2021-06-01,21:00:00,,,ISM Manufacturing Prices (May),88,89.8,89.6
+2021-06-03,19:15:00,,,ADP Nonfarm Employment Change (May),978K,650K,654K
+2021-06-03,19:30:00,,,Initial Jobless Claims,385K,390K,405K
+2021-06-03,21:00:00,,,ISM Non-Manufacturing PMI (May),64,63,62.7
+2021-06-03,21:00:00,,,ISM Non-Manufacturing Prices (May),80.6,,76.8
+2021-06-03,22:00:00,,,Crude Oil Inventories,-5.080M,-2.443M,-1.662M
+2021-06-04,18:00:00,,,Fed Chair Powell Speaks,,,
+2021-06-04,19:30:00,,,Average Hourly Earnings (MoM) (May),0.50%,0.20%,0.70%
+2021-06-04,19:30:00,,,Nonfarm Payrolls (May),559K,650K,278K
+2021-06-04,19:30:00,,,Unemployment Rate (May),5.80%,5.90%,6.10%
+2021-06-08,21:00:00,,,JOLTS Job Openings (Apr),9.286M,8.300M,8.288M
+2021-06-09,21:30:00,,,Crude Oil Inventories,-5.241M,-2.036M,-5.080M
+2021-06-10,00:00:00,,,10-Year Note Auction,1.50%,,1.68%
+2021-06-10,19:30:00,,,Core CPI (MoM) (May),0.70%,0.40%,0.90%
+2021-06-10,19:30:00,,,CPI (MoM) (May),0.60%,0.40%,0.80%
+2021-06-10,19:30:00,,,CPI (YoY) (May),5.00%,4.70%,4.20%
+2021-06-10,19:30:00,,,Initial Jobless Claims,376K,370K,405K
+2021-06-11,00:00:00,,,30-Year Bond Auction,2.17%,,2.40%
+2021-06-15,19:30:00,,,Core Retail Sales (MoM) (May),-0.70%,0.20%,-0.80%
+2021-06-15,19:30:00,,,PPI (MoM) (May),0.80%,0.60%,0.60%
+2021-06-15,19:30:00,,,Retail Sales (MoM) (May),-1.30%,-0.80%,0.90%
+2021-06-16,21:00:00,,,Fed Chair Yellen Testifies,,,
+2021-06-16,21:30:00,,,Crude Oil Inventories,-7.355M,-3.290M,-5.241M
+2021-06-17,01:00:00,,,FOMC Economic Projections,,,
+2021-06-17,01:00:00,,,FOMC Statement,,,
+2021-06-17,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-06-17,01:30:00,,,FOMC Press Conference,,,
+2021-06-17,19:30:00,,,Initial Jobless Claims,412K,359K,375K
+2021-06-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),30.7,31,31.5
+2021-06-17,21:00:00,,,Fed Chair Yellen Testifies,,,
+2021-06-22,21:00:00,,,Existing Home Sales (May),5.80M,5.72M,5.85M
+2021-06-23,01:00:00,,,Fed Chair Powell Testifies,,,
+2021-06-23,21:00:00,,,New Home Sales (May),769K,870K,817K
+2021-06-23,21:30:00,,,Crude Oil Inventories,-7.614M,-3.942M,-7.355M
+2021-06-24,19:30:00,,,Durable Goods Orders (MoM) (May),2.30%,2.80%,-0.80%
+2021-06-24,19:30:00,,,GDP (QoQ) (Q1),6.40%,6.40%,6.40%
+2021-06-24,19:30:00,,,Initial Jobless Claims,411K,380K,418K
+2021-06-25,19:30:00,,,Core PCE Price Index (YoY) (May),3.40%,3.40%,3.10%
+2021-06-25,19:30:00,,,Core PCE Price Index (MoM) (May),0.50%,0.60%,0.70%
+2021-06-29,21:00:00,,,CB Consumer Confidence (Jun),127.3,119,120
+2021-06-30,19:15:00,,,ADP Nonfarm Employment Change (Jun),692K,600K,886K
+2021-06-30,20:45:00,,,Chicago PMI (Jun),66.1,70,75.2
+2021-06-30,21:30:00,,,Crude Oil Inventories,-6.718M,-4.686M,-7.614M
+2021-07-01,19:30:00,,,Initial Jobless Claims,364K,390K,415K
+2021-07-01,21:00:00,,,ISM Manufacturing PMI (Jun),60.6,61,61.2
+2021-07-01,21:00:00,,,ISM Manufacturing Prices (Jun),92.1,86.5,88
+2021-07-02,19:30:00,,,Average Hourly Earnings (MoM) (Jun),0.30%,0.40%,0.40%
+2021-07-02,19:30:00,,,Nonfarm Payrolls (Jun),850K,700K,583K
+2021-07-02,19:30:00,,,Unemployment Rate (Jun),5.90%,5.70%,5.80%
+2021-07-05,All Day,,,United States - Independence Day,,,
+2021-07-06,21:00:00,,,ISM Non-Manufacturing PMI (Jun),60.1,63.5,64
+2021-07-06,21:00:00,,,ISM Non-Manufacturing Prices (Jun),79.5,,80.6
+2021-07-07,21:00:00,,,JOLTS Job Openings (May),9.209M,9.388M,9.193M
+2021-07-08,01:00:00,,,FOMC Meeting Minutes,,,
+2021-07-08,19:30:00,,,Initial Jobless Claims,373K,350K,371K
+2021-07-08,22:00:00,,,Crude Oil Inventories,-6.866M,-4.033M,-6.718M
+2021-07-09,22:00:00,,,Fed Monetary Policy Report,,,
+2021-07-13,00:01:00,,,10-Year Note Auction,1.37%,,1.50%
+2021-07-13,19:30:00,,,Core CPI (MoM) (Jun),0.90%,0.40%,0.70%
+2021-07-13,19:30:00,,,CPI (MoM) (Jun),0.90%,0.50%,0.60%
+2021-07-13,19:30:00,,,CPI (YoY) (Jun),5.40%,4.90%,5.00%
+2021-07-14,00:00:00,,,30-Year Bond Auction,2.00%,,2.17%
+2021-07-14,19:30:00,,,PPI (MoM) (Jun),1.00%,0.60%,0.80%
+2021-07-14,21:30:00,,,Crude Oil Inventories,-7.897M,-4.359M,-6.866M
+2021-07-14,23:00:00,,,Fed Chair Powell Testifies,,,
+2021-07-15,19:30:00,,,Initial Jobless Claims,360K,360K,386K
+2021-07-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),21.9,28,30.7
+2021-07-15,20:30:00,,,Fed Chair Powell Testifies,,,
+2021-07-16,19:30:00,,,Core Retail Sales (MoM) (Jun),1.30%,0.40%,-0.90%
+2021-07-16,19:30:00,,,Retail Sales (MoM) (Jun),0.60%,-0.40%,-1.70%
+2021-07-19,22:30:00,,,U.S. President Biden Speaks,,,
+2021-07-21,21:30:00,,,Crude Oil Inventories,2.108M,-4.466M,-7.897M
+2021-07-22,19:30:00,,,Initial Jobless Claims,419K,350K,368K
+2021-07-22,21:00:00,,,Existing Home Sales (Jun),5.86M,5.90M,5.78M
+2021-07-26,21:00:00,,,New Home Sales (Jun),676K,800K,724K
+2021-07-27,19:30:00,,,Durable Goods Orders (MoM) (Jun),0.80%,2.10%,3.20%
+2021-07-27,21:00:00,,,CB Consumer Confidence (Jul),129.1,123.9,128.9
+2021-07-28,21:30:00,,,Crude Oil Inventories,-4.089M,-2.928M,2.108M
+2021-07-29,01:00:00,,,FOMC Statement,,,
+2021-07-29,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-07-29,01:30:00,,,FOMC Press Conference,,,
+2021-07-29,19:30:00,,,GDP (QoQ) (Q2),6.50%,8.50%,6.40%
+2021-07-29,19:30:00,,,Initial Jobless Claims,400K,380K,424K
+2021-07-30,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.40%,0.60%,0.50%
+2021-07-30,19:30:00,,,Core PCE Price Index (YoY) (Jun),3.50%,3.70%,3.40%
+2021-07-30,20:45:00,,,Chicago PMI (Jul),73.4,64.6,66.1
+2021-08-02,21:00:00,,,ISM Manufacturing PMI (Jul),59.5,60.9,60.6
+2021-08-02,21:00:00,,,ISM Manufacturing Prices (Jul),85.7,,92.1
+2021-08-04,19:15:00,,,ADP Nonfarm Employment Change (Jul),330K,695K,680K
+2021-08-04,21:00:00,,,ISM Non-Manufacturing PMI (Jul),64.1,60.5,60.1
+2021-08-04,21:00:00,,,ISM Non-Manufacturing Prices (Jul),82.3,,79.5
+2021-08-04,21:30:00,,,Crude Oil Inventories,3.626M,-3.102M,-4.089M
+2021-08-05,19:30:00,,,Initial Jobless Claims,385K,384K,399K
+2021-08-06,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.40%,0.30%,0.40%
+2021-08-06,19:30:00,,,Nonfarm Payrolls (Jul),943K,870K,938K
+2021-08-06,19:30:00,,,Unemployment Rate (Jul),5.40%,5.70%,5.90%
+2021-08-09,21:00:00,,,JOLTS Job Openings (Jun),10.073M,9.281M,9.483M
+2021-08-11,19:30:00,,,Core CPI (MoM) (Jul),0.30%,0.40%,0.90%
+2021-08-11,19:30:00,,,CPI (MoM) (Jul),0.50%,0.50%,0.90%
+2021-08-11,19:30:00,,,CPI (YoY) (Jul),5.40%,5.30%,5.40%
+2021-08-11,21:30:00,,,Crude Oil Inventories,-0.447M,-1.271M,3.626M
+2021-08-12,00:00:00,,,10-Year Note Auction,1.34%,,1.37%
+2021-08-12,19:30:00,,,Initial Jobless Claims,375K,375K,387K
+2021-08-12,19:30:00,,,PPI (MoM) (Jul),1.00%,0.60%,1.00%
+2021-08-13,00:00:00,,,30-Year Bond Auction,2.04%,,2.00%
+2021-08-17,19:30:00,,,Core Retail Sales (MoM) (Jul),-0.40%,0.10%,1.60%
+2021-08-17,19:30:00,,,Retail Sales (MoM) (Jul),-1.10%,-0.30%,0.70%
+2021-08-18,00:30:00,,,Fed Chair Powell Speaks,,,
+2021-08-18,21:30:00,,,Crude Oil Inventories,-3.234M,-1.055M,-0.447M
+2021-08-19,01:00:00,,,FOMC Meeting Minutes,,,
+2021-08-19,19:30:00,,,Initial Jobless Claims,348K,363K,377K
+2021-08-19,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),19.4,23,21.9
+2021-08-23,21:00:00,,,Existing Home Sales (Jul),5.99M,5.83M,5.87M
+2021-08-24,21:00:00,,,New Home Sales (Jul),708K,700K,701K
+2021-08-25,19:30:00,,,Durable Goods Orders (MoM) (Jul),-0.10%,-0.30%,0.80%
+2021-08-25,21:30:00,,,Crude Oil Inventories,-2.979M,-2.683M,-3.234M
+2021-08-26,19:30:00,,,GDP (QoQ) (Q2),6.60%,6.70%,6.50%
+2021-08-26,19:30:00,,,Initial Jobless Claims,353K,350K,349K
+2021-08-27,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.30%,0.30%,0.50%
+2021-08-27,19:30:00,,,Core PCE Price Index (YoY) (Jul),3.60%,3.60%,3.60%
+2021-08-27,21:00:00,,,Fed Chair Powell Speaks,,,
+2021-08-31,20:45:00,,,Chicago PMI (Aug),66.8,68,73.4
+2021-08-31,21:00:00,,,CB Consumer Confidence (Aug),113.8,124,125.1
+2021-09-01,19:15:00,,,ADP Nonfarm Employment Change (Aug),374K,613K,326K
+2021-09-01,21:00:00,,,ISM Manufacturing PMI (Aug),59.9,58.6,59.5
+2021-09-01,21:00:00,,,ISM Manufacturing Prices (Aug),79.4,83.8,85.7
+2021-09-01,21:30:00,,,Crude Oil Inventories,-7.169M,-3.088M,-2.979M
+2021-09-02,19:30:00,,,Initial Jobless Claims,340K,345K,354K
+2021-09-03,19:30:00,,,Average Hourly Earnings (MoM) (Aug),0.60%,0.30%,0.40%
+2021-09-03,19:30:00,,,Nonfarm Payrolls (Aug),235K,750K,"1,053K"
+2021-09-03,19:30:00,,,Unemployment Rate (Aug),5.20%,5.20%,5.40%
+2021-09-03,21:00:00,,,ISM Non-Manufacturing PMI (Aug),61.7,61.5,64.1
+2021-09-03,21:00:00,,,ISM Non-Manufacturing Prices (Aug),75.4,,82.3
+2021-09-06,All Day,,,United States - Labor Day,,,
+2021-09-08,21:00:00,,,JOLTS Job Openings (Jul),10.934M,10.000M,10.185M
+2021-09-09,00:00:00,,,10-Year Note Auction,1.34%,,1.34%
+2021-09-09,19:30:00,,,Initial Jobless Claims,310K,335K,345K
+2021-09-09,22:00:00,,,Crude Oil Inventories,-1.529M,-4.612M,-7.169M
+2021-09-10,00:00:00,,,30-Year Bond Auction,1.19%,,2.04%
+2021-09-10,19:30:00,,,PPI (MoM) (Aug),0.70%,0.60%,1.00%
+2021-09-14,19:30:00,,,Core CPI (MoM) (Aug),0.10%,0.30%,0.30%
+2021-09-14,19:30:00,,,CPI (MoM) (Aug),0.30%,0.40%,0.50%
+2021-09-14,19:30:00,,,CPI (YoY) (Aug),5.30%,5.30%,5.40%
+2021-09-15,21:30:00,,,Crude Oil Inventories,-6.422M,-3.544M,-1.529M
+2021-09-16,19:30:00,,,Core Retail Sales (MoM) (Aug),1.80%,-0.10%,-1.00%
+2021-09-16,19:30:00,,,Initial Jobless Claims,332K,330K,312K
+2021-09-16,19:30:00,,,Philadelphia Fed Manufacturing Index (Sep),30.7,18.8,19.4
+2021-09-16,19:30:00,,,Retail Sales (MoM) (Aug),0.70%,-0.80%,-1.80%
+2021-09-22,21:00:00,,,Existing Home Sales (Aug),5.88M,5.89M,6.00M
+2021-09-22,21:30:00,,,Crude Oil Inventories,-3.481M,-2.440M,-6.422M
+2021-09-23,01:00:00,,,FOMC Economic Projections,,,
+2021-09-23,01:00:00,,,FOMC Statement,,,
+2021-09-23,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-09-23,01:30:00,,,FOMC Press Conference,,,
+2021-09-23,19:30:00,,,Initial Jobless Claims,351K,320K,335K
+2021-09-24,21:00:00,,,Fed Chair Powell Speaks,,,
+2021-09-24,21:00:00,,,New Home Sales (Aug),740K,714K,729K
+2021-09-27,19:30:00,,,Durable Goods Orders (MoM) (Aug),1.80%,0.70%,0.50%
+2021-09-28,21:00:00,,,CB Consumer Confidence (Sep),109.3,114.5,115.2
+2021-09-28,21:00:00,,,Fed Chair Powell Testifies,,,
+2021-09-29,21:30:00,,,Crude Oil Inventories,4.578M,-1.652M,-3.481M
+2021-09-29,22:45:00,,,Fed Chair Powell Speaks,,,
+2021-09-30,19:30:00,,,GDP (QoQ) (Q2),6.70%,6.60%,6.60%
+2021-09-30,19:30:00,,,Initial Jobless Claims,362K,335K,351K
+2021-09-30,20:45:00,,,Chicago PMI (Sep),64.7,65,66.8
+2021-09-30,21:00:00,,,Fed Chair Powell Testifies,,,
+2021-10-01,19:30:00,,,Core PCE Price Index (YoY) (Aug),3.60%,3.60%,3.60%
+2021-10-01,19:30:00,,,Core PCE Price Index (MoM) (Aug),0.30%,0.20%,0.30%
+2021-10-01,21:00:00,,,ISM Manufacturing PMI (Sep),61.1,59.6,59.9
+2021-10-01,21:00:00,,,ISM Manufacturing Prices (Sep),81.2,78.5,79.4
+2021-10-05,21:00:00,,,ISM Non-Manufacturing PMI (Sep),61.9,60,61.7
+2021-10-05,21:00:00,,,ISM Non-Manufacturing Prices (Sep),77.5,,75.4
+2021-10-06,19:15:00,,,ADP Nonfarm Employment Change (Sep),568K,428K,340K
+2021-10-06,21:30:00,,,Crude Oil Inventories,2.346M,-0.418M,4.578M
+2021-10-07,19:30:00,,,Initial Jobless Claims,326K,348K,364K
+2021-10-08,19:30:00,,,Average Hourly Earnings (MoM) (Sep),0.60%,0.40%,0.40%
+2021-10-08,19:30:00,,,Nonfarm Payrolls (Sep),194K,500K,366K
+2021-10-08,19:30:00,,,Unemployment Rate (Sep),4.80%,5.10%,5.20%
+2021-10-12,21:00:00,,,JOLTS Job Openings (Aug),10.439M,10.925M,11.098M
+2021-10-13,00:00:00,,,10-Year Note Auction,1.58%,,1.34%
+2021-10-13,19:30:00,,,Core CPI (MoM) (Sep),0.20%,0.20%,0.10%
+2021-10-13,19:30:00,,,CPI (MoM) (Sep),0.40%,0.30%,0.30%
+2021-10-13,19:30:00,,,CPI (YoY) (Sep),5.40%,5.30%,5.30%
+2021-10-14,00:00:00,,,30-Year Bond Auction,2.05%,,1.19%
+2021-10-14,01:00:00,,,FOMC Meeting Minutes,,,
+2021-10-14,19:30:00,,,Initial Jobless Claims,293K,319K,329K
+2021-10-14,19:30:00,,,PPI (MoM) (Sep),0.50%,0.60%,0.70%
+2021-10-14,22:00:00,,,Crude Oil Inventories,6.088M,0.702M,2.346M
+2021-10-15,19:30:00,,,Core Retail Sales (MoM) (Sep),0.80%,0.50%,2.00%
+2021-10-15,19:30:00,,,Retail Sales (MoM) (Sep),0.70%,-0.20%,0.90%
+2021-10-20,21:30:00,,,Crude Oil Inventories,-0.431M,1.857M,6.088M
+2021-10-21,19:30:00,,,Initial Jobless Claims,290K,300K,296K
+2021-10-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Oct),23.8,25,30.7
+2021-10-21,21:00:00,,,Existing Home Sales (Sep),6.29M,6.09M,5.88M
+2021-10-22,22:00:00,,,Fed Chair Powell Speaks,,,
+2021-10-26,21:00:00,,,CB Consumer Confidence (Oct),113.8,108.3,109.8
+2021-10-26,21:00:00,,,New Home Sales (Sep),800K,760K,702K
+2021-10-27,19:30:00,,,Durable Goods Orders (MoM) (Sep),-0.40%,-1.10%,1.30%
+2021-10-27,21:30:00,,,Crude Oil Inventories,4.267M,1.914M,-0.431M
+2021-10-28,19:30:00,,,GDP (QoQ) (Q3),2.00%,2.70%,6.70%
+2021-10-28,19:30:00,,,Initial Jobless Claims,281K,290K,291K
+2021-10-29,19:30:00,,,Core PCE Price Index (YoY) (Sep),3.60%,3.70%,3.60%
+2021-10-29,19:30:00,,,Core PCE Price Index (MoM) (Sep),0.20%,0.20%,0.30%
+2021-10-29,20:45:00,,,Chicago PMI (Oct),68.4,63.5,64.7
+2021-11-01,21:00:00,,,ISM Manufacturing PMI (Oct),60.8,60.5,61.1
+2021-11-01,21:00:00,,,ISM Manufacturing Prices (Oct),85.7,78.5,81.2
+2021-11-03,19:15:00,,,ADP Nonfarm Employment Change (Oct),571K,400K,523K
+2021-11-03,21:00:00,,,ISM Non-Manufacturing PMI (Oct),66.7,62,61.9
+2021-11-03,21:00:00,,,ISM Non-Manufacturing Prices (Oct),82.9,,77.5
+2021-11-03,21:30:00,,,Crude Oil Inventories,3.291M,2.225M,4.267M
+2021-11-04,01:00:00,,,FOMC Statement,,,
+2021-11-04,01:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-11-04,01:30:00,,,FOMC Press Conference,,,
+2021-11-04,19:30:00,,,Initial Jobless Claims,269K,275K,283K
+2021-11-05,19:30:00,,,Average Hourly Earnings (MoM) (Oct),0.40%,0.40%,0.60%
+2021-11-05,19:30:00,,,Nonfarm Payrolls (Oct),531K,450K,312K
+2021-11-05,19:30:00,,,Unemployment Rate (Oct),4.60%,4.70%,4.80%
+2021-11-08,22:30:00,,,Fed Chair Powell Speaks,,,
+2021-11-09,20:30:00,,,PPI (MoM) (Oct),0.60%,0.60%,0.50%
+2021-11-09,21:00:00,,,Fed Chair Powell Speaks,,,
+2021-11-10,01:00:00,,,10-Year Note Auction,1.44%,,1.58%
+2021-11-10,01:30:00,,,Sec Kashkari Speaks,,,
+2021-11-10,20:30:00,,,Core CPI (MoM) (Oct),0.60%,0.40%,0.20%
+2021-11-10,20:30:00,,,CPI (MoM) (Oct),0.90%,0.60%,0.40%
+2021-11-10,20:30:00,,,CPI (YoY) (Oct),6.20%,5.80%,5.40%
+2021-11-10,20:30:00,,,Initial Jobless Claims,267K,265K,271K
+2021-11-10,22:30:00,,,Crude Oil Inventories,1.001M,2.125M,3.291M
+2021-11-11,01:00:00,,,30-Year Bond Auction,1.94%,,2.05%
+2021-11-12,22:00:00,,,JOLTS Job Openings (Sep),10.438M,10.300M,10.629M
+2021-11-16,20:30:00,,,Core Retail Sales (MoM) (Oct),1.70%,1.00%,0.70%
+2021-11-16,20:30:00,,,Retail Sales (MoM) (Oct),1.70%,1.20%,0.80%
+2021-11-17,22:30:00,,,Crude Oil Inventories,-2.101M,1.398M,1.001M
+2021-11-18,20:30:00,,,Initial Jobless Claims,268K,260K,269K
+2021-11-18,20:30:00,,,Philadelphia Fed Manufacturing Index (Nov),39,24,23.8
+2021-11-22,22:00:00,,,Existing Home Sales (Oct),6.34M,6.20M,6.29M
+2021-11-24,02:00:00,,,U.S. President Biden Speaks,,,
+2021-11-24,20:30:00,,,Durable Goods Orders (MoM) (Oct),-0.50%,0.20%,-0.40%
+2021-11-24,20:30:00,,,GDP (QoQ) (Q3),2.10%,2.20%,2.00%
+2021-11-24,20:30:00,,,Initial Jobless Claims,199K,260K,270K
+2021-11-24,22:00:00,,,Core PCE Price Index (YoY) (Oct),4.10%,4.10%,3.70%
+2021-11-24,22:00:00,,,Core PCE Price Index (MoM) (Oct),0.40%,0.40%,0.20%
+2021-11-24,22:00:00,,,New Home Sales (Oct),745K,800K,742K
+2021-11-24,22:30:00,,,Crude Oil Inventories,1.017M,-0.481M,-2.101M
+2021-11-25,All Day,,,United States - Thanksgiving Day,,,
+2021-11-25,02:00:00,,,FOMC Meeting Minutes,,,
+2021-11-26,,,,United States - Thanksgiving Day - Early close at 13:00,,,
+2021-11-30,03:05:00,,,FOMC Member Powell Speaks,,,
+2021-11-30,21:45:00,,,Chicago PMI (Nov),61.8,67,68.4
+2021-11-30,22:00:00,,,CB Consumer Confidence (Nov),109.5,111,111.6
+2021-11-30,22:00:00,,,Fed Chair Powell Testifies,,,
+2021-12-01,20:15:00,,,ADP Nonfarm Employment Change (Nov),534K,525K,570K
+2021-12-01,22:00:00,,,Fed Chair Powell Testifies,,,
+2021-12-01,22:00:00,,,ISM Manufacturing PMI (Nov),61.1,61,60.8
+2021-12-01,22:00:00,,,ISM Manufacturing Prices (Nov),82.4,85.5,85.7
+2021-12-01,22:30:00,,,Crude Oil Inventories,-0.910M,-1.237M,1.017M
+2021-12-02,20:30:00,,,Initial Jobless Claims,222K,240K,194K
+2021-12-03,20:30:00,,,Average Hourly Earnings (MoM) (Nov),0.30%,0.40%,0.40%
+2021-12-03,20:30:00,,,Nonfarm Payrolls (Nov),210K,550K,546K
+2021-12-03,20:30:00,,,Unemployment Rate (Nov),4.20%,4.50%,4.60%
+2021-12-03,22:00:00,,,ISM Non-Manufacturing PMI (Nov),69.1,65,66.7
+2021-12-03,22:00:00,,,ISM Non-Manufacturing Prices (Nov),82.3,,82.9
+2021-12-08,22:00:00,,,JOLTS Job Openings (Oct),11.033M,10.369M,10.602M
+2021-12-08,22:30:00,,,Crude Oil Inventories,-0.240M,-1.705M,-0.910M
+2021-12-09,01:00:00,,,10-Year Note Auction,1.52%,,1.44%
+2021-12-09,20:30:00,,,Initial Jobless Claims,184K,215K,227K
+2021-12-10,01:00:00,,,30-Year Bond Auction,1.90%,,1.94%
+2021-12-10,20:30:00,,,Core CPI (MoM) (Nov),0.50%,0.50%,0.60%
+2021-12-10,20:30:00,,,CPI (MoM) (Nov),0.80%,0.70%,0.90%
+2021-12-10,20:30:00,,,CPI (YoY) (Nov),6.80%,6.80%,6.20%
+2021-12-14,20:30:00,,,PPI (MoM) (Nov),0.80%,0.50%,0.60%
+2021-12-15,20:30:00,,,Core Retail Sales (MoM) (Nov),0.30%,0.90%,1.80%
+2021-12-15,20:30:00,,,Retail Sales (MoM) (Nov),0.30%,0.80%,1.80%
+2021-12-15,22:30:00,,,Crude Oil Inventories,-4.584M,-2.082M,-0.240M
+2021-12-16,02:00:00,,,FOMC Economic Projections,,,
+2021-12-16,02:00:00,,,FOMC Statement,,,
+2021-12-16,02:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2021-12-16,02:30:00,,,FOMC Press Conference,,,
+2021-12-16,20:30:00,,,Initial Jobless Claims,206K,200K,188K
+2021-12-16,20:30:00,,,Philadelphia Fed Manufacturing Index (Dec),15.4,30,39
+2021-12-22,20:30:00,,,GDP (QoQ) (Q3),2.30%,2.10%,2.10%
+2021-12-22,22:00:00,,,CB Consumer Confidence (Dec),115.8,110.8,111.9
+2021-12-22,22:00:00,,,Existing Home Sales (Nov),6.46M,6.52M,6.34M
+2021-12-22,22:30:00,,,Crude Oil Inventories,-4.715M,-2.750M,-4.584M
+2021-12-23,20:30:00,,,Core PCE Price Index (MoM) (Nov),0.50%,0.40%,0.50%
+2021-12-23,20:30:00,,,Core PCE Price Index (YoY) (Nov),4.70%,4.50%,4.20%
+2021-12-23,20:30:00,,,Durable Goods Orders (MoM) (Nov),2.50%,1.60%,0.10%
+2021-12-23,20:30:00,,,Initial Jobless Claims,205K,205K,205K
+2021-12-23,22:00:00,,,New Home Sales (Nov),744K,770K,662K
+2021-12-24,All Day,,,United States - Christmas,,,
+2021-12-29,22:30:00,,,Crude Oil Inventories,-3.576M,-3.233M,-4.715M
+2021-12-30,20:30:00,,,Initial Jobless Claims,198K,208K,206K
+2021-12-30,21:45:00,,,Chicago PMI (Dec),63.1,62,61.8
+2022-01-04,22:00:00,,,ISM Manufacturing PMI (Dec),58.7,60,61.1
+2022-01-04,22:00:00,,,ISM Manufacturing Prices (Dec),68.2,79.5,82.4
+2022-01-04,22:00:00,,,JOLTS Job Openings (Nov),10.562M,11.075M,11.091M
+2022-01-05,20:15:00,,,ADP Nonfarm Employment Change (Dec),807K,400K,505K
+2022-01-05,22:30:00,,,Crude Oil Inventories,-2.144M,-3.283M,-3.576M
+2022-01-06,02:00:00,,,FOMC Meeting Minutes,,,
+2022-01-06,20:30:00,,,Initial Jobless Claims,207K,197K,200K
+2022-01-06,22:00:00,,,ISM Non-Manufacturing PMI (Dec),62,66.9,69.1
+2022-01-06,22:00:00,,,ISM Non-Manufacturing Prices (Dec),82.5,,82.3
+2022-01-07,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.60%,0.40%,0.40%
+2022-01-07,20:30:00,,,Nonfarm Payrolls (Dec),199K,400K,249K
+2022-01-07,20:30:00,,,Unemployment Rate (Dec),3.90%,4.10%,4.20%
+2022-01-11,22:00:00,,,Fed Chair Powell Testifies,,,
+2022-01-12,20:30:00,,,Core CPI (MoM) (Dec),0.60%,0.50%,0.50%
+2022-01-12,20:30:00,,,CPI (MoM) (Dec),0.50%,0.40%,0.80%
+2022-01-12,20:30:00,,,CPI (YoY) (Dec),7.00%,7.00%,6.80%
+2022-01-12,22:30:00,,,Crude Oil Inventories,-4.553M,-1.904M,-2.144M
+2022-01-13,01:00:00,,,10-Year Note Auction,1.72%,,1.52%
+2022-01-13,20:30:00,,,Initial Jobless Claims,230K,200K,207K
+2022-01-13,20:30:00,,,PPI (MoM) (Dec),0.20%,0.40%,1.00%
+2022-01-14,01:00:00,,,30-Year Bond Auction,2.08%,,1.90%
+2022-01-14,20:30:00,,,Core Retail Sales (MoM) (Dec),-2.30%,0.20%,0.10%
+2022-01-14,20:30:00,,,Retail Sales (MoM) (Dec),-1.90%,-0.10%,0.20%
+2022-01-17,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2022-01-20,20:30:00,,,Initial Jobless Claims,286K,220K,231K
+2022-01-20,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),23.2,20,15.4
+2022-01-20,22:00:00,,,Existing Home Sales (Dec),6.18M,6.44M,6.48M
+2022-01-20,23:00:00,,,Crude Oil Inventories,0.515M,-0.938M,-4.553M
+2022-01-25,22:00:00,,,CB Consumer Confidence (Jan),113.8,111.8,115.2
+2022-01-26,22:00:00,,,New Home Sales (Dec),811K,760K,725K
+2022-01-26,22:30:00,,,Crude Oil Inventories,2.377M,-0.728M,0.515M
+2022-01-27,02:00:00,,,FOMC Statement,,,
+2022-01-27,02:00:00,,,Fed Interest Rate Decision,0.25%,0.25%,0.25%
+2022-01-27,02:30:00,,,FOMC Press Conference,,,
+2022-01-27,20:30:00,,,Durable Goods Orders (MoM) (Dec),-0.90%,-0.50%,3.20%
+2022-01-27,20:30:00,,,GDP (QoQ) (Q4),6.90%,5.50%,2.30%
+2022-01-27,20:30:00,,,Initial Jobless Claims,260K,260K,290K
+2022-01-28,20:30:00,,,Core PCE Price Index (YoY) (Dec),4.90%,4.80%,4.70%
+2022-01-28,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.50%,0.50%,0.50%
+2022-01-31,21:45:00,,,Chicago PMI (Jan),65.2,61.7,64.3
+2022-02-01,22:00:00,,,ISM Manufacturing PMI (Jan),57.6,57.5,58.8
+2022-02-01,22:00:00,,,ISM Manufacturing Prices (Jan),76.1,68.1,68.2
+2022-02-01,22:00:00,,,JOLTS Job Openings (Dec),10.925M,10.300M,10.775M
+2022-02-02,20:15:00,,,ADP Nonfarm Employment Change (Jan),-301K,207K,776K
+2022-02-02,22:30:00,,,Crude Oil Inventories,-1.046M,1.525M,2.377M
+2022-02-03,20:30:00,,,Initial Jobless Claims,238K,245K,261K
+2022-02-03,22:00:00,,,ISM Non-Manufacturing PMI (Jan),59.9,59.5,62.3
+2022-02-03,22:00:00,,,ISM Non-Manufacturing Prices (Jan),82.3,,83.9
+2022-02-04,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.70%,0.50%,0.50%
+2022-02-04,20:30:00,,,Nonfarm Payrolls (Jan),467K,150K,510K
+2022-02-04,20:30:00,,,Unemployment Rate (Jan),4.00%,3.90%,3.90%
+2022-02-04,22:45:00,,,U.S. President Biden Speaks,,,
+2022-02-09,22:30:00,,,Crude Oil Inventories,-4.756M,0.369M,-1.046M
+2022-02-10,01:00:00,,,10-Year Note Auction,1.90%,,1.72%
+2022-02-10,20:30:00,,,Core CPI (MoM) (Jan),0.60%,0.50%,0.60%
+2022-02-10,20:30:00,,,CPI (MoM) (Jan),0.60%,0.50%,0.60%
+2022-02-10,20:30:00,,,CPI (YoY) (Jan),7.50%,7.30%,7.00%
+2022-02-10,20:30:00,,,Initial Jobless Claims,223K,230K,239K
+2022-02-11,01:00:00,,,30-Year Bond Auction,2.34%,,2.08%
+2022-02-15,20:30:00,,,PPI (MoM) (Jan),1.00%,0.50%,0.40%
+2022-02-16,03:30:00,,,U.S. President Biden Speaks,,,
+2022-02-16,20:30:00,,,Core Retail Sales (MoM) (Jan),3.30%,0.80%,-2.80%
+2022-02-16,20:30:00,,,Retail Sales (MoM) (Jan),3.80%,2.00%,-2.50%
+2022-02-16,22:30:00,,,Crude Oil Inventories,1.121M,-1.572M,-4.756M
+2022-02-17,02:00:00,,,FOMC Meeting Minutes,,,
+2022-02-17,20:30:00,,,Initial Jobless Claims,248K,219K,225K
+2022-02-17,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),16,20,23.2
+2022-02-18,22:00:00,,,Existing Home Sales (Jan),6.50M,6.10M,6.09M
+2022-02-19,04:00:00,,,U.S. President Biden Speaks,,,
+2022-02-21,All Day,,,United States - Presidents' Day,,,
+2022-02-22,22:00:00,,,CB Consumer Confidence (Feb),110.5,110,111.1
+2022-02-24,20:30:00,,,GDP (QoQ) (Q4),7.00%,7.00%,6.90%
+2022-02-24,20:30:00,,,Initial Jobless Claims,232K,235K,249K
+2022-02-24,22:00:00,,,New Home Sales (Jan),801K,806K,839K
+2022-02-24,23:00:00,,,Crude Oil Inventories,4.515M,0.442M,1.121M
+2022-02-25,01:30:00,,,U.S. President Biden Speaks,,,
+2022-02-25,20:30:00,,,Core PCE Price Index (YoY) (Jan),5.20%,5.10%,4.90%
+2022-02-25,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.50%,0.50%,0.50%
+2022-02-25,20:30:00,,,Durable Goods Orders (MoM) (Jan),1.60%,0.80%,1.20%
+2022-02-25,23:00:00,,,Fed Monetary Policy Report,,,
+2022-02-28,21:45:00,,,Chicago PMI (Feb),56.3,63,65.2
+2022-03-01,22:00:00,,,ISM Manufacturing PMI (Feb),58.6,58,57.6
+2022-03-01,22:00:00,,,ISM Manufacturing Prices (Feb),75.6,68.1,76.1
+2022-03-02,04:00:00,,,U.S. President Biden Speaks,,,
+2022-03-02,09:00:00,,,U.S. President Biden Speaks,,,
+2022-03-02,20:15:00,,,ADP Nonfarm Employment Change (Feb),475K,378K,509K
+2022-03-02,22:00:00,,,Fed Chair Powell Testifies,,,
+2022-03-02,22:30:00,,,Crude Oil Inventories,-2.597M,2.748M,4.515M
+2022-03-03,20:30:00,,,Initial Jobless Claims,215K,226K,233K
+2022-03-03,22:00:00,,,Fed Chair Powell Testifies,,,
+2022-03-03,22:00:00,,,ISM Non-Manufacturing PMI (Feb),56.5,61,59.9
+2022-03-03,22:00:00,,,ISM Non-Manufacturing Prices (Feb),83.1,,82.3
+2022-03-04,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.00%,0.50%,0.60%
+2022-03-04,20:30:00,,,Nonfarm Payrolls (Feb),678K,400K,481K
+2022-03-04,20:30:00,,,Unemployment Rate (Feb),3.80%,3.90%,4.00%
+2022-03-09,22:00:00,,,JOLTS Job Openings (Jan),11.263M,10.925M,11.448M
+2022-03-09,22:30:00,,,Crude Oil Inventories,-1.863M,-0.657M,-2.597M
+2022-03-10,01:01:00,,,10-Year Note Auction,1.92%,,1.90%
+2022-03-10,20:30:00,,,Core CPI (MoM) (Feb),0.50%,0.50%,0.60%
+2022-03-10,20:30:00,,,CPI (MoM) (Feb),0.80%,0.80%,0.60%
+2022-03-10,20:30:00,,,CPI (YoY) (Feb),7.90%,7.90%,7.50%
+2022-03-10,20:30:00,,,Initial Jobless Claims,227K,217K,216K
+2022-03-11,01:01:00,,,30-Year Bond Auction,2.36%,,2.34%
+2022-03-15,19:30:00,,,PPI (MoM) (Feb),0.80%,0.90%,1.20%
+2022-03-16,19:30:00,,,Core Retail Sales (MoM) (Feb),0.20%,0.90%,4.40%
+2022-03-16,19:30:00,,,Retail Sales (MoM) (Feb),0.30%,0.40%,4.90%
+2022-03-16,21:30:00,,,Crude Oil Inventories,4.345M,-1.375M,-1.863M
+2022-03-17,01:00:00,,,FOMC Economic Projections,,,
+2022-03-17,01:00:00,,,FOMC Statement,,,
+2022-03-17,01:00:00,,,Fed Interest Rate Decision,0.50%,0.50%,0.25%
+2022-03-17,01:30:00,,,FOMC Press Conference,,,
+2022-03-17,19:30:00,,,Initial Jobless Claims,214K,220K,229K
+2022-03-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),27.4,15,16
+2022-03-18,21:00:00,,,Existing Home Sales (Feb),6.02M,6.10M,6.49M
+2022-03-21,23:30:00,,,Fed Chair Powell Speaks,,,
+2022-03-23,19:00:00,,,Fed Chair Powell Speaks,,,
+2022-03-23,21:00:00,,,New Home Sales (Feb),772K,810K,788K
+2022-03-23,21:30:00,,,Crude Oil Inventories,-2.508M,0.114M,4.345M
+2022-03-24,19:30:00,,,Durable Goods Orders (MoM) (Feb),-2.20%,-0.50%,1.60%
+2022-03-24,19:30:00,,,Initial Jobless Claims,187K,212K,215K
+2022-03-29,21:00:00,,,CB Consumer Confidence (Mar),107.2,107,105.7
+2022-03-29,21:00:00,,,JOLTS Job Openings (Feb),11.266M,11.000M,11.283M
+2022-03-30,19:15:00,,,ADP Nonfarm Employment Change (Mar),455K,450K,486K
+2022-03-30,19:30:00,,,GDP (QoQ) (Q4),6.90%,7.10%,7.00%
+2022-03-30,21:30:00,,,Crude Oil Inventories,-3.449M,-1.022M,-2.508M
+2022-03-31,19:30:00,,,Core PCE Price Index (YoY) (Feb),5.40%,5.50%,5.20%
+2022-03-31,19:30:00,,,Core PCE Price Index (MoM) (Feb),0.40%,0.40%,0.50%
+2022-03-31,19:30:00,,,Initial Jobless Claims,202K,197K,188K
+2022-03-31,20:45:00,,,Chicago PMI (Mar),62.9,57,56.3
+2022-04-01,19:30:00,,,Average Hourly Earnings (MoM) (Mar),0.40%,0.40%,0.10%
+2022-04-01,19:30:00,,,Nonfarm Payrolls (Mar),431K,490K,750K
+2022-04-01,19:30:00,,,Unemployment Rate (Mar),3.60%,3.70%,3.80%
+2022-04-01,21:00:00,,,ISM Manufacturing PMI (Mar),57.1,59,58.6
+2022-04-01,21:00:00,,,ISM Manufacturing Prices (Mar),87.1,80,75.6
+2022-04-05,21:00:00,,,ISM Non-Manufacturing PMI (Mar),58.3,58.4,56.5
+2022-04-05,21:00:00,,,ISM Non-Manufacturing Prices (Mar),83.8,,83.1
+2022-04-06,21:30:00,,,Crude Oil Inventories,2.421M,-2.056M,-3.449M
+2022-04-07,01:00:00,,,FOMC Meeting Minutes,,,
+2022-04-07,19:30:00,,,Initial Jobless Claims,166K,200K,171K
+2022-04-12,19:30:00,,,Core CPI (MoM) (Mar),0.30%,0.50%,0.50%
+2022-04-12,19:30:00,,,CPI (MoM) (Mar),1.20%,1.20%,0.80%
+2022-04-12,19:30:00,,,CPI (YoY) (Mar),8.50%,8.40%,7.90%
+2022-04-13,00:00:00,,,10-Year Note Auction,2.72%,,1.92%
+2022-04-13,19:30:00,,,PPI (MoM) (Mar),1.40%,1.10%,0.90%
+2022-04-13,21:30:00,,,Crude Oil Inventories,9.382M,0.863M,2.421M
+2022-04-14,00:00:00,,,30-Year Bond Auction,2.81%,,2.36%
+2022-04-14,19:30:00,,,Core Retail Sales (MoM) (Mar),1.10%,1.00%,0.60%
+2022-04-14,19:30:00,,,Initial Jobless Claims,185K,171K,167K
+2022-04-14,19:30:00,,,Retail Sales (MoM) (Mar),0.50%,0.60%,0.80%
+2022-04-15,All Day,,,United States - Good Friday,,,
+2022-04-20,21:00:00,,,Existing Home Sales (Mar),5.77M,5.80M,5.93M
+2022-04-20,21:30:00,,,Crude Oil Inventories,-8.020M,2.471M,9.382M
+2022-04-21,19:30:00,,,Initial Jobless Claims,184K,180K,186K
+2022-04-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),17.6,21,27.4
+2022-04-21,22:00:00,,,Fed Chair Powell Speaks,,,
+2022-04-22,00:00:00,,,Fed Chair Powell Speaks,,,
+2022-04-26,19:30:00,,,Durable Goods Orders (MoM) (Mar),0.80%,1.00%,-1.70%
+2022-04-26,21:00:00,,,CB Consumer Confidence (Apr),107.3,108,107.6
+2022-04-26,21:00:00,,,New Home Sales (Mar),763K,765K,835K
+2022-04-27,21:30:00,,,Crude Oil Inventories,0.692M,2.000M,-8.020M
+2022-04-28,19:30:00,,,GDP (QoQ) (Q1),-1.40%,1.10%,6.90%
+2022-04-28,19:30:00,,,Initial Jobless Claims,180K,180K,185K
+2022-04-29,19:30:00,,,Core PCE Price Index (YoY) (Mar),5.20%,5.30%,5.30%
+2022-04-29,19:30:00,,,Core PCE Price Index (MoM) (Mar),0.30%,0.30%,0.30%
+2022-04-29,20:45:00,,,Chicago PMI (Apr),56.4,62,62.9
+2022-05-02,21:00:00,,,ISM Manufacturing PMI (Apr),55.4,57.6,57.1
+2022-05-02,21:00:00,,,ISM Manufacturing Prices (Apr),84.6,87.5,87.1
+2022-05-03,21:00:00,,,JOLTS Job Openings (Mar),11.549M,11.000M,11.344M
+2022-05-04,19:15:00,,,ADP Nonfarm Employment Change (Apr),247K,395K,479K
+2022-05-04,21:00:00,,,ISM Non-Manufacturing PMI (Apr),57.1,58.5,58.3
+2022-05-04,21:00:00,,,ISM Non-Manufacturing Prices (Apr),84.6,,83.8
+2022-05-04,21:30:00,,,Crude Oil Inventories,1.302M,-0.829M,0.692M
+2022-05-05,01:00:00,,,FOMC Statement,,,
+2022-05-05,01:00:00,,,Fed Interest Rate Decision,1.00%,1.00%,0.50%
+2022-05-05,01:30:00,,,FOMC Press Conference,,,
+2022-05-05,19:30:00,,,Initial Jobless Claims,200K,182K,181K
+2022-05-06,19:30:00,,,Average Hourly Earnings (MoM) (Apr),0.30%,0.40%,0.50%
+2022-05-06,19:30:00,,,Nonfarm Payrolls (Apr),428K,391K,428K
+2022-05-06,19:30:00,,,Unemployment Rate (Apr),3.60%,3.50%,3.60%
+2022-05-10,22:30:00,,,U.S. President Biden Speaks,,,
+2022-05-11,19:30:00,,,Core CPI (MoM) (Apr),0.60%,0.40%,0.30%
+2022-05-11,19:30:00,,,CPI (MoM) (Apr),0.30%,0.20%,1.20%
+2022-05-11,19:30:00,,,CPI (YoY) (Apr),8.30%,8.10%,8.50%
+2022-05-11,21:30:00,,,Crude Oil Inventories,8.487M,-0.457M,1.302M
+2022-05-12,00:01:00,,,10-Year Note Auction,2.94%,,2.72%
+2022-05-12,19:30:00,,,Initial Jobless Claims,203K,195K,202K
+2022-05-12,19:30:00,,,PPI (MoM) (Apr),0.50%,0.50%,1.60%
+2022-05-13,00:00:00,,,30-Year Bond Auction,3.00%,,2.81%
+2022-05-17,19:30:00,,,Core Retail Sales (MoM) (Apr),0.60%,0.40%,2.10%
+2022-05-17,19:30:00,,,Retail Sales (MoM) (Apr),0.90%,0.90%,1.40%
+2022-05-18,01:00:00,,,Fed Chair Powell Speaks,,,
+2022-05-18,21:30:00,,,Crude Oil Inventories,-3.394M,1.383M,8.487M
+2022-05-19,19:30:00,,,Initial Jobless Claims,218K,200K,197K
+2022-05-19,19:30:00,,,Philadelphia Fed Manufacturing Index (May),2.6,16,17.6
+2022-05-19,21:00:00,,,Existing Home Sales (Apr),5.61M,5.65M,5.75M
+2022-05-24,21:00:00,,,New Home Sales (Apr),591K,750K,709K
+2022-05-24,23:20:00,,,Fed Chair Powell Speaks,,,
+2022-05-25,19:30:00,,,Durable Goods Orders (MoM) (Apr),0.40%,0.60%,0.60%
+2022-05-25,21:30:00,,,Crude Oil Inventories,-1.019M,-0.737M,-3.394M
+2022-05-26,01:00:00,,,FOMC Meeting Minutes,,,
+2022-05-26,19:30:00,,,GDP (QoQ) (Q1),-1.50%,-1.30%,-1.40%
+2022-05-26,19:30:00,,,Initial Jobless Claims,210K,215K,218K
+2022-05-27,19:30:00,,,Core PCE Price Index (YoY) (Apr),4.90%,4.90%,5.20%
+2022-05-27,19:30:00,,,Core PCE Price Index (MoM) (Apr),0.30%,0.30%,0.30%
+2022-05-30,All Day,,,United States - Memorial Day,,,
+2022-05-31,20:45:00,,,Chicago PMI (May),60.3,55,56.4
+2022-05-31,21:00:00,,,CB Consumer Confidence (May),106.4,103.9,108.6
+2022-06-01,21:00:00,,,ISM Manufacturing PMI (May),56.1,54.5,55.4
+2022-06-01,21:00:00,,,ISM Manufacturing Prices (May),82.2,83,84.6
+2022-06-01,21:00:00,,,JOLTS Job Openings (Apr),11.400M,11.400M,11.855M
+2022-06-02,19:15:00,,,ADP Nonfarm Employment Change (May),128K,300K,202K
+2022-06-02,19:30:00,,,Initial Jobless Claims,200K,210K,211K
+2022-06-02,22:00:00,,,Crude Oil Inventories,-5.068M,-1.350M,-1.019M
+2022-06-03,19:30:00,,,Average Hourly Earnings (MoM) (May),0.30%,0.40%,0.30%
+2022-06-03,19:30:00,,,Nonfarm Payrolls (May),390K,325K,436K
+2022-06-03,19:30:00,,,Unemployment Rate (May),3.60%,3.50%,3.60%
+2022-06-03,21:00:00,,,ISM Non-Manufacturing PMI (May),55.9,56.4,57.1
+2022-06-03,21:00:00,,,ISM Non-Manufacturing Prices (May),82.1,,84.6
+2022-06-08,21:30:00,,,Crude Oil Inventories,2.025M,-1.917M,-5.068M
+2022-06-09,00:00:00,,,10-Year Note Auction,3.03%,,2.94%
+2022-06-09,19:30:00,,,Initial Jobless Claims,229K,210K,202K
+2022-06-10,00:00:00,,,30-Year Bond Auction,3.19%,,3.00%
+2022-06-10,19:30:00,,,Core CPI (MoM) (May),0.60%,0.50%,0.60%
+2022-06-10,19:30:00,,,CPI (MoM) (May),1.00%,0.70%,0.30%
+2022-06-10,19:30:00,,,CPI (YoY) (May),8.60%,8.30%,8.30%
+2022-06-14,19:30:00,,,PPI (MoM) (May),0.80%,0.80%,0.40%
+2022-06-15,19:30:00,,,Core Retail Sales (MoM) (May),0.50%,0.80%,0.40%
+2022-06-15,19:30:00,,,Retail Sales (MoM) (May),-0.30%,0.20%,0.70%
+2022-06-15,21:30:00,,,Crude Oil Inventories,1.956M,-1.314M,2.025M
+2022-06-16,01:00:00,,,FOMC Economic Projections,,,
+2022-06-16,01:00:00,,,FOMC Statement,,,
+2022-06-16,01:00:00,,,Fed Interest Rate Decision,1.75%,1.50%,1.00%
+2022-06-16,01:30:00,,,FOMC Press Conference,,,
+2022-06-16,19:30:00,,,Initial Jobless Claims,229K,215K,232K
+2022-06-16,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),-3.3,5.5,2.6
+2022-06-17,19:45:00,,,Fed Chair Powell Speaks,,,
+2022-06-17,23:00:00,,,Fed Monetary Policy Report,,,
+2022-06-20,All Day,,,United States - Juneteenth,,,
+2022-06-21,21:00:00,,,Existing Home Sales (May),5.41M,5.39M,5.60M
+2022-06-22,20:30:00,,,Fed Chair Powell Testifies,,,
+2022-06-23,19:30:00,,,Initial Jobless Claims,229K,227K,231K
+2022-06-23,21:00:00,,,Fed Chair Powell Testifies,,,
+2022-06-24,21:00:00,,,New Home Sales (May),696K,588K,629K
+2022-06-27,19:30:00,,,Durable Goods Orders (MoM) (May),0.70%,0.10%,0.40%
+2022-06-28,21:00:00,,,CB Consumer Confidence (Jun),98.7,100.4,103.2
+2022-06-29,19:30:00,,,GDP (QoQ) (Q1),-1.60%,-1.50%,-1.50%
+2022-06-29,20:00:00,,,Fed Chair Powell Speaks,,,
+2022-06-29,21:25:00,,,Crude Oil Inventories,-0.386M,,1.956M
+2022-06-29,21:30:00,,,Crude Oil Inventories,-2.762M,-0.569M,-0.386M
+2022-06-30,19:30:00,,,Core PCE Price Index (MoM) (May),0.30%,0.40%,0.30%
+2022-06-30,19:30:00,,,Core PCE Price Index (YoY) (May),4.70%,4.80%,4.90%
+2022-06-30,19:30:00,,,Initial Jobless Claims,231K,228K,233K
+2022-06-30,20:45:00,,,Chicago PMI (Jun),56,58,60.3
+2022-07-01,21:00:00,,,ISM Manufacturing PMI (Jun),53,54.9,56.1
+2022-07-01,21:00:00,,,ISM Manufacturing Prices (Jun),78.5,81,82.2
+2022-07-04,All Day,,,United States - Independence Day,,,
+2022-07-06,21:00:00,,,ISM Non-Manufacturing PMI (Jun),55.3,54.3,55.9
+2022-07-06,21:00:00,,,ISM Non-Manufacturing Prices (Jun),80.1,,82.1
+2022-07-06,21:00:00,,,JOLTS Job Openings (May),11.254M,11.000M,11.681M
+2022-07-07,01:00:00,,,FOMC Meeting Minutes,,,
+2022-07-07,19:30:00,,,Initial Jobless Claims,235K,230K,231K
+2022-07-07,22:00:00,,,Crude Oil Inventories,8.235M,-1.043M,-2.762M
+2022-07-08,19:30:00,,,Average Hourly Earnings (MoM) (Jun),0.30%,0.30%,0.40%
+2022-07-08,19:30:00,,,Nonfarm Payrolls (Jun),372K,268K,384K
+2022-07-08,19:30:00,,,Unemployment Rate (Jun),3.60%,3.60%,3.60%
+2022-07-13,00:00:00,,,10-Year Note Auction,2.96%,,3.03%
+2022-07-13,19:30:00,,,Core CPI (MoM) (Jun),0.70%,0.60%,0.60%
+2022-07-13,19:30:00,,,CPI (MoM) (Jun),1.30%,1.10%,1.00%
+2022-07-13,19:30:00,,,CPI (YoY) (Jun),9.10%,8.80%,8.60%
+2022-07-13,21:30:00,,,Crude Oil Inventories,3.254M,-0.154M,8.235M
+2022-07-14,00:00:00,,,30-Year Bond Auction,3.12%,,3.19%
+2022-07-14,19:30:00,,,Initial Jobless Claims,244K,235K,235K
+2022-07-14,19:30:00,,,PPI (MoM) (Jun),1.10%,0.80%,0.90%
+2022-07-15,19:30:00,,,Core Retail Sales (MoM) (Jun),1.00%,0.60%,0.60%
+2022-07-15,19:30:00,,,Retail Sales (MoM) (Jun),1.00%,0.80%,-0.10%
+2022-07-20,21:00:00,,,Existing Home Sales (Jun),5.12M,5.38M,5.41M
+2022-07-20,21:30:00,,,Crude Oil Inventories,-0.446M,1.357M,3.254M
+2022-07-21,19:30:00,,,Initial Jobless Claims,251K,240K,244K
+2022-07-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),-12.3,-2.5,-3.3
+2022-07-26,21:00:00,,,CB Consumer Confidence (Jul),95.7,97.2,98.4
+2022-07-26,21:00:00,,,New Home Sales (Jun),590K,660K,642K
+2022-07-27,19:30:00,,,Durable Goods Orders (MoM) (Jun),1.90%,-0.50%,0.80%
+2022-07-27,21:30:00,,,Crude Oil Inventories,-4.523M,-1.037M,-0.446M
+2022-07-28,01:00:00,,,FOMC Statement,,,
+2022-07-28,01:00:00,,,Fed Interest Rate Decision,2.50%,2.50%,1.75%
+2022-07-28,01:30:00,,,FOMC Press Conference,,,
+2022-07-28,19:30:00,,,GDP (QoQ) (Q2),-0.90%,0.50%,-1.60%
+2022-07-28,19:30:00,,,Initial Jobless Claims,256K,253K,261K
+2022-07-28,23:55:00,,,U.S. President Biden Speaks,,,
+2022-07-29,01:40:00,,,U.S. President Biden Speaks,,,
+2022-07-29,19:30:00,,,Core PCE Price Index (YoY) (Jun),4.80%,4.70%,4.70%
+2022-07-29,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.60%,0.50%,0.30%
+2022-07-29,20:45:00,,,Chicago PMI (Jul),52.1,55,56
+2022-08-01,21:00:00,,,ISM Manufacturing PMI (Jul),52.8,52,53
+2022-08-01,21:00:00,,,ISM Manufacturing Prices (Jul),60,74.3,78.5
+2022-08-02,21:00:00,,,JOLTS Job Openings (Jun),10.698M,11.000M,11.303M
+2022-08-03,21:00:00,,,ISM Non-Manufacturing PMI (Jul),56.7,53.5,55.3
+2022-08-03,21:00:00,,,ISM Non-Manufacturing Prices (Jul),72.3,,80.1
+2022-08-03,21:30:00,,,Crude Oil Inventories,4.467M,-0.629M,-4.523M
+2022-08-04,19:30:00,,,Initial Jobless Claims,260K,259K,254K
+2022-08-05,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.50%,0.30%,0.40%
+2022-08-05,19:30:00,,,Nonfarm Payrolls (Jul),528K,250K,398K
+2022-08-05,19:30:00,,,Unemployment Rate (Jul),3.50%,3.60%,3.60%
+2022-08-10,19:30:00,,,Core CPI (MoM) (Jul),0.30%,0.50%,0.70%
+2022-08-10,19:30:00,,,CPI (MoM) (Jul),0.00%,0.20%,1.30%
+2022-08-10,19:30:00,,,CPI (YoY) (Jul),8.50%,8.70%,9.10%
+2022-08-10,21:30:00,,,Crude Oil Inventories,5.458M,0.073M,4.467M
+2022-08-11,00:00:00,,,10-Year Note Auction,2.76%,,2.96%
+2022-08-11,19:30:00,,,Initial Jobless Claims,262K,263K,248K
+2022-08-11,19:30:00,,,PPI (MoM) (Jul),-0.50%,0.20%,1.00%
+2022-08-12,00:00:00,,,30-Year Bond Auction,3.11%,,3.12%
+2022-08-17,19:30:00,,,Core Retail Sales (MoM) (Jul),0.40%,-0.10%,0.90%
+2022-08-17,19:30:00,,,Retail Sales (MoM) (Jul),0.00%,0.10%,0.80%
+2022-08-17,21:30:00,,,Crude Oil Inventories,-7.056M,-0.275M,5.458M
+2022-08-18,01:00:00,,,FOMC Meeting Minutes,,,
+2022-08-18,19:30:00,,,Initial Jobless Claims,250K,265K,252K
+2022-08-18,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),6.2,-5,-12.3
+2022-08-18,21:00:00,,,Existing Home Sales (Jul),4.81M,4.89M,5.11M
+2022-08-23,21:00:00,,,New Home Sales (Jul),511K,575K,585K
+2022-08-24,19:30:00,,,Durable Goods Orders (MoM) (Jul),0.00%,0.60%,2.00%
+2022-08-24,21:30:00,,,Crude Oil Inventories,-3.282M,-0.933M,-7.056M
+2022-08-25,19:30:00,,,GDP (QoQ) (Q2),-0.60%,-0.80%,-0.90%
+2022-08-25,19:30:00,,,Initial Jobless Claims,243K,253K,245K
+2022-08-26,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.10%,0.30%,0.60%
+2022-08-26,19:30:00,,,Core PCE Price Index (YoY) (Jul),4.60%,4.70%,4.80%
+2022-08-26,21:00:00,,,Fed Chair Powell Speaks,,,
+2022-08-30,21:00:00,,,CB Consumer Confidence (Aug),103.2,97.9,95.3
+2022-08-30,21:00:00,,,JOLTS Job Openings (Jul),11.239M,10.475M,11.040M
+2022-08-31,19:15:00,,,ADP Nonfarm Employment Change (Aug),132K,300K,268K
+2022-08-31,20:45:00,,,Chicago PMI (Aug),52.2,52,52.1
+2022-08-31,21:30:00,,,Crude Oil Inventories,-3.326M,-1.483M,-3.282M
+2022-09-01,19:30:00,,,Initial Jobless Claims,232K,248K,237K
+2022-09-01,21:00:00,,,ISM Manufacturing PMI (Aug),52.8,52,52.8
+2022-09-01,21:00:00,,,ISM Manufacturing Prices (Aug),52.5,55.5,60
+2022-09-02,19:30:00,,,Average Hourly Earnings (MoM) (Aug),0.30%,0.40%,0.50%
+2022-09-02,19:30:00,,,Nonfarm Payrolls (Aug),315K,300K,526K
+2022-09-02,19:30:00,,,Unemployment Rate (Aug),3.70%,3.50%,3.50%
+2022-09-05,All Day,,,United States - Labor Day,,,
+2022-09-06,21:00:00,,,ISM Non-Manufacturing PMI (Aug),56.9,55.1,56.7
+2022-09-06,21:00:00,,,ISM Non-Manufacturing Prices (Aug),71.5,,72.3
+2022-09-08,19:30:00,,,Initial Jobless Claims,222K,240K,228K
+2022-09-08,20:10:00,,,Fed Chair Powell Speaks,,,
+2022-09-08,22:00:00,,,Crude Oil Inventories,8.844M,-0.250M,-3.326M
+2022-09-13,00:00:00,,,10-Year Note Auction,3.33%,,2.76%
+2022-09-13,19:30:00,,,Core CPI (MoM) (Aug),0.60%,0.30%,0.30%
+2022-09-13,19:30:00,,,CPI (MoM) (Aug),0.10%,-0.10%,0.00%
+2022-09-13,19:30:00,,,CPI (YoY) (Aug),8.30%,8.10%,8.50%
+2022-09-14,00:01:00,,,30-Year Bond Auction,3.51%,,3.11%
+2022-09-14,19:30:00,,,PPI (MoM) (Aug),-0.10%,-0.10%,-0.40%
+2022-09-14,21:30:00,,,Crude Oil Inventories,2.442M,0.833M,8.844M
+2022-09-15,19:30:00,,,Core Retail Sales (MoM) (Aug),-0.30%,0.10%,0.40%
+2022-09-15,19:30:00,,,Initial Jobless Claims,213K,226K,218K
+2022-09-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Sep),-9.9,2.8,6.2
+2022-09-15,19:30:00,,,Retail Sales (MoM) (Aug),0.30%,0.20%,-0.40%
+2022-09-21,21:00:00,,,Existing Home Sales (Aug),4.80M,4.70M,4.82M
+2022-09-21,21:30:00,,,Crude Oil Inventories,1.142M,2.161M,2.442M
+2022-09-22,01:00:00,,,FOMC Economic Projections,,,
+2022-09-22,01:00:00,,,FOMC Statement,,,
+2022-09-22,01:00:00,,,Fed Interest Rate Decision,3.25%,3.25%,2.50%
+2022-09-22,01:30:00,,,FOMC Press Conference,,,
+2022-09-22,19:30:00,,,Initial Jobless Claims,213K,218K,208K
+2022-09-24,01:00:00,,,Fed Chair Powell Speaks,,,
+2022-09-27,19:30:00,,,Durable Goods Orders (MoM) (Aug),-0.20%,-0.40%,-0.10%
+2022-09-27,21:00:00,,,CB Consumer Confidence (Sep),108,104.5,103.6
+2022-09-27,21:00:00,,,New Home Sales (Aug),685K,500K,532K
+2022-09-28,21:15:00,,,Fed Chair Powell Speaks,,,
+2022-09-28,21:30:00,,,Crude Oil Inventories,-0.215M,0.443M,1.142M
+2022-09-29,19:30:00,,,GDP (QoQ) (Q2),-0.60%,-0.60%,-1.60%
+2022-09-29,19:30:00,,,Initial Jobless Claims,193K,215K,209K
+2022-09-30,19:30:00,,,Core PCE Price Index (YoY) (Aug),4.90%,4.70%,4.70%
+2022-09-30,19:30:00,,,Core PCE Price Index (MoM) (Aug),0.60%,0.50%,0.10%
+2022-09-30,20:45:00,,,Chicago PMI (Sep),45.7,51.8,52.2
+2022-10-03,21:00:00,,,ISM Manufacturing PMI (Sep),50.9,52.2,52.8
+2022-10-03,21:00:00,,,ISM Manufacturing Prices (Sep),51.7,51.9,52.5
+2022-10-04,21:00:00,,,JOLTS Job Openings (Aug),10.053M,10.775M,11.170M
+2022-10-05,19:15:00,,,ADP Nonfarm Employment Change (Sep),208K,200K,185K
+2022-10-05,21:00:00,,,ISM Non-Manufacturing PMI (Sep),56.7,56,56.9
+2022-10-05,21:00:00,,,ISM Non-Manufacturing Prices (Sep),68.7,,71.5
+2022-10-05,21:30:00,,,Crude Oil Inventories,-1.356M,2.052M,-0.215M
+2022-10-06,19:30:00,,,Initial Jobless Claims,219K,203K,190K
+2022-10-07,19:30:00,,,Average Hourly Earnings (MoM) (Sep),0.30%,0.30%,0.30%
+2022-10-07,19:30:00,,,Nonfarm Payrolls (Sep),263K,250K,315K
+2022-10-07,19:30:00,,,Unemployment Rate (Sep),3.50%,3.70%,3.70%
+2022-10-12,19:30:00,,,PPI (MoM) (Sep),0.40%,0.20%,-0.20%
+2022-10-13,00:00:00,,,10-Year Note Auction,3.93%,,3.33%
+2022-10-13,01:00:00,,,FOMC Meeting Minutes,,,
+2022-10-13,19:30:00,,,Core CPI (MoM) (Sep),0.60%,0.50%,0.60%
+2022-10-13,19:30:00,,,CPI (MoM) (Sep),0.40%,0.20%,0.20%
+2022-10-13,19:30:00,,,CPI (YoY) (Sep),8.20%,8.10%,8.20%
+2022-10-13,19:30:00,,,Initial Jobless Claims,228K,225K,219K
+2022-10-13,22:00:00,,,Crude Oil Inventories,9.880M,1.750M,-1.356M
+2022-10-14,00:00:00,,,30-Year Bond Auction,3.93%,,3.51%
+2022-10-14,19:30:00,,,Core Retail Sales (MoM) (Sep),0.10%,-0.10%,-0.10%
+2022-10-14,19:30:00,,,Retail Sales (MoM) (Sep),0.00%,0.20%,0.40%
+2022-10-19,21:30:00,,,Crude Oil Inventories,-1.725M,1.380M,9.880M
+2022-10-20,19:30:00,,,Initial Jobless Claims,214K,230K,226K
+2022-10-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Oct),-8.7,-5,-9.9
+2022-10-20,21:00:00,,,Existing Home Sales (Sep),4.71M,4.70M,4.78M
+2022-10-25,21:00:00,,,CB Consumer Confidence (Oct),102.5,106.5,107.8
+2022-10-26,21:00:00,,,New Home Sales (Sep),603K,585K,677K
+2022-10-26,21:30:00,,,Crude Oil Inventories,2.588M,1.029M,-1.725M
+2022-10-27,19:30:00,,,Durable Goods Orders (MoM) (Sep),0.40%,0.60%,0.20%
+2022-10-27,19:30:00,,,GDP (QoQ) (Q3),2.60%,2.40%,-0.60%
+2022-10-27,19:30:00,,,Initial Jobless Claims,217K,220K,214K
+2022-10-28,19:30:00,,,Core PCE Price Index (YoY) (Sep),5.10%,5.20%,4.90%
+2022-10-28,19:30:00,,,Core PCE Price Index (MoM) (Sep),0.50%,0.50%,0.50%
+2022-10-31,20:45:00,,,Chicago PMI (Oct),45.2,47,45.7
+2022-11-01,03:30:00,,,U.S. President Biden Speaks,,,
+2022-11-01,21:00:00,,,ISM Manufacturing PMI (Oct),50.2,50,50.9
+2022-11-01,21:00:00,,,ISM Manufacturing Prices (Oct),46.6,52.5,51.7
+2022-11-01,21:00:00,,,JOLTS Job Openings (Sep),10.717M,10.000M,10.280M
+2022-11-02,19:15:00,,,ADP Nonfarm Employment Change (Oct),239K,195K,192K
+2022-11-02,21:30:00,,,Crude Oil Inventories,-3.115M,0.367M,2.588M
+2022-11-03,01:00:00,,,FOMC Statement,,,
+2022-11-03,01:00:00,,,Fed Interest Rate Decision,4.00%,4.00%,3.25%
+2022-11-03,01:30:00,,,FOMC Press Conference,,,
+2022-11-03,19:30:00,,,Initial Jobless Claims,217K,220K,218K
+2022-11-03,21:00:00,,,ISM Non-Manufacturing PMI (Oct),54.4,55.5,56.7
+2022-11-03,21:00:00,,,ISM Non-Manufacturing Prices (Oct),70.7,,68.7
+2022-11-04,19:30:00,,,Average Hourly Earnings (MoM) (Oct),0.40%,0.30%,0.30%
+2022-11-04,19:30:00,,,Nonfarm Payrolls (Oct),261K,200K,315K
+2022-11-04,19:30:00,,,Unemployment Rate (Oct),3.70%,3.60%,3.50%
+2022-11-09,22:30:00,,,Crude Oil Inventories,3.925M,1.360M,-3.115M
+2022-11-10,01:00:00,,,10-Year Note Auction,4.14%,,3.93%
+2022-11-10,20:30:00,,,Core CPI (MoM) (Oct),0.30%,0.50%,0.60%
+2022-11-10,20:30:00,,,CPI (MoM) (Oct),0.40%,0.60%,0.40%
+2022-11-10,20:30:00,,,CPI (YoY) (Oct),7.70%,8.00%,8.20%
+2022-11-10,20:30:00,,,Initial Jobless Claims,225K,220K,218K
+2022-11-11,01:00:00,,,30-Year Bond Auction,4.08%,,3.93%
+2022-11-15,20:30:00,,,PPI (MoM) (Oct),0.20%,0.40%,0.20%
+2022-11-16,20:30:00,,,Core Retail Sales (MoM) (Oct),1.30%,0.40%,0.10%
+2022-11-16,20:30:00,,,Retail Sales (MoM) (Oct),1.30%,1.00%,0.00%
+2022-11-16,22:30:00,,,Crude Oil Inventories,-5.400M,-0.440M,3.925M
+2022-11-17,20:30:00,,,Initial Jobless Claims,222K,225K,226K
+2022-11-17,20:30:00,,,Philadelphia Fed Manufacturing Index (Nov),-19.4,-6.2,-8.7
+2022-11-18,01:45:00,,,Sec Kashkari Speaks,,,
+2022-11-18,22:00:00,,,Existing Home Sales (Oct),4.43M,4.38M,4.71M
+2022-11-23,20:30:00,,,Durable Goods Orders (MoM) (Oct),1.00%,0.40%,0.30%
+2022-11-23,20:30:00,,,Initial Jobless Claims,240K,225K,223K
+2022-11-23,22:00:00,,,New Home Sales (Oct),632K,570K,588K
+2022-11-23,22:30:00,,,Crude Oil Inventories,-3.691M,-1.055M,-5.400M
+2022-11-24,All Day,,,United States - Thanksgiving Day,,,
+2022-11-24,02:00:00,,,FOMC Meeting Minutes,,,
+2022-11-25,,,,United States - Thanksgiving Day - Early close at 13:00,,,
+2022-11-29,22:00:00,,,CB Consumer Confidence (Nov),100.2,100,102.2
+2022-11-30,20:15:00,,,ADP Nonfarm Employment Change (Nov),127K,200K,239K
+2022-11-30,20:30:00,,,GDP (QoQ) (Q3),2.90%,2.70%,2.60%
+2022-11-30,21:45:00,,,Chicago PMI (Nov),37.2,47,45.2
+2022-11-30,22:00:00,,,JOLTS Job Openings (Oct),10.334M,10.300M,10.687M
+2022-11-30,22:30:00,,,Crude Oil Inventories,-12.580M,-2.758M,-3.691M
+2022-12-01,01:30:00,,,Fed Chair Powell Speaks,,,
+2022-12-01,20:30:00,,,Core PCE Price Index (YoY) (Oct),5.00%,5.00%,5.20%
+2022-12-01,20:30:00,,,Core PCE Price Index (MoM) (Oct),0.20%,0.30%,0.50%
+2022-12-01,20:30:00,,,Initial Jobless Claims,225K,235K,241K
+2022-12-01,22:00:00,,,ISM Manufacturing PMI (Nov),49,49.8,50.2
+2022-12-01,22:00:00,,,ISM Manufacturing Prices (Nov),43,47.5,46.6
+2022-12-02,19:30:00,,,Unemployment Rate (Nov),3.70%,3.70%,3.70%
+2022-12-02,20:30:00,,,Average Hourly Earnings (MoM) (Nov),0.60%,0.30%,0.50%
+2022-12-02,20:30:00,,,Nonfarm Payrolls (Nov),263K,200K,284K
+2022-12-05,22:00:00,,,ISM Non-Manufacturing PMI (Nov),56.5,53.3,54.4
+2022-12-05,22:00:00,,,ISM Non-Manufacturing Prices (Nov),70,,70.7
+2022-12-07,22:30:00,,,Crude Oil Inventories,-5.187M,-3.305M,-12.580M
+2022-12-08,20:30:00,,,Initial Jobless Claims,230K,230K,226K
+2022-12-09,20:30:00,,,PPI (MoM) (Nov),0.30%,0.20%,0.30%
+2022-12-13,01:00:00,,,10-Year Note Auction,3.62%,,4.14%
+2022-12-13,20:30:00,,,Core CPI (MoM) (Nov),0.20%,0.30%,0.30%
+2022-12-13,20:30:00,,,CPI (MoM) (Nov),0.10%,0.30%,0.50%
+2022-12-13,20:30:00,,,CPI (YoY) (Nov),7.10%,7.30%,7.80%
+2022-12-14,01:00:00,,,30-Year Bond Auction,3.51%,,4.08%
+2022-12-14,22:30:00,,,Crude Oil Inventories,10.231M,-3.595M,-5.187M
+2022-12-15,02:00:00,,,FOMC Economic Projections,,,
+2022-12-15,02:00:00,,,FOMC Statement,,,
+2022-12-15,02:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.00%
+2022-12-15,02:30:00,,,FOMC Press Conference,,,
+2022-12-15,20:30:00,,,Core Retail Sales (MoM) (Nov),-0.20%,0.20%,1.20%
+2022-12-15,20:30:00,,,Initial Jobless Claims,211K,230K,231K
+2022-12-15,20:30:00,,,Philadelphia Fed Manufacturing Index (Dec),-13.8,-10,-19.4
+2022-12-15,20:30:00,,,Retail Sales (MoM) (Nov),-0.60%,-0.10%,1.30%
+2022-12-21,22:00:00,,,CB Consumer Confidence (Dec),108.3,101,101.4
+2022-12-21,22:00:00,,,Existing Home Sales (Nov),4.09M,4.20M,4.43M
+2022-12-21,22:30:00,,,Crude Oil Inventories,-5.894M,-1.657M,10.231M
+2022-12-22,20:30:00,,,GDP (QoQ) (Q3),3.20%,2.90%,-0.60%
+2022-12-22,20:30:00,,,Initial Jobless Claims,216K,222K,214K
+2022-12-23,20:30:00,,,Core PCE Price Index (MoM) (Nov),0.20%,0.20%,0.30%
+2022-12-23,20:30:00,,,Core PCE Price Index (YoY) (Nov),4.70%,4.70%,5.00%
+2022-12-23,20:30:00,,,Durable Goods Orders (MoM) (Nov),-2.10%,-0.60%,0.70%
+2022-12-23,22:00:00,,,New Home Sales (Nov),640K,600K,605K
+2022-12-26,All Day,,,United States - Christmas,,,
+2022-12-29,20:30:00,,,Initial Jobless Claims,225K,225K,216K
+2022-12-29,23:00:00,,,Crude Oil Inventories,0.718M,-1.520M,-5.894M
+2022-12-30,21:45:00,,,Chicago PMI (Dec),44.9,40,37.2
+2023-01-02,All Day,,,United States - New Year's Day,,,
+2023-01-04,22:00:00,,,ISM Manufacturing PMI (Dec),48.4,48.5,49
+2023-01-04,22:00:00,,,ISM Manufacturing Prices (Dec),39.4,42.6,43
+2023-01-04,22:00:00,,,JOLTS Job Openings (Nov),10.458M,10.000M,10.512M
+2023-01-05,02:00:00,,,FOMC Meeting Minutes,,,
+2023-01-05,20:15:00,,,ADP Nonfarm Employment Change (Dec),235K,150K,182K
+2023-01-05,20:30:00,,,Initial Jobless Claims,204K,225K,223K
+2023-01-05,23:00:00,,,Crude Oil Inventories,1.694M,1.154M,0.718M
+2023-01-06,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.30%,0.40%,0.40%
+2023-01-06,20:30:00,,,Nonfarm Payrolls (Dec),223K,200K,256K
+2023-01-06,20:30:00,,,Unemployment Rate (Dec),3.50%,3.70%,3.60%
+2023-01-06,22:00:00,,,ISM Non-Manufacturing PMI (Dec),49.6,55,56.5
+2023-01-06,22:00:00,,,ISM Non-Manufacturing Prices (Dec),67.6,,70
+2023-01-10,21:00:00,,,Fed Chair Powell Speaks,,,
+2023-01-11,22:30:00,,,Crude Oil Inventories,18.962M,-2.243M,1.694M
+2023-01-12,01:00:00,,,10-Year Note Auction,3.57%,,3.62%
+2023-01-12,20:30:00,,,Core CPI (MoM) (Dec),0.30%,0.30%,0.30%
+2023-01-12,20:30:00,,,CPI (MoM) (Dec),-0.10%,0.00%,0.20%
+2023-01-12,20:30:00,,,CPI (YoY) (Dec),6.50%,6.50%,7.10%
+2023-01-12,20:30:00,,,Initial Jobless Claims,205K,215K,206K
+2023-01-13,01:00:00,,,30-Year Bond Auction,3.58%,,3.51%
+2023-01-16,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2023-01-18,20:30:00,,,Core Retail Sales (MoM) (Dec),-1.10%,-0.40%,-0.60%
+2023-01-18,20:30:00,,,PPI (MoM) (Dec),-0.50%,-0.10%,0.20%
+2023-01-18,20:30:00,,,Retail Sales (MoM) (Dec),-1.10%,-0.80%,-1.00%
+2023-01-19,20:30:00,,,Initial Jobless Claims,190K,214K,205K
+2023-01-19,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),-8.9,-11,-13.7
+2023-01-19,23:00:00,,,Crude Oil Inventories,8.408M,-0.593M,18.962M
+2023-01-20,22:00:00,,,Existing Home Sales (Dec),4.02M,3.96M,4.08M
+2023-01-25,22:30:00,,,Crude Oil Inventories,0.533M,0.971M,8.408M
+2023-01-26,20:30:00,,,Durable Goods Orders (MoM) (Dec),5.60%,2.50%,-1.70%
+2023-01-26,20:30:00,,,GDP (QoQ) (Q4),2.90%,2.60%,3.20%
+2023-01-26,20:30:00,,,Initial Jobless Claims,186K,205K,192K
+2023-01-26,22:00:00,,,New Home Sales (Dec),616K,617K,602K
+2023-01-27,02:45:00,,,U.S. President Biden Speaks,,,
+2023-01-27,20:30:00,,,Core PCE Price Index (YoY) (Dec),4.40%,4.40%,4.70%
+2023-01-27,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.30%,0.30%,0.20%
+2023-01-31,21:45:00,,,Chicago PMI (Jan),44.3,45,45.1
+2023-01-31,22:00:00,,,CB Consumer Confidence (Jan),107.1,109,109
+2023-02-01,20:15:00,,,ADP Nonfarm Employment Change (Jan),106K,178K,253K
+2023-02-01,22:00:00,,,ISM Manufacturing PMI (Jan),47.4,48,48.4
+2023-02-01,22:00:00,,,ISM Manufacturing Prices (Jan),44.5,39.5,39.4
+2023-02-01,22:00:00,,,JOLTS Job Openings (Dec),11.012M,10.250M,10.440M
+2023-02-01,22:30:00,,,Crude Oil Inventories,4.140M,0.376M,0.533M
+2023-02-02,02:00:00,,,FOMC Statement,,,
+2023-02-02,02:00:00,,,Fed Interest Rate Decision,4.75%,4.75%,4.50%
+2023-02-02,02:30:00,,,FOMC Press Conference,,,
+2023-02-02,20:30:00,,,Initial Jobless Claims,183K,200K,186K
+2023-02-03,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.30%,0.30%,0.40%
+2023-02-03,20:30:00,,,Nonfarm Payrolls (Jan),517K,185K,260K
+2023-02-03,20:30:00,,,Unemployment Rate (Jan),3.40%,3.60%,3.50%
+2023-02-03,22:00:00,,,ISM Non-Manufacturing PMI (Jan),55.2,50.4,49.2
+2023-02-03,22:00:00,,,ISM Non-Manufacturing Prices (Jan),67.8,,68.1
+2023-02-08,00:40:00,,,Fed Chair Powell Speaks,,,
+2023-02-08,22:30:00,,,Crude Oil Inventories,2.423M,2.457M,4.140M
+2023-02-09,01:01:00,,,10-Year Note Auction,3.61%,,3.57%
+2023-02-09,20:30:00,,,Initial Jobless Claims,196K,190K,183K
+2023-02-10,01:00:00,,,30-Year Bond Auction,3.69%,,3.58%
+2023-02-14,20:30:00,,,Core CPI (MoM) (Jan),0.40%,0.40%,0.40%
+2023-02-14,20:30:00,,,CPI (MoM) (Jan),0.50%,0.50%,0.10%
+2023-02-14,20:30:00,,,CPI (YoY) (Jan),6.40%,6.20%,6.50%
+2023-02-15,20:30:00,,,Core Retail Sales (MoM) (Jan),2.30%,0.80%,-0.90%
+2023-02-15,20:30:00,,,Retail Sales (MoM) (Jan),3.00%,1.80%,-1.10%
+2023-02-15,22:30:00,,,Crude Oil Inventories,16.283M,1.166M,2.423M
+2023-02-16,20:30:00,,,Initial Jobless Claims,194K,200K,195K
+2023-02-16,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),-24.3,-7.4,-8.9
+2023-02-16,20:30:00,,,PPI (MoM) (Jan),0.70%,0.40%,-0.20%
+2023-02-20,All Day,,,United States - Washington's Birthday,,,
+2023-02-21,22:00:00,,,Existing Home Sales (Jan),4.00M,4.10M,4.03M
+2023-02-23,02:00:00,,,FOMC Meeting Minutes,,,
+2023-02-23,20:30:00,,,GDP (QoQ) (Q4),2.70%,2.90%,3.20%
+2023-02-23,20:30:00,,,Initial Jobless Claims,192K,200K,195K
+2023-02-23,23:00:00,,,Crude Oil Inventories,7.648M,2.083M,16.283M
+2023-02-24,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.60%,0.40%,0.40%
+2023-02-24,20:30:00,,,Core PCE Price Index (YoY) (Jan),4.70%,4.30%,4.60%
+2023-02-24,22:00:00,,,New Home Sales (Jan),670K,620K,625K
+2023-02-27,20:30:00,,,Durable Goods Orders (MoM) (Jan),-4.50%,-4.00%,5.10%
+2023-02-28,21:45:00,,,Chicago PMI (Feb),43.6,45,44.3
+2023-02-28,22:00:00,,,CB Consumer Confidence (Feb),102.9,108.5,106
+2023-03-01,22:00:00,,,ISM Manufacturing PMI (Feb),47.7,48,47.4
+2023-03-01,22:00:00,,,ISM Manufacturing Prices (Feb),51.3,45.1,44.5
+2023-03-01,22:30:00,,,Crude Oil Inventories,1.165M,0.457M,7.648M
+2023-03-02,20:30:00,,,Initial Jobless Claims,190K,195K,192K
+2023-03-03,22:00:00,,,Fed Monetary Policy Report,,,
+2023-03-03,22:00:00,,,ISM Non-Manufacturing PMI (Feb),55.1,54.5,55.2
+2023-03-03,22:00:00,,,ISM Non-Manufacturing Prices (Feb),65.6,,67.8
+2023-03-07,22:00:00,,,Fed Chair Powell Testifies,,,
+2023-03-08,20:15:00,,,ADP Nonfarm Employment Change (Feb),242K,200K,119K
+2023-03-08,22:00:00,,,Fed Chair Powell Testifies,,,
+2023-03-08,22:00:00,,,JOLTS Job Openings (Jan),10.824M,10.500M,11.234M
+2023-03-08,22:30:00,,,Crude Oil Inventories,-1.694M,0.395M,1.165M
+2023-03-09,01:00:00,,,10-Year Note Auction,3.98%,,3.61%
+2023-03-09,20:30:00,,,Initial Jobless Claims,211K,195K,190K
+2023-03-10,01:00:00,,,30-Year Bond Auction,3.88%,,3.69%
+2023-03-10,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.20%,0.30%,0.30%
+2023-03-10,20:30:00,,,Nonfarm Payrolls (Feb),311K,205K,504K
+2023-03-10,20:30:00,,,Unemployment Rate (Feb),3.60%,3.40%,3.40%
+2023-03-13,20:00:00,,,U.S. President Biden Speaks,,,
+2023-03-14,19:30:00,,,Core CPI (MoM) (Feb),0.50%,0.40%,0.40%
+2023-03-14,19:30:00,,,CPI (MoM) (Feb),0.40%,0.40%,0.50%
+2023-03-14,19:30:00,,,CPI (YoY) (Feb),6.00%,6.00%,6.40%
+2023-03-15,19:30:00,,,Core Retail Sales (MoM) (Feb),-0.10%,-0.10%,2.40%
+2023-03-15,19:30:00,,,PPI (MoM) (Feb),-0.10%,0.30%,0.30%
+2023-03-15,19:30:00,,,Retail Sales (MoM) (Feb),-0.40%,-0.30%,3.20%
+2023-03-15,21:30:00,,,Crude Oil Inventories,1.550M,1.188M,-1.694M
+2023-03-16,19:30:00,,,Initial Jobless Claims,192K,205K,212K
+2023-03-16,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),-23.2,-15.6,-24.3
+2023-03-21,21:00:00,,,Existing Home Sales,4.58M,4.19M,4.00M
+2023-03-22,21:30:00,,,Crude Oil Inventories,1.117M,-1.565M,1.550M
+2023-03-23,01:00:00,,,FOMC Economic Projections,,,
+2023-03-23,01:00:00,,,Fed Interest Rate Decision,5.00%,5.00%,4.75%
+2023-03-23,01:30:00,,,FOMC Press Conference,,,
+2023-03-23,19:30:00,,,Initial Jobless Claims,191K,197K,192K
+2023-03-23,21:00:00,,,New Home Sales (Feb),640K,650K,633K
+2023-03-24,19:30:00,,,Durable Goods Orders (MoM) (Feb),-1.00%,0.60%,-5.00%
+2023-03-28,21:00:00,,,CB Consumer Confidence (Mar),104.2,101,103.4
+2023-03-29,21:30:00,,,Crude Oil Inventories,-7.489M,0.092M,1.117M
+2023-03-30,19:30:00,,,GDP (QoQ) (Q4),2.60%,2.70%,3.20%
+2023-03-30,19:30:00,,,Initial Jobless Claims,198K,196K,191K
+2023-03-31,19:30:00,,,Core PCE Price Index (MoM) (Feb),0.30%,0.40%,0.50%
+2023-03-31,19:30:00,,,Core PCE Price Index (YoY) (Feb),4.60%,4.70%,4.70%
+2023-03-31,20:45:00,,,Chicago PMI (Mar),43.8,43.4,43.6
+2023-04-03,21:00:00,,,ISM Manufacturing PMI (Mar),46.3,47.5,47.7
+2023-04-03,21:00:00,,,ISM Manufacturing Prices (Mar),49.2,51.2,51.3
+2023-04-04,21:00:00,,,JOLTS Job Openings (Feb),9.931M,10.400M,10.563M
+2023-04-05,19:15:00,,,ADP Nonfarm Employment Change (Mar),-53K,200K,261K
+2023-04-05,21:00:00,,,ISM Non-Manufacturing PMI (Mar),51.2,54.5,55.1
+2023-04-05,21:00:00,,,ISM Non-Manufacturing Prices (Mar),59.5,65,65.6
+2023-04-05,21:30:00,,,Crude Oil Inventories,-3.739M,-2.329M,-7.489M
+2023-04-06,19:30:00,,,Initial Jobless Claims,228K,200K,246K
+2023-04-07,All Day,,,United States - Good Friday,,,
+2023-04-07,19:30:00,,,Average Hourly Earnings (MoM) (Mar),0.30%,0.30%,0.20%
+2023-04-07,19:30:00,,,Nonfarm Payrolls (Mar),236K,239K,326K
+2023-04-07,19:30:00,,,Unemployment Rate (Mar),3.50%,3.60%,3.60%
+2023-04-12,19:30:00,,,Core CPI (MoM) (Mar),0.40%,0.40%,0.50%
+2023-04-12,19:30:00,,,CPI (MoM) (Mar),0.10%,0.20%,0.40%
+2023-04-12,19:30:00,,,CPI (YoY) (Mar),5.00%,5.20%,6.00%
+2023-04-12,21:30:00,,,Crude Oil Inventories,0.597M,-0.583M,-3.739M
+2023-04-13,00:00:00,,,10-Year Note Auction,3.45%,,3.98%
+2023-04-13,01:00:00,,,FOMC Meeting Minutes,,,
+2023-04-13,19:30:00,,,Initial Jobless Claims,239K,232K,228K
+2023-04-13,19:30:00,,,PPI (MoM) (Mar),-0.50%,0.10%,0.00%
+2023-04-14,00:00:00,,,30-Year Bond Auction,3.66%,,3.88%
+2023-04-14,19:30:00,,,Core Retail Sales (MoM) (Mar),-0.80%,-0.30%,0.00%
+2023-04-14,19:30:00,,,Retail Sales (MoM) (Mar),-1.00%,-0.40%,-0.20%
+2023-04-19,21:30:00,,,Crude Oil Inventories,-4.581M,-1.088M,0.597M
+2023-04-20,19:30:00,,,Initial Jobless Claims,245K,240K,240K
+2023-04-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),-31.3,-19.2,-23.2
+2023-04-20,21:00:00,,,Existing Home Sales (Mar),4.44M,4.50M,4.55M
+2023-04-25,21:00:00,,,CB Consumer Confidence (Apr),101.3,104,104
+2023-04-25,21:00:00,,,New Home Sales (Mar),683K,630K,623K
+2023-04-26,19:30:00,,,Durable Goods Orders (MoM) (Mar),3.20%,0.70%,-1.20%
+2023-04-26,21:30:00,,,Crude Oil Inventories,-5.054M,-1.486M,-4.581M
+2023-04-27,19:30:00,,,GDP (QoQ) (Q1),1.10%,2.00%,2.60%
+2023-04-27,19:30:00,,,Initial Jobless Claims,230K,248K,246K
+2023-04-28,19:30:00,,,Core PCE Price Index (MoM) (Mar),0.30%,0.30%,0.30%
+2023-04-28,19:30:00,,,Core PCE Price Index (YoY) (Mar),4.60%,4.50%,4.70%
+2023-04-28,20:45:00,,,Chicago PMI (Apr),48.6,43.5,43.8
+2023-05-01,21:00:00,,,ISM Manufacturing PMI (Apr),47.1,46.8,46.3
+2023-05-01,21:00:00,,,ISM Manufacturing Prices (Apr),53.2,49,49.2
+2023-05-02,21:00:00,,,JOLTS Job Openings (Mar),9.590M,9.775M,9.974M
+2023-05-03,19:15:00,,,ADP Nonfarm Employment Change (Apr),296K,148K,142K
+2023-05-03,21:00:00,,,ISM Non-Manufacturing PMI (Apr),51.9,51.8,51.2
+2023-05-03,21:00:00,,,ISM Non-Manufacturing Prices (Apr),59.6,59.9,59.5
+2023-05-03,21:30:00,,,Crude Oil Inventories,-1.280M,-1.100M,-5.054M
+2023-05-04,01:00:00,,,FOMC Statement,,,
+2023-05-04,01:00:00,,,Fed Interest Rate Decision,5.25%,5.25%,5.00%
+2023-05-04,01:30:00,,,FOMC Press Conference,,,
+2023-05-04,19:30:00,,,Initial Jobless Claims,242K,240K,229K
+2023-05-05,19:30:00,,,Average Hourly Earnings (MoM) (Apr),0.50%,0.30%,0.30%
+2023-05-05,19:30:00,,,Nonfarm Payrolls (Apr),253K,180K,165K
+2023-05-05,19:30:00,,,Unemployment Rate (Apr),3.40%,3.60%,3.50%
+2023-05-10,19:30:00,,,Core CPI (MoM) (Apr),0.40%,0.40%,0.40%
+2023-05-10,19:30:00,,,CPI (MoM) (Apr),0.40%,0.40%,0.10%
+2023-05-10,19:30:00,,,CPI (YoY) (Apr),4.90%,5.00%,5.00%
+2023-05-10,21:30:00,,,Crude Oil Inventories,2.951M,-0.917M,-1.280M
+2023-05-11,00:00:00,,,10-Year Note Auction,3.45%,,3.45%
+2023-05-11,19:30:00,,,Initial Jobless Claims,264K,245K,242K
+2023-05-11,19:30:00,,,PPI (MoM) (Apr),0.20%,0.30%,-0.40%
+2023-05-12,00:00:00,,,30-Year Bond Auction,3.74%,,3.66%
+2023-05-16,19:30:00,,,Core Retail Sales (MoM) (Apr),0.40%,0.40%,-0.50%
+2023-05-16,19:30:00,,,Retail Sales (MoM) (Apr),0.40%,0.80%,-0.70%
+2023-05-17,21:30:00,,,Crude Oil Inventories,5.040M,-0.920M,2.951M
+2023-05-18,19:30:00,,,Initial Jobless Claims,242K,254K,264K
+2023-05-18,19:30:00,,,Philadelphia Fed Manufacturing Index (May),-10.4,-19.8,-31.3
+2023-05-18,21:00:00,,,Existing Home Sales (Apr),4.28M,4.30M,4.43M
+2023-05-19,22:00:00,,,Fed Chair Powell Speaks,,,
+2023-05-23,21:00:00,,,New Home Sales (Apr),683K,663K,656K
+2023-05-23,23:30:00,,,Fed Chair Powell Speaks,,,
+2023-05-24,21:30:00,,,Crude Oil Inventories,-12.456M,-0.920M,5.040M
+2023-05-25,01:00:00,,,FOMC Meeting Minutes,,,
+2023-05-25,19:30:00,,,GDP (QoQ) (Q1),1.30%,1.10%,2.60%
+2023-05-25,19:30:00,,,Initial Jobless Claims,229K,250K,225K
+2023-05-26,19:30:00,,,Core PCE Price Index (YoY) (Apr),4.70%,4.60%,4.60%
+2023-05-26,19:30:00,,,Core PCE Price Index (MoM) (Apr),0.40%,0.30%,0.30%
+2023-05-26,19:30:00,,,Durable Goods Orders (MoM) (Apr),1.10%,-1.00%,3.30%
+2023-05-29,All Day,,,United States - Memorial Day,,,
+2023-05-30,21:00:00,,,CB Consumer Confidence (May),102.3,99,103.7
+2023-05-31,20:45:00,,,Chicago PMI (May),40.4,47,48.6
+2023-05-31,21:00:00,,,JOLTS Job Openings (Apr),10.103M,9.775M,9.745M
+2023-06-01,19:15:00,,,ADP Nonfarm Employment Change (May),278K,170K,291K
+2023-06-01,19:30:00,,,Initial Jobless Claims,232K,235K,230K
+2023-06-01,21:00:00,,,ISM Manufacturing PMI (May),46.9,47,47.1
+2023-06-01,21:00:00,,,ISM Manufacturing Prices (May),44.2,52,53.2
+2023-06-01,22:00:00,,,Crude Oil Inventories,4.488M,-1.101M,-12.456M
+2023-06-02,19:30:00,,,Average Hourly Earnings (MoM) (May),0.30%,0.40%,0.40%
+2023-06-02,19:30:00,,,Nonfarm Payrolls (May),339K,180K,294K
+2023-06-02,19:30:00,,,Unemployment Rate (May),3.70%,3.50%,3.40%
+2023-06-05,21:00:00,,,ISM Non-Manufacturing PMI (May),50.3,52.2,51.9
+2023-06-05,21:00:00,,,ISM Non-Manufacturing Prices (May),56.2,57.8,59.6
+2023-06-07,21:30:00,,,Crude Oil Inventories,-0.451M,1.022M,4.488M
+2023-06-08,19:30:00,,,Initial Jobless Claims,261K,235K,233K
+2023-06-13,00:00:00,,,10-Year Note Auction,3.79%,,3.45%
+2023-06-13,19:30:00,,,Core CPI (MoM) (May),0.40%,0.40%,0.40%
+2023-06-13,19:30:00,,,CPI (MoM) (May),0.10%,0.20%,0.40%
+2023-06-13,19:30:00,,,CPI (YoY) (May),4.00%,4.10%,4.90%
+2023-06-14,00:00:00,,,30-Year Bond Auction,3.91%,,3.74%
+2023-06-14,19:30:00,,,PPI (MoM) (May),-0.30%,-0.10%,0.20%
+2023-06-14,21:30:00,,,Crude Oil Inventories,7.919M,1.482M,-0.451M
+2023-06-15,01:00:00,,,FOMC Economic Projections,,,
+2023-06-15,01:00:00,,,FOMC Statement,,,
+2023-06-15,01:00:00,,,Fed Interest Rate Decision,5.25%,5.25%,5.25%
+2023-06-15,01:30:00,,,FOMC Press Conference,,,
+2023-06-15,19:30:00,,,Core Retail Sales (MoM) (May),0.10%,0.10%,0.40%
+2023-06-15,19:30:00,,,Initial Jobless Claims,262K,250K,262K
+2023-06-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),-13.7,-13.5,-10.4
+2023-06-15,19:30:00,,,Retail Sales (MoM) (May),0.30%,-0.10%,0.40%
+2023-06-16,22:00:00,,,Fed Monetary Policy Report,,,
+2023-06-19,All Day,,,United States - Juneteenth,,,
+2023-06-21,21:00:00,,,Fed Chair Powell Testifies,,,
+2023-06-22,19:30:00,,,Initial Jobless Claims,264K,260K,264K
+2023-06-22,21:00:00,,,Existing Home Sales (May),4.30M,4.25M,4.29M
+2023-06-22,21:00:00,,,Fed Chair Powell Testifies,,,
+2023-06-22,22:00:00,,,Crude Oil Inventories,-3.831M,0.329M,7.919M
+2023-06-27,19:30:00,,,Durable Goods Orders (MoM) (May),1.70%,-1.00%,1.20%
+2023-06-27,21:00:00,,,CB Consumer Confidence (Jun),109.7,104,102.5
+2023-06-27,21:00:00,,,New Home Sales (May),763K,675K,680K
+2023-06-28,20:30:00,,,Fed Chair Powell Speaks,,,
+2023-06-28,21:30:00,,,Crude Oil Inventories,-9.603M,-1.757M,-3.831M
+2023-06-29,13:30:00,,,Fed Chair Powell Speaks,,,
+2023-06-29,19:30:00,,,GDP (QoQ) (Q1),2.00%,1.40%,2.60%
+2023-06-29,19:30:00,,,Initial Jobless Claims,239K,266K,265K
+2023-06-30,19:30:00,,,Core PCE Price Index (MoM) (May),0.30%,0.30%,0.40%
+2023-06-30,19:30:00,,,Core PCE Price Index (YoY) (May),4.60%,4.70%,4.70%
+2023-06-30,20:45:00,,,Chicago PMI (Jun),41.5,44,40.4
+2023-07-03,,,,United States - Independence Day - Early close at 13:00,,,
+2023-07-03,21:00:00,,,ISM Manufacturing PMI (Jun),46,47.2,46.9
+2023-07-03,21:00:00,,,ISM Manufacturing Prices (Jun),41.8,44,44.2
+2023-07-04,All Day,,,United States - Independence Day,,,
+2023-07-06,01:00:00,,,FOMC Meeting Minutes,,,
+2023-07-06,19:15:00,,,ADP Nonfarm Employment Change (Jun),497K,228K,267K
+2023-07-06,19:30:00,,,Initial Jobless Claims,248K,245K,236K
+2023-07-06,21:00:00,,,ISM Non-Manufacturing PMI (Jun),53.9,51,50.3
+2023-07-06,21:00:00,,,ISM Non-Manufacturing Prices (Jun),54.1,53.3,56.2
+2023-07-06,21:00:00,,,JOLTS Job Openings (May),9.824M,9.935M,10.320M
+2023-07-06,22:00:00,,,Crude Oil Inventories,-1.508M,-0.983M,-9.603M
+2023-07-07,19:30:00,,,Average Hourly Earnings (MoM) (Jun),0.40%,0.30%,0.40%
+2023-07-07,19:30:00,,,Nonfarm Payrolls (Jun),209K,225K,306K
+2023-07-07,19:30:00,,,Unemployment Rate (Jun),3.60%,3.60%,3.70%
+2023-07-12,19:30:00,,,Core CPI (MoM) (Jun),0.20%,0.30%,0.40%
+2023-07-12,19:30:00,,,CPI (MoM) (Jun),0.20%,0.30%,0.10%
+2023-07-12,19:30:00,,,CPI (YoY) (Jun),3.00%,3.10%,4.00%
+2023-07-12,21:30:00,,,Crude Oil Inventories,5.946M,0.483M,-1.508M
+2023-07-13,00:00:00,,,10-Year Note Auction,3.86%,,3.79%
+2023-07-13,19:30:00,,,Initial Jobless Claims,237K,250K,249K
+2023-07-13,19:30:00,,,PPI (MoM) (Jun),0.10%,0.20%,-0.40%
+2023-07-14,00:00:00,,,30-Year Bond Auction,3.91%,,3.91%
+2023-07-18,19:30:00,,,Core Retail Sales (MoM) (Jun),0.20%,0.30%,0.30%
+2023-07-18,19:30:00,,,Retail Sales (MoM) (Jun),0.20%,0.50%,0.50%
+2023-07-19,21:30:00,,,Crude Oil Inventories,-0.708M,-2.440M,5.946M
+2023-07-20,19:30:00,,,Initial Jobless Claims,228K,242K,237K
+2023-07-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),-13.5,-10,-13.7
+2023-07-20,21:00:00,,,Existing Home Sales (Jun),4.16M,4.20M,4.30M
+2023-07-25,21:00:00,,,CB Consumer Confidence (Jul),117,111.8,110.1
+2023-07-26,21:00:00,,,New Home Sales (Jun),697K,725K,715K
+2023-07-26,21:30:00,,,Crude Oil Inventories,-0.600M,-2.348M,-0.708M
+2023-07-27,01:00:00,,,FOMC Statement,,,
+2023-07-27,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.25%
+2023-07-27,01:30:00,,,FOMC Press Conference,,,
+2023-07-27,19:30:00,,,Durable Goods Orders (MoM) (Jun),4.70%,1.00%,2.00%
+2023-07-27,19:30:00,,,GDP (QoQ) (Q2),2.40%,1.80%,2.00%
+2023-07-27,19:30:00,,,Initial Jobless Claims,221K,235K,228K
+2023-07-28,19:30:00,,,Core PCE Price Index (YoY) (Jun),4.10%,4.20%,4.60%
+2023-07-28,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.20%,0.20%,0.30%
+2023-07-31,20:45:00,,,Chicago PMI (Jul),42.8,43,41.5
+2023-08-01,21:00:00,,,ISM Manufacturing PMI (Jul),46.4,46.8,46
+2023-08-01,21:00:00,,,ISM Manufacturing Prices (Jul),42.6,42.8,41.8
+2023-08-01,21:00:00,,,JOLTS Job Openings (Jun),9.582M,9.610M,9.616M
+2023-08-02,19:15:00,,,ADP Nonfarm Employment Change (Jul),324K,189K,455K
+2023-08-02,21:30:00,,,Crude Oil Inventories,-17.049M,-1.367M,-0.600M
+2023-08-03,19:30:00,,,Initial Jobless Claims,227K,227K,221K
+2023-08-03,21:00:00,,,ISM Non-Manufacturing PMI (Jul),52.7,53,53.9
+2023-08-03,21:00:00,,,ISM Non-Manufacturing Prices (Jul),56.8,52.1,54.1
+2023-08-04,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.40%,0.30%,0.40%
+2023-08-04,19:30:00,,,Nonfarm Payrolls (Jul),187K,200K,185K
+2023-08-04,19:30:00,,,Unemployment Rate (Jul),3.50%,3.60%,3.60%
+2023-08-09,21:30:00,,,Crude Oil Inventories,5.851M,0.567M,-17.049M
+2023-08-10,00:00:00,,,10-Year Note Auction,4.00%,,3.86%
+2023-08-10,19:30:00,,,Core CPI (MoM) (Jul),0.20%,0.20%,0.20%
+2023-08-10,19:30:00,,,CPI (MoM) (Jul),0.20%,0.20%,0.20%
+2023-08-10,19:30:00,,,CPI (YoY) (Jul),3.20%,3.30%,3.00%
+2023-08-10,19:30:00,,,Initial Jobless Claims,248K,230K,227K
+2023-08-11,00:01:00,,,30-Year Bond Auction,4.19%,,3.91%
+2023-08-11,19:30:00,,,PPI (MoM) (Jul),0.30%,0.20%,0.00%
+2023-08-15,19:30:00,,,Core Retail Sales (MoM) (Jul),1.00%,-0.30%,0.20%
+2023-08-15,19:30:00,,,Retail Sales (MoM) (Jul),0.70%,0.40%,0.30%
+2023-08-16,21:30:00,,,Crude Oil Inventories,-5.960M,-2.320M,5.851M
+2023-08-17,01:00:00,,,FOMC Meeting Minutes,,,
+2023-08-17,19:30:00,,,Initial Jobless Claims,239K,240K,250K
+2023-08-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),12,-10,-13.5
+2023-08-22,21:00:00,,,Existing Home Sales (Jul),4.07M,4.15M,4.16M
+2023-08-23,21:00:00,,,New Home Sales (Jul),714K,705K,684K
+2023-08-23,21:30:00,,,Crude Oil Inventories,-6.135M,-2.850M,-5.960M
+2023-08-24,19:30:00,,,Durable Goods Orders (MoM) (Jul),-5.20%,-4.00%,4.40%
+2023-08-24,19:30:00,,,Initial Jobless Claims,230K,240K,240K
+2023-08-25,21:05:00,,,Fed Chair Powell Speaks,,,
+2023-08-29,21:00:00,,,CB Consumer Confidence (Aug),106.1,116,114
+2023-08-29,21:00:00,,,JOLTS Job Openings (Jul),8.827M,9.465M,9.165M
+2023-08-30,19:15:00,,,ADP Nonfarm Employment Change (Aug),177K,195K,371K
+2023-08-30,19:30:00,,,GDP (QoQ) (Q2),2.10%,2.40%,2.00%
+2023-08-30,21:30:00,,,Crude Oil Inventories,-10.584M,-3.267M,-6.135M
+2023-08-31,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.20%,0.20%,0.20%
+2023-08-31,19:30:00,,,Core PCE Price Index (YoY) (Jul),4.20%,4.20%,4.10%
+2023-08-31,19:30:00,,,Initial Jobless Claims,228K,235K,232K
+2023-08-31,20:45:00,,,Chicago PMI (Aug),48.7,44.1,42.8
+2023-09-01,19:30:00,,,Average Hourly Earnings (MoM) (Aug),0.20%,0.30%,0.40%
+2023-09-01,19:30:00,,,Nonfarm Payrolls (Aug),187K,170K,157K
+2023-09-01,19:30:00,,,Unemployment Rate (Aug),3.80%,3.50%,3.50%
+2023-09-01,21:00:00,,,ISM Manufacturing PMI (Aug),47.6,47,46.4
+2023-09-01,21:00:00,,,ISM Manufacturing Prices (Aug),48.4,43.9,42.6
+2023-09-04,All Day,,,United States - Labor Day,,,
+2023-09-06,21:00:00,,,ISM Non-Manufacturing PMI (Aug),54.5,52.5,52.7
+2023-09-06,21:00:00,,,ISM Non-Manufacturing Prices (Aug),58.9,,56.8
+2023-09-07,19:30:00,,,Initial Jobless Claims,216K,234K,229K
+2023-09-07,22:00:00,,,Crude Oil Inventories,-6.307M,-2.064M,-10.584M
+2023-09-13,00:00:00,,,10-Year Note Auction,4.29%,,4.00%
+2023-09-13,19:30:00,,,Core CPI (MoM) (Aug),0.30%,0.20%,0.20%
+2023-09-13,19:30:00,,,CPI (MoM) (Aug),0.60%,0.60%,0.20%
+2023-09-13,19:30:00,,,CPI (YoY) (Aug),3.70%,3.60%,3.20%
+2023-09-13,21:30:00,,,Crude Oil Inventories,3.954M,-1.912M,-6.307M
+2023-09-14,00:00:00,,,30-Year Bond Auction,4.35%,,4.19%
+2023-09-14,19:30:00,,,Core Retail Sales (MoM) (Aug),0.60%,0.40%,0.70%
+2023-09-14,19:30:00,,,Initial Jobless Claims,220K,225K,217K
+2023-09-14,19:30:00,,,PPI (MoM) (Aug),0.70%,0.40%,0.40%
+2023-09-14,19:30:00,,,Retail Sales (MoM) (Aug),0.60%,0.20%,0.50%
+2023-09-20,21:30:00,,,Crude Oil Inventories,-2.135M,-2.200M,3.954M
+2023-09-21,01:00:00,,,FOMC Economic Projections,,,
+2023-09-21,01:00:00,,,FOMC Statement,,,
+2023-09-21,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2023-09-21,01:30:00,,,FOMC Press Conference,,,
+2023-09-21,19:30:00,,,Initial Jobless Claims,201K,225K,221K
+2023-09-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Sep),-13.5,-0.7,12
+2023-09-21,21:00:00,,,Existing Home Sales (Aug),4.04M,4.10M,4.07M
+2023-09-26,21:00:00,,,CB Consumer Confidence (Sep),103,105.5,108.7
+2023-09-26,21:00:00,,,New Home Sales (Aug),675K,700K,739K
+2023-09-27,19:30:00,,,Durable Goods Orders (MoM) (Aug),0.20%,-0.50%,-5.60%
+2023-09-27,21:30:00,,,Crude Oil Inventories,-2.170M,-1.320M,-2.135M
+2023-09-28,19:30:00,,,GDP (QoQ) (Q2),2.10%,2.10%,2.00%
+2023-09-28,19:30:00,,,Initial Jobless Claims,204K,215K,202K
+2023-09-29,03:00:00,,,Fed Chair Powell Speaks,,,
+2023-09-29,19:30:00,,,Core PCE Price Index (YoY) (Aug),3.90%,3.90%,4.30%
+2023-09-29,19:30:00,,,Core PCE Price Index (MoM) (Aug),0.10%,0.20%,0.20%
+2023-09-29,20:45:00,,,Chicago PMI (Sep),44.1,47.6,48.7
+2023-10-02,21:00:00,,,ISM Manufacturing PMI (Sep),49,47.7,47.6
+2023-10-02,21:00:00,,,ISM Manufacturing Prices (Sep),43.8,48.6,48.4
+2023-10-02,22:00:00,,,Fed Chair Powell Speaks,,,
+2023-10-03,21:00:00,,,JOLTS Job Openings (Aug),9.610M,8.800M,8.920M
+2023-10-04,19:15:00,,,ADP Nonfarm Employment Change (Sep),89K,153K,180K
+2023-10-04,21:00:00,,,ISM Non-Manufacturing PMI (Sep),53.6,53.6,54.5
+2023-10-04,21:00:00,,,ISM Non-Manufacturing Prices (Sep),58.9,,58.9
+2023-10-04,21:30:00,,,Crude Oil Inventories,-2.224M,-0.446M,-2.170M
+2023-10-05,19:30:00,,,Initial Jobless Claims,207K,210K,205K
+2023-10-06,19:30:00,,,Average Hourly Earnings (MoM) (Sep),0.20%,0.30%,0.20%
+2023-10-06,19:30:00,,,Nonfarm Payrolls (Sep),336K,170K,227K
+2023-10-06,19:30:00,,,Unemployment Rate (Sep),3.80%,3.70%,3.80%
+2023-10-11,19:30:00,,,PPI (MoM) (Sep),0.50%,0.30%,0.70%
+2023-10-12,00:00:00,,,10-Year Note Auction,4.61%,,4.29%
+2023-10-12,01:00:00,,,FOMC Meeting Minutes,,,
+2023-10-12,19:30:00,,,Core CPI (MoM) (Sep),0.30%,0.30%,0.30%
+2023-10-12,19:30:00,,,CPI (MoM) (Sep),0.40%,0.30%,0.50%
+2023-10-12,19:30:00,,,CPI (YoY) (Sep),3.70%,3.60%,3.70%
+2023-10-12,19:30:00,,,Initial Jobless Claims,209K,210K,209K
+2023-10-12,22:00:00,,,Crude Oil Inventories,10.176M,0.492M,-2.224M
+2023-10-13,00:00:00,,,30-Year Bond Auction,4.84%,,4.35%
+2023-10-17,19:30:00,,,Core Retail Sales (MoM) (Sep),0.60%,0.20%,0.90%
+2023-10-17,19:30:00,,,Retail Sales (MoM) (Sep),0.70%,0.30%,0.80%
+2023-10-18,21:30:00,,,Crude Oil Inventories,-4.491M,-0.300M,10.176M
+2023-10-19,19:30:00,,,Initial Jobless Claims,198K,212K,211K
+2023-10-19,19:30:00,,,Philadelphia Fed Manufacturing Index (Oct),-9,-6.4,-13.5
+2023-10-19,21:00:00,,,Existing Home Sales (Sep),3.96M,3.89M,4.04M
+2023-10-19,23:00:00,,,Fed Chair Powell Speaks,,,
+2023-10-25,21:00:00,,,New Home Sales (Sep),759K,680K,676K
+2023-10-25,21:30:00,,,Crude Oil Inventories,1.371M,0.239M,-4.491M
+2023-10-26,03:35:00,,,Fed Chair Powell Speaks,,,
+2023-10-26,19:30:00,,,Durable Goods Orders (MoM) (Sep),4.70%,1.70%,-0.10%
+2023-10-26,19:30:00,,,GDP (QoQ) (Q3),4.90%,4.30%,2.10%
+2023-10-26,19:30:00,,,Initial Jobless Claims,210K,208K,200K
+2023-10-27,19:30:00,,,Core PCE Price Index (YoY) (Sep),3.70%,3.70%,3.80%
+2023-10-27,19:30:00,,,Core PCE Price Index (MoM) (Sep),0.30%,0.30%,0.10%
+2023-10-31,20:45:00,,,Chicago PMI (Oct),44,45,44.1
+2023-10-31,21:00:00,,,CB Consumer Confidence (Oct),102.6,100,104.3
+2023-11-01,19:15:00,,,ADP Nonfarm Employment Change (Oct),113K,150K,89K
+2023-11-01,21:00:00,,,ISM Manufacturing PMI (Oct),46.7,49,49
+2023-11-01,21:00:00,,,ISM Manufacturing Prices (Oct),45.1,45,43.8
+2023-11-01,21:00:00,,,JOLTS Job Openings (Sep),9.553M,9.250M,9.497M
+2023-11-01,21:30:00,,,Crude Oil Inventories,0.774M,1.261M,1.371M
+2023-11-02,01:00:00,,,FOMC Statement,,,
+2023-11-02,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2023-11-02,01:30:00,,,FOMC Press Conference,,,
+2023-11-02,19:30:00,,,Initial Jobless Claims,217K,210K,212K
+2023-11-03,19:30:00,,,Average Hourly Earnings (MoM) (Oct),0.20%,0.30%,0.30%
+2023-11-03,19:30:00,,,Nonfarm Payrolls (Oct),150K,180K,297K
+2023-11-03,19:30:00,,,Unemployment Rate (Oct),3.90%,3.80%,3.80%
+2023-11-03,21:00:00,,,ISM Non-Manufacturing PMI (Oct),51.8,53,53.6
+2023-11-03,21:00:00,,,ISM Non-Manufacturing Prices (Oct),58.6,56.6,58.9
+2023-11-08,21:15:00,,,Fed Chair Powell Speaks,,,
+2023-11-09,01:00:00,,,10-Year Note Auction,4.52%,,4.61%
+2023-11-09,20:30:00,,,Initial Jobless Claims,217K,215K,220K
+2023-11-10,01:00:00,,,30-Year Bond Auction,4.77%,,4.84%
+2023-11-10,02:00:00,,,Fed Chair Powell Speaks,,,
+2023-11-14,20:30:00,,,Core CPI (MoM) (Oct),0.20%,0.30%,0.30%
+2023-11-14,20:30:00,,,CPI (MoM) (Oct),0.00%,0.10%,0.40%
+2023-11-14,20:30:00,,,CPI (YoY) (Oct),3.20%,3.30%,3.70%
+2023-11-15,20:30:00,,,Core Retail Sales (MoM) (Oct),0.10%,-0.20%,0.80%
+2023-11-15,20:30:00,,,PPI (MoM) (Oct),-0.50%,0.10%,0.40%
+2023-11-15,20:30:00,,,Retail Sales (MoM) (Oct),-0.10%,-0.30%,0.90%
+2023-11-15,22:29:00,,,Crude Oil Inventories,13.869M,,0.774M
+2023-11-15,22:30:00,,,Crude Oil Inventories,3.600M,1.793M,13.869M
+2023-11-16,20:30:00,,,Initial Jobless Claims,231K,220K,218K
+2023-11-16,20:30:00,,,Philadelphia Fed Manufacturing Index (Nov),-5.9,-9,-9
+2023-11-21,22:00:00,,,Existing Home Sales (Oct),3.79M,3.90M,3.95M
+2023-11-22,02:00:00,,,FOMC Meeting Minutes,,,
+2023-11-22,20:30:00,,,Durable Goods Orders (MoM) (Oct),-5.40%,-3.10%,4.00%
+2023-11-22,20:30:00,,,Initial Jobless Claims,209K,225K,233K
+2023-11-22,22:30:00,,,Crude Oil Inventories,8.701M,1.160M,3.592M
+2023-11-23,All Day,,,United States - Thanksgiving Day,,,
+2023-11-24,,,,United States - Thanksgiving Day - Early close at 13:00,,,
+2023-11-27,22:00:00,,,New Home Sales (Oct),679K,721K,719K
+2023-11-28,22:00:00,,,CB Consumer Confidence (Nov),102,101,99.1
+2023-11-29,20:30:00,,,GDP (QoQ) (Q3),5.20%,4.90%,2.10%
+2023-11-29,22:30:00,,,Crude Oil Inventories,1.609M,-0.933M,8.701M
+2023-11-30,20:30:00,,,Core PCE Price Index (MoM) (Oct),0.20%,0.20%,0.30%
+2023-11-30,20:30:00,,,Core PCE Price Index (YoY) (Oct),3.50%,3.50%,3.70%
+2023-11-30,20:30:00,,,Initial Jobless Claims,218K,220K,211K
+2023-11-30,21:45:00,,,Chicago PMI (Nov),55.8,45.4,44
+2023-12-01,22:00:00,,,ISM Manufacturing PMI (Nov),46.7,47.6,46.7
+2023-12-01,22:00:00,,,ISM Manufacturing Prices (Nov),49.9,46.2,45.1
+2023-12-01,23:00:00,,,Fed Chair Powell Speaks,,,
+2023-12-02,02:00:00,,,Fed Chair Powell Speaks,,,
+2023-12-05,22:00:00,,,ISM Non-Manufacturing PMI (Nov),52.7,52,51.8
+2023-12-05,22:00:00,,,ISM Non-Manufacturing Prices (Nov),58.3,58,58.6
+2023-12-05,22:00:00,,,JOLTS Job Openings (Oct),8.733M,9.300M,9.350M
+2023-12-06,20:15:00,,,ADP Nonfarm Employment Change (Nov),103K,130K,106K
+2023-12-06,22:30:00,,,Crude Oil Inventories,-4.632M,-1.354M,1.609M
+2023-12-07,20:30:00,,,Initial Jobless Claims,220K,222K,219K
+2023-12-08,20:30:00,,,Average Hourly Earnings (MoM) (Nov),0.40%,0.30%,0.20%
+2023-12-08,20:30:00,,,Nonfarm Payrolls (Nov),199K,180K,150K
+2023-12-08,20:30:00,,,Unemployment Rate (Nov),3.70%,3.90%,3.90%
+2023-12-12,01:00:00,,,10-Year Note Auction,4.30%,,4.52%
+2023-12-12,20:30:00,,,Core CPI (MoM) (Nov),0.30%,0.30%,0.20%
+2023-12-12,20:30:00,,,CPI (MoM) (Nov),0.10%,0.00%,0.10%
+2023-12-12,20:30:00,,,CPI (YoY) (Nov),3.10%,3.10%,3.20%
+2023-12-13,01:00:00,,,30-Year Bond Auction,4.34%,,4.77%
+2023-12-13,20:30:00,,,PPI (MoM) (Nov),0.00%,0.10%,-0.40%
+2023-12-13,22:30:00,,,Crude Oil Inventories,-4.259M,-0.650M,-4.632M
+2023-12-14,02:00:00,,,FOMC Economic Projections,,,
+2023-12-14,02:00:00,,,FOMC Statement,,,
+2023-12-14,02:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2023-12-14,02:30:00,,,FOMC Press Conference,,,
+2023-12-14,20:30:00,,,Core Retail Sales (MoM) (Nov),0.20%,-0.10%,0.00%
+2023-12-14,20:30:00,,,Initial Jobless Claims,202K,220K,221K
+2023-12-14,20:30:00,,,Retail Sales (MoM) (Nov),0.30%,-0.10%,-0.20%
+2023-12-20,22:00:00,,,CB Consumer Confidence (Dec),110.7,103.8,101
+2023-12-20,22:00:00,,,Existing Home Sales (Nov),3.82M,3.78M,3.79M
+2023-12-20,22:30:00,,,Crude Oil Inventories,2.909M,-2.283M,-4.259M
+2023-12-21,20:30:00,,,GDP (QoQ) (Q3),4.90%,5.20%,2.10%
+2023-12-21,20:30:00,,,Initial Jobless Claims,205K,214K,203K
+2023-12-21,20:30:00,,,Philadelphia Fed Manufacturing Index (Dec),-10.5,-3,-5.9
+2023-12-22,20:30:00,,,Core PCE Price Index (MoM) (Nov),0.10%,0.20%,0.10%
+2023-12-22,20:30:00,,,Core PCE Price Index (YoY) (Nov),3.20%,3.30%,3.40%
+2023-12-22,20:30:00,,,Durable Goods Orders (MoM) (Nov),5.40%,1.70%,-5.10%
+2023-12-22,22:00:00,,,New Home Sales (Nov),590K,695K,672K
+2023-12-25,All Day,,,United States - Christmas,,,
+2023-12-28,20:30:00,,,Initial Jobless Claims,218K,210K,206K
+2023-12-28,23:00:00,,,Crude Oil Inventories,-7.114M,-2.704M,2.909M
+2023-12-29,21:45:00,,,Chicago PMI (Dec),46.9,51,55.8
+2024-01-01,All Day,,,United States - New Year's Day,,,
+2024-01-03,22:00:00,,,ISM Manufacturing PMI (Dec),47.4,47.1,46.7
+2024-01-03,22:00:00,,,ISM Manufacturing Prices (Dec),45.2,47.5,49.9
+2024-01-03,22:00:00,,,JOLTS Job Openings (Nov),8.790M,8.850M,8.852M
+2024-01-04,02:00:00,,,FOMC Meeting Minutes,,,
+2024-01-04,20:15:00,,,ADP Nonfarm Employment Change (Dec),164K,115K,101K
+2024-01-04,20:30:00,,,Initial Jobless Claims,202K,216K,220K
+2024-01-04,23:00:00,,,Crude Oil Inventories,-5.503M,-3.725M,-7.114M
+2024-01-05,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.40%,0.30%,0.40%
+2024-01-05,20:30:00,,,Nonfarm Payrolls (Dec),216K,170K,182K
+2024-01-05,20:30:00,,,Unemployment Rate (Dec),3.70%,3.80%,3.70%
+2024-01-05,22:00:00,,,ISM Non-Manufacturing PMI (Dec),50.6,52.6,52.7
+2024-01-05,22:00:00,,,ISM Non-Manufacturing Prices (Dec),57.4,57.3,58.3
+2024-01-10,22:30:00,,,Crude Oil Inventories,1.338M,-0.675M,-5.503M
+2024-01-11,01:00:00,,,10-Year Note Auction,4.02%,,4.30%
+2024-01-11,20:30:00,,,Core CPI (MoM) (Dec),0.30%,0.30%,0.30%
+2024-01-11,20:30:00,,,CPI (MoM) (Dec),0.30%,0.20%,0.20%
+2024-01-11,20:30:00,,,CPI (YoY) (Dec),3.40%,3.20%,3.10%
+2024-01-11,20:30:00,,,Initial Jobless Claims,202K,210K,203K
+2024-01-12,01:00:00,,,30-Year Bond Auction,4.23%,,4.34%
+2024-01-12,20:30:00,,,PPI (MoM) (Dec),-0.10%,0.10%,-0.10%
+2024-01-15,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2024-01-17,20:30:00,,,Core Retail Sales (MoM) (Dec),0.40%,0.20%,0.20%
+2024-01-17,20:30:00,,,Retail Sales (MoM) (Dec),0.60%,0.40%,0.30%
+2024-01-18,20:30:00,,,Initial Jobless Claims,187K,207K,203K
+2024-01-18,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),-10.6,-7,-12.8
+2024-01-18,23:00:00,,,Crude Oil Inventories,-2.492M,-0.313M,1.338M
+2024-01-19,22:00:00,,,Existing Home Sales (Dec),3.78M,3.82M,3.82M
+2024-01-24,22:30:00,,,Crude Oil Inventories,-9.233M,-2.150M,-2.492M
+2024-01-25,20:30:00,,,Durable Goods Orders (MoM) (Dec),0.00%,1.10%,5.50%
+2024-01-25,20:30:00,,,GDP (QoQ) (Q4),3.30%,2.00%,4.90%
+2024-01-25,20:30:00,,,Initial Jobless Claims,214K,200K,189K
+2024-01-25,22:00:00,,,New Home Sales (Dec),664K,645K,615K
+2024-01-26,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.20%,0.20%,0.10%
+2024-01-26,20:30:00,,,Core PCE Price Index (YoY) (Dec),2.90%,3.00%,3.20%
+2024-01-30,22:00:00,,,CB Consumer Confidence (Jan),114.8,114.2,108
+2024-01-30,22:00:00,,,JOLTS Job Openings (Dec),9.026M,8.750M,8.925M
+2024-01-31,20:15:00,,,ADP Nonfarm Employment Change (Jan),107K,145K,158K
+2024-01-31,21:45:00,,,Chicago PMI (Jan),46,48,47.2
+2024-01-31,22:30:00,,,Crude Oil Inventories,1.234M,-0.217M,-9.233M
+2024-02-01,02:00:00,,,FOMC Statement,,,
+2024-02-01,02:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2024-02-01,02:30:00,,,FOMC Press Conference,,,
+2024-02-01,20:30:00,,,Initial Jobless Claims,224K,213K,215K
+2024-02-01,22:00:00,,,ISM Manufacturing PMI (Jan),49.1,47.2,47.1
+2024-02-01,22:00:00,,,ISM Manufacturing Prices (Jan),52.9,46,45.2
+2024-02-02,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.60%,0.30%,0.40%
+2024-02-02,20:30:00,,,Nonfarm Payrolls (Jan),353K,187K,290K
+2024-02-02,20:30:00,,,Unemployment Rate (Jan),3.70%,3.80%,3.70%
+2024-02-05,07:00:00,,,Fed Chair Powell Speaks,,,
+2024-02-05,22:00:00,,,ISM Non-Manufacturing PMI (Jan),53.4,52,50.5
+2024-02-05,22:00:00,,,ISM Non-Manufacturing Prices (Jan),64,56.5,57.4
+2024-02-07,22:30:00,,,Crude Oil Inventories,5.520M,1.700M,1.234M
+2024-02-08,01:00:00,,,10-Year Note Auction,4.09%,,4.02%
+2024-02-08,20:30:00,,,Initial Jobless Claims,218K,221K,227K
+2024-02-09,01:00:00,,,30-Year Bond Auction,4.36%,,4.23%
+2024-02-13,20:30:00,,,Core CPI (MoM) (Jan),0.40%,0.30%,0.30%
+2024-02-13,20:30:00,,,CPI (MoM) (Jan),0.30%,0.20%,0.20%
+2024-02-13,20:30:00,,,CPI (YoY) (Jan),3.10%,2.90%,3.40%
+2024-02-14,22:30:00,,,Crude Oil Inventories,12.018M,3.300M,5.521M
+2024-02-15,20:30:00,,,Core Retail Sales (MoM) (Jan),-0.60%,0.20%,0.40%
+2024-02-15,20:30:00,,,Initial Jobless Claims,212K,219K,220K
+2024-02-15,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),5.2,-8,-10.6
+2024-02-15,20:30:00,,,Retail Sales (MoM) (Jan),-0.80%,-0.20%,0.40%
+2024-02-16,20:30:00,,,PPI (MoM) (Jan),0.30%,0.10%,-0.10%
+2024-02-19,All Day,,,United States - Washington's Birthday,,,
+2024-02-22,02:00:00,,,FOMC Meeting Minutes,,,
+2024-02-22,20:30:00,,,Initial Jobless Claims,201K,217K,213K
+2024-02-22,22:00:00,,,Existing Home Sales (Jan),4.00M,3.96M,3.88M
+2024-02-22,23:00:00,,,Crude Oil Inventories,3.514M,3.879M,12.018M
+2024-02-26,22:00:00,,,New Home Sales (Jan),661K,680K,651K
+2024-02-27,20:30:00,,,Durable Goods Orders (MoM) (Jan),-6.10%,-4.90%,-0.30%
+2024-02-27,22:00:00,,,CB Consumer Confidence (Feb),106.7,114.8,110.9
+2024-02-28,20:30:00,,,GDP (QoQ) (Q4),3.20%,3.30%,4.90%
+2024-02-28,22:30:00,,,Crude Oil Inventories,4.199M,3.100M,3.514M
+2024-02-29,20:30:00,,,Core PCE Price Index (YoY) (Jan),2.80%,2.80%,2.90%
+2024-02-29,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.40%,0.40%,0.10%
+2024-02-29,20:30:00,,,Initial Jobless Claims,215K,209K,202K
+2024-02-29,21:45:00,,,Chicago PMI (Feb),44,48.1,46
+2024-03-01,22:00:00,,,Fed Monetary Policy Report,,,
+2024-03-01,22:00:00,,,ISM Manufacturing PMI (Feb),47.8,49.5,49.1
+2024-03-01,22:00:00,,,ISM Manufacturing Prices (Feb),52.5,53.5,52.9
+2024-03-05,22:00:00,,,ISM Non-Manufacturing PMI (Feb),52.6,53,53.4
+2024-03-05,22:00:00,,,ISM Non-Manufacturing Prices (Feb),58.6,62,64
+2024-03-06,20:15:00,,,ADP Nonfarm Employment Change (Feb),140K,149K,111K
+2024-03-06,22:00:00,,,Fed Chair Powell Testifies,,,
+2024-03-06,22:00:00,,,JOLTS Job Openings (Jan),8.863M,8.800M,8.889M
+2024-03-06,22:30:00,,,Crude Oil Inventories,1.367M,2.400M,4.199M
+2024-03-07,20:30:00,,,Initial Jobless Claims,217K,217K,217K
+2024-03-07,22:00:00,,,Fed Chair Powell Testifies,,,
+2024-03-08,09:00:00,,,U.S. President Biden Speaks,,,
+2024-03-08,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.10%,0.20%,0.50%
+2024-03-08,20:30:00,,,Nonfarm Payrolls (Feb),275K,198K,256K
+2024-03-08,20:30:00,,,Unemployment Rate (Feb),3.90%,3.70%,3.70%
+2024-03-12,19:30:00,,,Core CPI (MoM) (Feb),0.40%,0.30%,0.40%
+2024-03-12,19:30:00,,,CPI (MoM) (Feb),0.40%,0.40%,0.30%
+2024-03-12,19:30:00,,,CPI (YoY) (Feb),3.20%,3.10%,3.10%
+2024-03-13,00:00:00,,,10-Year Note Auction,4.17%,,4.09%
+2024-03-13,21:30:00,,,Crude Oil Inventories,-1.536M,0.900M,1.367M
+2024-03-14,00:00:00,,,30-Year Bond Auction,4.33%,,4.36%
+2024-03-14,19:30:00,,,Core Retail Sales (MoM) (Feb),0.30%,0.50%,-0.80%
+2024-03-14,19:30:00,,,Initial Jobless Claims,209K,218K,210K
+2024-03-14,19:30:00,,,PPI (MoM) (Feb),0.60%,0.30%,0.30%
+2024-03-14,19:30:00,,,Retail Sales (MoM) (Feb),0.60%,0.80%,-1.10%
+2024-03-20,21:30:00,,,Crude Oil Inventories,-1.952M,-0.900M,-1.536M
+2024-03-21,01:00:00,,,FOMC Economic Projections,,,
+2024-03-21,01:00:00,,,FOMC Statement,,,
+2024-03-21,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2024-03-21,01:30:00,,,FOMC Press Conference,,,
+2024-03-21,19:30:00,,,Initial Jobless Claims,210K,212K,212K
+2024-03-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),3.2,-2.6,5.2
+2024-03-21,21:00:00,,,Existing Home Sales (Feb),4.38M,3.95M,4.00M
+2024-03-22,20:00:00,,,Fed Chair Powell Speaks,,,
+2024-03-25,21:00:00,,,New Home Sales (Feb),662K,675K,664K
+2024-03-26,19:30:00,,,Durable Goods Orders (MoM) (Feb),1.40%,1.20%,-6.90%
+2024-03-26,21:00:00,,,CB Consumer Confidence (Mar),104.7,106.9,104.8
+2024-03-27,21:30:00,,,Crude Oil Inventories,3.165M,-0.700M,-1.952M
+2024-03-28,19:30:00,,,GDP (QoQ) (Q4),3.40%,3.20%,4.90%
+2024-03-28,19:30:00,,,Initial Jobless Claims,210K,212K,212K
+2024-03-28,20:45:00,,,Chicago PMI (Mar),41.4,45.9,44
+2024-03-29,All Day,,,United States - Good Friday,,,
+2024-03-29,19:30:00,,,Core PCE Price Index (MoM) (Feb),0.30%,0.30%,0.50%
+2024-03-29,19:30:00,,,Core PCE Price Index (YoY) (Feb),2.80%,2.80%,2.90%
+2024-03-29,22:30:00,,,Fed Chair Powell Speaks,,,
+2024-04-01,21:00:00,,,ISM Manufacturing PMI (Mar),50.3,48.5,47.8
+2024-04-01,21:00:00,,,ISM Manufacturing Prices (Mar),55.8,53.3,52.5
+2024-04-02,21:00:00,,,JOLTS Job Openings (Feb),8.756M,8.760M,8.748M
+2024-04-03,19:15:00,,,ADP Nonfarm Employment Change (Mar),184K,148K,155K
+2024-04-03,21:00:00,,,ISM Non-Manufacturing PMI (Mar),51.4,52.8,52.6
+2024-04-03,21:00:00,,,ISM Non-Manufacturing Prices (Mar),53.4,58.4,58.6
+2024-04-03,21:30:00,,,Crude Oil Inventories,3.210M,-0.300M,3.165M
+2024-04-03,23:10:00,,,Fed Chair Powell Speaks,,,
+2024-04-04,19:30:00,,,Initial Jobless Claims,221K,213K,212K
+2024-04-05,19:30:00,,,Average Hourly Earnings (MoM) (Mar),0.30%,0.30%,0.20%
+2024-04-05,19:30:00,,,Nonfarm Payrolls (Mar),303K,212K,236K
+2024-04-05,19:30:00,,,Unemployment Rate (Mar),3.80%,3.90%,3.90%
+2024-04-10,19:30:00,,,Core CPI (MoM) (Mar),0.40%,0.30%,0.40%
+2024-04-10,19:30:00,,,CPI (MoM) (Mar),0.40%,0.30%,0.40%
+2024-04-10,19:30:00,,,CPI (YoY) (Mar),3.50%,3.40%,3.20%
+2024-04-10,21:30:00,,,Crude Oil Inventories,5.841M,0.900M,3.210M
+2024-04-11,00:00:00,,,10-Year Note Auction,4.56%,,4.17%
+2024-04-11,01:00:00,,,FOMC Meeting Minutes,,,
+2024-04-11,19:30:00,,,Initial Jobless Claims,211K,216K,222K
+2024-04-11,19:30:00,,,PPI (MoM) (Mar),0.20%,0.30%,0.60%
+2024-04-12,00:00:00,,,30-Year Bond Auction,4.67%,,4.33%
+2024-04-15,19:30:00,,,Core Retail Sales (MoM) (Mar),1.10%,0.50%,0.60%
+2024-04-15,19:30:00,,,Retail Sales (MoM) (Mar),0.70%,0.40%,0.90%
+2024-04-17,00:15:00,,,Fed Chair Powell Speaks,,,
+2024-04-17,21:30:00,,,Crude Oil Inventories,2.735M,1.600M,5.841M
+2024-04-18,19:30:00,,,Initial Jobless Claims,212K,215K,212K
+2024-04-18,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),15.5,1.5,3.2
+2024-04-18,21:00:00,,,Existing Home Sales (Mar),4.19M,4.20M,4.38M
+2024-04-23,21:00:00,,,New Home Sales (Mar),693K,668K,637K
+2024-04-24,19:30:00,,,Durable Goods Orders (MoM) (Mar),2.60%,2.50%,0.70%
+2024-04-24,21:30:00,,,Crude Oil Inventories,-6.368M,1.600M,2.735M
+2024-04-25,19:30:00,,,GDP (QoQ) (Q1),1.60%,2.50%,3.40%
+2024-04-25,19:30:00,,,Initial Jobless Claims,207K,214K,212K
+2024-04-26,19:30:00,,,Core PCE Price Index (MoM) (Mar),0.30%,0.30%,0.30%
+2024-04-26,19:30:00,,,Core PCE Price Index (YoY) (Mar),2.80%,2.60%,2.80%
+2024-04-30,20:45:00,,,Chicago PMI (Apr),37.9,44.9,41.4
+2024-04-30,21:00:00,,,CB Consumer Confidence (Apr),97,104,103.1
+2024-05-01,19:15:00,,,ADP Nonfarm Employment Change (Apr),192K,179K,208K
+2024-05-01,21:00:00,,,ISM Manufacturing PMI (Apr),49.2,50,50.3
+2024-05-01,21:00:00,,,ISM Manufacturing Prices (Apr),60.9,55.5,55.8
+2024-05-01,21:00:00,,,JOLTS Job Openings (Mar),8.488M,8.680M,8.813M
+2024-05-01,21:30:00,,,Crude Oil Inventories,7.265M,-2.300M,-6.368M
+2024-05-02,01:00:00,,,FOMC Statement,,,
+2024-05-02,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2024-05-02,01:30:00,,,FOMC Press Conference,,,
+2024-05-02,19:30:00,,,Initial Jobless Claims,208K,212K,208K
+2024-05-03,19:30:00,,,Average Hourly Earnings (MoM) (Apr),0.20%,0.30%,0.30%
+2024-05-03,19:30:00,,,Nonfarm Payrolls (Apr),175K,238K,310K
+2024-05-03,19:30:00,,,Unemployment Rate (Apr),3.90%,3.80%,3.80%
+2024-05-03,21:00:00,,,ISM Non-Manufacturing PMI (Apr),49.4,52,51.4
+2024-05-03,21:00:00,,,ISM Non-Manufacturing Prices (Apr),59.2,55,53.4
+2024-05-08,21:30:00,,,Crude Oil Inventories,-1.362M,-1.430M,7.265M
+2024-05-09,00:00:00,,,10-Year Note Auction,4.48%,,4.56%
+2024-05-09,19:30:00,,,Initial Jobless Claims,231K,212K,209K
+2024-05-10,00:00:00,,,30-Year Bond Auction,4.63%,,4.67%
+2024-05-14,19:30:00,,,PPI (MoM) (Apr),0.50%,0.30%,-0.10%
+2024-05-14,21:00:00,,,Fed Chair Powell Speaks,,,
+2024-05-15,19:30:00,,,Core CPI (MoM) (Apr),0.30%,0.30%,0.40%
+2024-05-15,19:30:00,,,Core Retail Sales (MoM) (Apr),0.20%,0.20%,0.90%
+2024-05-15,19:30:00,,,CPI (MoM) (Apr),0.30%,0.40%,0.40%
+2024-05-15,19:30:00,,,CPI (YoY) (Apr),3.40%,3.40%,3.50%
+2024-05-15,19:30:00,,,Retail Sales (MoM) (Apr),0.00%,0.40%,0.60%
+2024-05-15,21:30:00,,,Crude Oil Inventories,-2.508M,-0.400M,-1.362M
+2024-05-16,19:30:00,,,Initial Jobless Claims,222K,219K,232K
+2024-05-16,19:30:00,,,Philadelphia Fed Manufacturing Index (May),4.5,7.7,15.5
+2024-05-20,02:30:00,,,Fed Chair Powell Speaks,,,
+2024-05-22,21:00:00,,,Existing Home Sales (Apr),4.14M,4.21M,4.22M
+2024-05-22,21:30:00,,,Crude Oil Inventories,1.825M,-2.400M,-2.508M
+2024-05-23,01:00:00,,,FOMC Meeting Minutes,,,
+2024-05-23,19:30:00,,,Initial Jobless Claims,215K,220K,223K
+2024-05-23,21:00:00,,,New Home Sales (Apr),634K,677K,665K
+2024-05-24,19:30:00,,,Durable Goods Orders (MoM) (Apr),0.70%,-0.90%,0.80%
+2024-05-27,All Day,,,United States - Memorial Day,,,
+2024-05-28,21:00:00,,,CB Consumer Confidence (May),102,96,97.5
+2024-05-30,19:30:00,,,GDP (QoQ) (Q1),1.30%,1.60%,3.40%
+2024-05-30,19:30:00,,,Initial Jobless Claims,219K,218K,216K
+2024-05-30,22:00:00,,,Crude Oil Inventories,-4.156M,-1.600M,1.825M
+2024-05-31,19:30:00,,,Core PCE Price Index (MoM) (Apr),0.20%,0.30%,0.30%
+2024-05-31,19:30:00,,,Core PCE Price Index (YoY) (Apr),2.80%,2.80%,2.80%
+2024-05-31,20:45:00,,,Chicago PMI (May),35.4,41.1,37.9
+2024-06-03,21:00:00,,,ISM Manufacturing PMI (May),48.7,49.8,49.2
+2024-06-03,21:00:00,,,ISM Manufacturing Prices (May),57,60,60.9
+2024-06-04,21:00:00,,,JOLTS Job Openings (Apr),8.059M,8.370M,8.355M
+2024-06-05,19:15:00,,,ADP Nonfarm Employment Change (May),152K,173K,188K
+2024-06-05,21:00:00,,,ISM Non-Manufacturing PMI (May),53.8,51,49.4
+2024-06-05,21:00:00,,,ISM Non-Manufacturing Prices (May),58.1,59,59.2
+2024-06-05,21:30:00,,,Crude Oil Inventories,1.233M,-2.100M,-4.156M
+2024-06-06,19:30:00,,,Initial Jobless Claims,229K,220K,221K
+2024-06-07,19:30:00,,,Average Hourly Earnings (MoM) (May),0.40%,0.30%,0.20%
+2024-06-07,19:30:00,,,Nonfarm Payrolls (May),272K,182K,108K
+2024-06-07,19:30:00,,,Unemployment Rate (May),4.00%,3.90%,3.90%
+2024-06-12,00:00:00,,,10-Year Note Auction,4.44%,,4.48%
+2024-06-12,19:30:00,,,Core CPI (MoM) (May),0.20%,0.30%,0.30%
+2024-06-12,19:30:00,,,CPI (MoM) (May),0.00%,0.10%,0.30%
+2024-06-12,19:30:00,,,CPI (YoY) (May),3.30%,3.40%,3.40%
+2024-06-12,21:30:00,,,Crude Oil Inventories,3.730M,-1.200M,1.233M
+2024-06-13,01:00:00,,,FOMC Economic Projections,,,
+2024-06-13,01:00:00,,,FOMC Statement,,,
+2024-06-13,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2024-06-13,01:30:00,,,FOMC Press Conference,,,
+2024-06-13,19:30:00,,,Initial Jobless Claims,242K,225K,229K
+2024-06-13,19:30:00,,,PPI (MoM) (May),-0.20%,0.10%,0.50%
+2024-06-14,00:00:00,,,30-Year Bond Auction,4.40%,,4.63%
+2024-06-18,19:30:00,,,Core Retail Sales (MoM) (May),-0.10%,0.20%,-0.10%
+2024-06-18,19:30:00,,,Retail Sales (MoM) (May),0.10%,0.30%,-0.20%
+2024-06-19,All Day,,,United States - Juneteenth,,,
+2024-06-20,19:30:00,,,Initial Jobless Claims,238K,235K,243K
+2024-06-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),1.3,4.8,4.5
+2024-06-20,22:00:00,,,Crude Oil Inventories,-2.547M,-2.800M,3.730M
+2024-06-21,21:00:00,,,Existing Home Sales (May),4.11M,4.08M,4.14M
+2024-06-25,21:00:00,,,CB Consumer Confidence (Jun),100.4,100,101.3
+2024-06-26,21:00:00,,,New Home Sales (May),619K,636K,698K
+2024-06-26,21:30:00,,,Crude Oil Inventories,3.591M,-2.600M,-2.547M
+2024-06-27,19:30:00,,,Durable Goods Orders (MoM) (May),0.10%,-0.50%,0.20%
+2024-06-27,19:30:00,,,GDP (QoQ) (Q1),1.40%,1.30%,3.40%
+2024-06-27,19:30:00,,,Initial Jobless Claims,233K,236K,239K
+2024-06-28,08:00:00,,,U.S. President Biden Speaks,,,
+2024-06-28,19:30:00,,,Core PCE Price Index (YoY) (May),2.60%,2.60%,2.80%
+2024-06-28,19:30:00,,,Core PCE Price Index (MoM) (May),0.10%,0.10%,0.30%
+2024-06-28,20:45:00,,,Chicago PMI (Jun),47.4,39.7,35.4
+2024-07-01,21:00:00,,,ISM Manufacturing PMI (Jun),48.5,49.2,48.7
+2024-07-01,21:00:00,,,ISM Manufacturing Prices (Jun),52.1,55.8,57
+2024-07-02,20:30:00,,,Fed Chair Powell Speaks,,,
+2024-07-02,21:00:00,,,JOLTS Job Openings (May),8.140M,7.960M,7.919M
+2024-07-03,,,,United States - Independence Day - Early close at 13:00,,,
+2024-07-03,19:15:00,,,ADP Nonfarm Employment Change (Jun),150K,163K,157K
+2024-07-03,19:30:00,,,Initial Jobless Claims,238K,234K,234K
+2024-07-03,21:00:00,,,ISM Non-Manufacturing PMI (Jun),48.8,52.6,53.8
+2024-07-03,21:00:00,,,ISM Non-Manufacturing Prices (Jun),56.3,56.7,58.1
+2024-07-03,21:30:00,,,Crude Oil Inventories,-12.157M,-0.400M,3.591M
+2024-07-04,All Day,,,United States - Independence Day,,,
+2024-07-04,01:00:00,,,FOMC Meeting Minutes,,,
+2024-07-05,19:30:00,,,Average Hourly Earnings (MoM) (Jun),0.30%,0.30%,0.40%
+2024-07-05,19:30:00,,,Nonfarm Payrolls (Jun),206K,191K,216K
+2024-07-05,19:30:00,,,Unemployment Rate (Jun),4.10%,4.00%,4.00%
+2024-07-05,22:00:00,,,Fed Monetary Policy Report,,,
+2024-07-09,21:00:00,,,Fed Chair Powell Testifies,,,
+2024-07-10,21:00:00,,,Fed Chair Powell Testifies,,,
+2024-07-10,21:30:00,,,Crude Oil Inventories,-3.443M,0.700M,-12.157M
+2024-07-11,00:00:00,,,10-Year Note Auction,4.28%,,4.44%
+2024-07-11,19:30:00,,,Core CPI (MoM) (Jun),0.10%,0.20%,0.20%
+2024-07-11,19:30:00,,,CPI (MoM) (Jun),-0.10%,0.10%,0.00%
+2024-07-11,19:30:00,,,CPI (YoY) (Jun),3.00%,3.10%,3.30%
+2024-07-11,19:30:00,,,Initial Jobless Claims,222K,236K,239K
+2024-07-12,00:00:00,,,30-Year Bond Auction,4.41%,,4.40%
+2024-07-12,19:30:00,,,PPI (MoM) (Jun),0.20%,0.10%,0.00%
+2024-07-15,23:30:00,,,Fed Chair Powell Speaks,,,
+2024-07-16,19:30:00,,,Core Retail Sales (MoM) (Jun),0.40%,0.10%,0.10%
+2024-07-16,19:30:00,,,Retail Sales (MoM) (Jun),0.00%,-0.30%,0.30%
+2024-07-17,21:30:00,,,Crude Oil Inventories,-4.870M,-0.900M,-3.443M
+2024-07-18,19:30:00,,,Initial Jobless Claims,243K,229K,223K
+2024-07-18,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),13.9,2.7,1.3
+2024-07-23,21:00:00,,,Existing Home Sales (Jun),3.89M,3.99M,4.11M
+2024-07-24,21:00:00,,,New Home Sales (Jun),617K,639K,621K
+2024-07-24,21:30:00,,,Crude Oil Inventories,-3.741M,-2.600M,-4.870M
+2024-07-25,07:00:00,,,U.S. President Biden Speaks,,,
+2024-07-25,19:30:00,,,Durable Goods Orders (MoM) (Jun),-6.60%,0.30%,0.10%
+2024-07-25,19:30:00,,,GDP (QoQ) (Q2),2.80%,2.00%,1.40%
+2024-07-25,19:30:00,,,Initial Jobless Claims,235K,237K,245K
+2024-07-26,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.20%,0.20%,0.10%
+2024-07-26,19:30:00,,,Core PCE Price Index (YoY) (Jun),2.60%,2.50%,2.60%
+2024-07-30,21:00:00,,,CB Consumer Confidence (Jul),100.3,99.7,97.8
+2024-07-30,21:00:00,,,JOLTS Job Openings (Jun),8.184M,8.020M,8.230M
+2024-07-31,19:15:00,,,ADP Nonfarm Employment Change (Jul),122K,147K,155K
+2024-07-31,20:45:00,,,Chicago PMI (Jul),45.3,44.8,47.4
+2024-07-31,21:30:00,,,Crude Oil Inventories,-3.436M,-1.600M,-3.741M
+2024-08-01,01:00:00,,,FOMC Statement,,,
+2024-08-01,01:00:00,,,Fed Interest Rate Decision,5.50%,5.50%,5.50%
+2024-08-01,01:30:00,,,FOMC Press Conference,,,
+2024-08-01,19:30:00,,,Initial Jobless Claims,249K,236K,235K
+2024-08-01,21:00:00,,,ISM Manufacturing PMI (Jul),46.8,48.8,48.5
+2024-08-01,21:00:00,,,ISM Manufacturing Prices (Jul),52.9,51.9,52.1
+2024-08-02,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.20%,0.30%,0.30%
+2024-08-02,19:30:00,,,Nonfarm Payrolls (Jul),114K,176K,118K
+2024-08-02,19:30:00,,,Unemployment Rate (Jul),4.30%,4.10%,4.10%
+2024-08-05,21:00:00,,,ISM Non-Manufacturing PMI (Jul),51.4,51.4,48.8
+2024-08-05,21:00:00,,,ISM Non-Manufacturing Prices (Jul),57,56,56.3
+2024-08-07,21:30:00,,,Crude Oil Inventories,-3.728M,-1.600M,-3.436M
+2024-08-08,00:00:00,,,10-Year Note Auction,3.96%,,4.28%
+2024-08-08,19:30:00,,,Initial Jobless Claims,233K,241K,250K
+2024-08-09,00:01:00,,,30-Year Bond Auction,4.31%,,4.41%
+2024-08-13,19:30:00,,,PPI (MoM) (Jul),0.10%,0.20%,0.20%
+2024-08-14,19:30:00,,,Core CPI (MoM) (Jul),0.20%,0.20%,0.10%
+2024-08-14,19:30:00,,,CPI (MoM) (Jul),0.20%,0.20%,-0.10%
+2024-08-14,19:30:00,,,CPI (YoY) (Jul),2.90%,3.00%,3.00%
+2024-08-14,21:30:00,,,Crude Oil Inventories,1.357M,-1.900M,-3.728M
+2024-08-15,19:30:00,,,Core Retail Sales (MoM) (Jul),0.40%,0.10%,0.50%
+2024-08-15,19:30:00,,,Initial Jobless Claims,227K,236K,234K
+2024-08-15,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),-7,5.4,13.9
+2024-08-15,19:30:00,,,Retail Sales (MoM) (Jul),1.00%,0.40%,-0.20%
+2024-08-21,21:30:00,,,Crude Oil Inventories,-4.649M,-2.000M,1.357M
+2024-08-22,01:00:00,,,FOMC Meeting Minutes,,,
+2024-08-22,19:30:00,,,Initial Jobless Claims,232K,232K,228K
+2024-08-22,21:00:00,,,Existing Home Sales (Jul),3.95M,3.94M,3.90M
+2024-08-23,21:00:00,,,Fed Chair Powell Speaks,,,
+2024-08-23,21:00:00,,,New Home Sales (Jul),739K,624K,668K
+2024-08-26,19:30:00,,,Durable Goods Orders (MoM) (Jul),9.90%,4.00%,-6.90%
+2024-08-27,21:00:00,,,CB Consumer Confidence (Aug),103.3,100.9,101.9
+2024-08-28,21:30:00,,,Crude Oil Inventories,-0.846M,-2.700M,-4.649M
+2024-08-29,19:30:00,,,GDP (QoQ) (Q2),3.00%,2.80%,1.40%
+2024-08-29,19:30:00,,,Initial Jobless Claims,231K,232K,233K
+2024-08-30,19:30:00,,,Core PCE Price Index (YoY) (Jul),2.60%,2.70%,2.60%
+2024-08-30,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.20%,0.20%,0.20%
+2024-08-30,20:45:00,,,Chicago PMI (Aug),46.1,45,45.3
+2024-09-02,All Day,,,United States - Labor Day,,,
+2024-09-03,21:00:00,,,ISM Manufacturing PMI (Aug),47.2,47.5,46.8
+2024-09-03,21:00:00,,,ISM Manufacturing Prices (Aug),54,52.1,52.9
+2024-09-04,21:00:00,,,JOLTS Job Openings (Jul),7.673M,8.090M,7.910M
+2024-09-05,19:15:00,,,ADP Nonfarm Employment Change (Aug),99K,144K,111K
+2024-09-05,19:30:00,,,Initial Jobless Claims,227K,231K,232K
+2024-09-05,21:00:00,,,ISM Non-Manufacturing PMI (Aug),51.5,51.3,51.4
+2024-09-05,21:00:00,,,ISM Non-Manufacturing Prices (Aug),57.3,56,57
+2024-09-05,22:00:00,,,Crude Oil Inventories,-6.873M,-0.600M,-0.846M
+2024-09-06,19:30:00,,,Average Hourly Earnings (MoM) (Aug),0.40%,0.30%,-0.10%
+2024-09-06,19:30:00,,,Nonfarm Payrolls (Aug),142K,164K,144K
+2024-09-06,19:30:00,,,Unemployment Rate (Aug),4.20%,4.20%,4.30%
+2024-09-11,19:30:00,,,Core CPI (MoM) (Aug),0.30%,0.20%,0.20%
+2024-09-11,19:30:00,,,CPI (MoM) (Aug),0.20%,0.20%,0.20%
+2024-09-11,19:30:00,,,CPI (YoY) (Aug),2.50%,2.50%,2.90%
+2024-09-11,21:30:00,,,Crude Oil Inventories,0.833M,0.900M,-6.873M
+2024-09-12,00:00:00,,,10-Year Note Auction,3.65%,,3.96%
+2024-09-12,19:30:00,,,Initial Jobless Claims,230K,227K,228K
+2024-09-12,19:30:00,,,PPI (MoM) (Aug),0.20%,0.10%,0.00%
+2024-09-13,00:00:00,,,30-Year Bond Auction,4.01%,,4.31%
+2024-09-17,19:30:00,,,Core Retail Sales (MoM) (Aug),0.10%,0.20%,0.40%
+2024-09-17,19:30:00,,,Retail Sales (MoM) (Aug),0.10%,-0.20%,1.10%
+2024-09-18,21:30:00,,,Crude Oil Inventories,-1.630M,-0.200M,0.833M
+2024-09-19,01:00:00,,,FOMC Economic Projections,,,
+2024-09-19,01:00:00,,,FOMC Statement,,,
+2024-09-19,01:00:00,,,Fed Interest Rate Decision,5.00%,5.25%,5.50%
+2024-09-19,01:30:00,,,FOMC Press Conference,,,
+2024-09-19,19:30:00,,,Initial Jobless Claims,219K,230K,231K
+2024-09-19,19:30:00,,,Philadelphia Fed Manufacturing Index (Sep),1.7,-0.8,-7
+2024-09-19,21:00:00,,,Existing Home Sales (Aug),3.86M,3.92M,3.96M
+2024-09-24,21:00:00,,,CB Consumer Confidence (Sep),98.7,103.9,105.6
+2024-09-25,21:00:00,,,New Home Sales (Aug),716K,699K,751K
+2024-09-25,21:30:00,,,Crude Oil Inventories,-4.471M,-1.300M,-1.630M
+2024-09-26,19:30:00,,,Durable Goods Orders (MoM) (Aug),0.00%,-2.80%,9.90%
+2024-09-26,19:30:00,,,GDP (QoQ) (Q2),3.00%,3.00%,1.60%
+2024-09-26,19:30:00,,,Initial Jobless Claims,218K,224K,222K
+2024-09-26,20:20:00,,,Fed Chair Powell Speaks,,,
+2024-09-27,19:30:00,,,Core PCE Price Index (YoY) (Aug),2.70%,2.70%,2.60%
+2024-09-27,19:30:00,,,Core PCE Price Index (MoM) (Aug),0.10%,0.20%,0.20%
+2024-09-30,20:45:00,,,Chicago PMI (Sep),46.6,46.1,46.1
+2024-10-01,00:55:00,,,Fed Chair Powell Speaks,,,
+2024-10-01,21:00:00,,,ISM Manufacturing PMI (Sep),47.2,47.6,47.2
+2024-10-01,21:00:00,,,ISM Manufacturing Prices (Sep),48.3,53.5,54
+2024-10-01,21:00:00,,,JOLTS Job Openings (Aug),8.040M,7.640M,7.711M
+2024-10-02,19:15:00,,,ADP Nonfarm Employment Change (Sep),143K,124K,103K
+2024-10-02,21:30:00,,,Crude Oil Inventories,3.889M,-1.500M,-4.471M
+2024-10-03,19:30:00,,,Initial Jobless Claims,225K,222K,219K
+2024-10-03,21:00:00,,,ISM Non-Manufacturing PMI (Sep),54.9,51.7,51.5
+2024-10-03,21:00:00,,,ISM Non-Manufacturing Prices (Sep),59.4,56.3,57.3
+2024-10-04,19:30:00,,,Average Hourly Earnings (MoM) (Sep),0.40%,0.30%,0.50%
+2024-10-04,19:30:00,,,Nonfarm Payrolls (Sep),254K,147K,78K
+2024-10-04,19:30:00,,,Unemployment Rate (Sep),4.10%,4.20%,4.20%
+2024-10-09,21:30:00,,,Crude Oil Inventories,5.810M,2.000M,3.889M
+2024-10-10,00:00:00,,,10-Year Note Auction,4.07%,,3.65%
+2024-10-10,01:00:00,,,FOMC Meeting Minutes,,,
+2024-10-10,19:30:00,,,Core CPI (MoM) (Sep),0.30%,0.20%,0.30%
+2024-10-10,19:30:00,,,CPI (MoM) (Sep),0.20%,0.10%,0.20%
+2024-10-10,19:30:00,,,CPI (YoY) (Sep),2.40%,2.30%,2.50%
+2024-10-10,19:30:00,,,Initial Jobless Claims,258K,231K,225K
+2024-10-11,00:00:00,,,30-Year Bond Auction,4.39%,,4.01%
+2024-10-11,19:30:00,,,PPI (MoM) (Sep),0.00%,0.10%,0.20%
+2024-10-17,19:30:00,,,Core Retail Sales (MoM) (Sep),0.50%,0.10%,0.20%
+2024-10-17,19:30:00,,,Initial Jobless Claims,241K,241K,260K
+2024-10-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Oct),10.3,4.2,1.7
+2024-10-17,19:30:00,,,Retail Sales (MoM) (Sep),0.40%,0.30%,0.10%
+2024-10-17,22:00:00,,,Crude Oil Inventories,-2.191M,1.800M,5.810M
+2024-10-23,21:00:00,,,Existing Home Sales (Sep),3.84M,3.88M,3.88M
+2024-10-23,21:30:00,,,Crude Oil Inventories,5.474M,0.800M,-2.191M
+2024-10-24,19:30:00,,,Initial Jobless Claims,227K,243K,242K
+2024-10-24,21:00:00,,,New Home Sales (Sep),738K,719K,709K
+2024-10-25,19:30:00,,,Durable Goods Orders (MoM) (Sep),-0.80%,-1.10%,-0.80%
+2024-10-29,21:00:00,,,CB Consumer Confidence (Oct),108.7,99.5,99.2
+2024-10-29,21:00:00,,,JOLTS Job Openings (Sep),7.443M,7.980M,7.861M
+2024-10-30,19:15:00,,,ADP Nonfarm Employment Change (Oct),233K,110K,159K
+2024-10-30,19:30:00,,,GDP (QoQ) (Q3),2.80%,3.00%,3.00%
+2024-10-30,21:30:00,,,Crude Oil Inventories,-0.515M,1.500M,5.474M
+2024-10-31,19:30:00,,,Core PCE Price Index (YoY) (Sep),2.70%,2.60%,2.70%
+2024-10-31,19:30:00,,,Core PCE Price Index (MoM) (Sep),0.30%,0.30%,0.20%
+2024-10-31,19:30:00,,,Initial Jobless Claims,216K,229K,228K
+2024-10-31,20:45:00,,,Chicago PMI (Oct),41.6,46.9,46.6
+2024-11-01,19:30:00,,,Average Hourly Earnings (MoM) (Oct),0.40%,0.30%,0.30%
+2024-11-01,19:30:00,,,Nonfarm Payrolls (Oct),12K,106K,255K
+2024-11-01,19:30:00,,,Unemployment Rate (Oct),4.10%,4.10%,4.10%
+2024-11-01,21:00:00,,,ISM Manufacturing PMI (Oct),46.5,47.6,47.2
+2024-11-01,21:00:00,,,ISM Manufacturing Prices (Oct),54.8,49.9,48.3
+2024-11-05,17:00:00,,,U.S. Presidential Election,,,
+2024-11-05,22:00:00,,,ISM Non-Manufacturing PMI (Oct),56,53.8,54.9
+2024-11-05,22:00:00,,,ISM Non-Manufacturing Prices (Oct),58.1,58,59.4
+2024-11-06,01:00:00,,,10-Year Note Auction,4.35%,,4.07%
+2024-11-06,22:30:00,,,Crude Oil Inventories,2.149M,0.300M,-0.515M
+2024-11-07,01:00:00,,,30-Year Bond Auction,4.61%,,4.39%
+2024-11-07,20:30:00,,,Initial Jobless Claims,221K,223K,218K
+2024-11-08,02:00:00,,,FOMC Statement,,,
+2024-11-08,02:00:00,,,Fed Interest Rate Decision,4.75%,4.75%,5.00%
+2024-11-08,02:30:00,,,FOMC Press Conference,,,
+2024-11-13,20:30:00,,,Core CPI (MoM) (Oct),0.30%,0.30%,0.30%
+2024-11-13,20:30:00,,,CPI (MoM) (Oct),0.20%,0.20%,0.20%
+2024-11-13,20:30:00,,,CPI (YoY) (Oct),2.60%,2.60%,2.40%
+2024-11-14,20:30:00,,,Initial Jobless Claims,217K,224K,221K
+2024-11-14,20:30:00,,,PPI (MoM) (Oct),0.20%,0.20%,0.10%
+2024-11-14,23:00:00,,,Crude Oil Inventories,2.089M,0.400M,2.149M
+2024-11-15,03:00:00,,,Fed Chair Powell Speaks,,,
+2024-11-15,20:30:00,,,Core Retail Sales (MoM) (Oct),0.10%,0.30%,1.00%
+2024-11-15,20:30:00,,,Retail Sales (MoM) (Oct),0.40%,0.30%,0.80%
+2024-11-20,22:30:00,,,Crude Oil Inventories,0.545M,0.400M,2.089M
+2024-11-21,20:30:00,,,Initial Jobless Claims,213K,220K,219K
+2024-11-21,20:30:00,,,Philadelphia Fed Manufacturing Index (Nov),-5.5,7.4,10.3
+2024-11-21,22:00:00,,,Existing Home Sales (Oct),3.96M,3.95M,3.83M
+2024-11-26,22:00:00,,,CB Consumer Confidence (Nov),111.7,111.8,109.6
+2024-11-26,22:00:00,,,New Home Sales (Oct),610K,725K,738K
+2024-11-27,02:00:00,,,FOMC Meeting Minutes,,,
+2024-11-27,20:30:00,,,Durable Goods Orders (MoM) (Oct),0.20%,-0.80%,-0.40%
+2024-11-27,20:30:00,,,GDP (QoQ) (Q3),2.80%,2.80%,3.00%
+2024-11-27,20:30:00,,,Initial Jobless Claims,213K,215K,215K
+2024-11-27,22:00:00,,,Core PCE Price Index (YoY) (Oct),2.80%,2.80%,2.70%
+2024-11-27,22:00:00,,,Core PCE Price Index (MoM) (Oct),0.30%,0.30%,0.30%
+2024-11-27,22:30:00,,,Crude Oil Inventories,-1.844M,-1.300M,0.545M
+2024-11-28,All Day,,,United States - Thanksgiving Day,,,
+2024-11-29,,,,United States - Thanksgiving Day - Early close at 13:00,,,
+2024-11-29,21:45:00,,,Chicago PMI (Nov),40.2,44.9,41.6
+2024-12-02,22:00:00,,,ISM Manufacturing PMI (Nov),48.4,47.7,46.5
+2024-12-02,22:00:00,,,ISM Manufacturing Prices (Nov),50.3,55.2,54.8
+2024-12-03,22:00:00,,,JOLTS Job Openings (Oct),7.744M,7.510M,7.372M
+2024-12-04,20:15:00,,,ADP Nonfarm Employment Change (Nov),146K,166K,184K
+2024-12-04,22:00:00,,,ISM Non-Manufacturing PMI (Nov),52.1,55.5,56
+2024-12-04,22:00:00,,,ISM Non-Manufacturing Prices (Nov),58.2,56.4,58.1
+2024-12-04,22:30:00,,,Crude Oil Inventories,-5.073M,-1.600M,-1.844M
+2024-12-05,01:45:00,,,Fed Chair Powell Speaks,,,
+2024-12-05,20:30:00,,,Initial Jobless Claims,224K,215K,215K
+2024-12-06,20:30:00,,,Average Hourly Earnings (MoM) (Nov),0.40%,0.30%,0.40%
+2024-12-06,20:30:00,,,Nonfarm Payrolls (Nov),227K,202K,43K
+2024-12-06,20:30:00,,,Unemployment Rate (Nov),4.20%,4.20%,4.10%
+2024-12-11,20:30:00,,,Core CPI (MoM) (Nov),0.30%,0.30%,0.30%
+2024-12-11,20:30:00,,,CPI (MoM) (Nov),0.30%,0.30%,0.20%
+2024-12-11,20:30:00,,,CPI (YoY) (Nov),2.70%,2.70%,2.60%
+2024-12-11,22:30:00,,,Crude Oil Inventories,-1.425M,-1.000M,-5.073M
+2024-12-12,01:00:00,,,10-Year Note Auction,4.23%,,4.35%
+2024-12-12,20:30:00,,,Initial Jobless Claims,242K,221K,225K
+2024-12-12,20:30:00,,,PPI (MoM) (Nov),0.40%,0.20%,0.30%
+2024-12-13,01:00:00,,,30-Year Bond Auction,4.54%,,4.61%
+2024-12-17,20:30:00,,,Core Retail Sales (MoM) (Nov),0.20%,0.40%,0.20%
+2024-12-17,20:30:00,,,Retail Sales (MoM) (Nov),0.70%,0.60%,0.50%
+2024-12-18,22:30:00,,,Crude Oil Inventories,-0.934M,-1.600M,-1.425M
+2024-12-19,02:00:00,,,FOMC Economic Projections,,,
+2024-12-19,02:00:00,,,FOMC Statement,,,
+2024-12-19,02:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.75%
+2024-12-19,02:30:00,,,FOMC Press Conference,,,
+2024-12-19,20:30:00,,,GDP (QoQ) (Q3),3.10%,2.80%,3.00%
+2024-12-19,20:30:00,,,Initial Jobless Claims,220K,229K,242K
+2024-12-19,20:30:00,,,Philadelphia Fed Manufacturing Index (Dec),-16.4,2.9,-5.5
+2024-12-19,22:00:00,,,Existing Home Sales (Nov),4.15M,4.09M,3.96M
+2024-12-20,20:30:00,,,Core PCE Price Index (YoY) (Nov),2.80%,2.90%,2.80%
+2024-12-20,20:30:00,,,Core PCE Price Index (MoM) (Nov),0.10%,0.20%,0.30%
+2024-12-23,20:30:00,,,Durable Goods Orders (MoM) (Nov),-1.10%,-0.30%,0.80%
+2024-12-23,22:00:00,,,CB Consumer Confidence (Dec),104.7,112.9,112.8
+2024-12-23,22:00:00,,,New Home Sales (Nov),664K,666K,627K
+2024-12-24,,,,United States - Christmas - Early close at 13:00,,,
+2024-12-25,All Day,,,United States - Christmas,,,
+2024-12-26,20:30:00,,,Initial Jobless Claims,219K,223K,220K
+2024-12-28,01:00:00,,,Crude Oil Inventories,-4.237M,-0.700M,-0.934M
+2024-12-30,21:45:00,,,Chicago PMI (Dec),36.9,42.7,40.2
+2025-01-01,All Day,,,United States - New Year's Day,,,
+2025-01-02,20:30:00,,,Initial Jobless Claims,211K,222K,220K
+2025-01-02,23:00:00,,,Crude Oil Inventories,-1.178M,-2.400M,-4.237M
+2025-01-03,22:00:00,,,ISM Manufacturing PMI (Dec),49.3,48.2,48.4
+2025-01-03,22:00:00,,,ISM Manufacturing Prices (Dec),52.5,51.5,50.3
+2025-01-07,22:00:00,,,ISM Non-Manufacturing PMI (Dec),54.1,53.5,52.1
+2025-01-07,22:00:00,,,ISM Non-Manufacturing Prices (Dec),64.4,57.5,58.2
+2025-01-07,22:00:00,,,JOLTS Job Openings (Nov),8.098M,7.730M,7.839M
+2025-01-08,01:00:00,,,10-Year Note Auction,4.68%,,4.23%
+2025-01-08,20:15:00,,,ADP Nonfarm Employment Change (Dec),122K,139K,146K
+2025-01-08,20:30:00,,,Initial Jobless Claims,201K,214K,211K
+2025-01-08,22:30:00,,,Crude Oil Inventories,-0.959M,-1.800M,-1.178M
+2025-01-09,All Day,,,United States - National Day,,,
+2025-01-09,01:00:00,,,30-Year Bond Auction,4.91%,,4.54%
+2025-01-09,02:00:00,,,FOMC Meeting Minutes,,,
+2025-01-10,20:30:00,,,Average Hourly Earnings (MoM) (Dec),0.30%,0.30%,0.40%
+2025-01-10,20:30:00,,,Nonfarm Payrolls (Dec),256K,164K,261K
+2025-01-10,20:30:00,,,Unemployment Rate (Dec),4.10%,4.20%,4.20%
+2025-01-14,20:30:00,,,PPI (MoM) (Dec),0.20%,0.40%,0.40%
+2025-01-15,20:30:00,,,Core CPI (MoM) (Dec),0.20%,0.30%,0.30%
+2025-01-15,20:30:00,,,CPI (MoM) (Dec),0.40%,0.40%,0.30%
+2025-01-15,20:30:00,,,CPI (YoY) (Dec),2.90%,2.90%,2.70%
+2025-01-15,22:30:00,,,Crude Oil Inventories,-1.962M,-3.500M,-0.959M
+2025-01-16,20:30:00,,,Core Retail Sales (MoM) (Dec),0.40%,0.50%,0.20%
+2025-01-16,20:30:00,,,Initial Jobless Claims,217K,210K,203K
+2025-01-16,20:30:00,,,Philadelphia Fed Manufacturing Index (Jan),44.3,-5,-10.9
+2025-01-16,20:30:00,,,Retail Sales (MoM) (Dec),0.40%,0.60%,0.80%
+2025-01-20,All Day,,,"United States - Martin Luther King, Jr. Day",,,
+2025-01-21,00:00:00,,,U.S. President Trump Speaks,,,
+2025-01-23,20:30:00,,,Initial Jobless Claims,223K,221K,217K
+2025-01-23,23:00:00,,,U.S. President Trump Speaks,,,
+2025-01-24,00:00:00,,,Crude Oil Inventories,-1.017M,-2.100M,-1.962M
+2025-01-24,22:00:00,,,Existing Home Sales (Dec),4.24M,4.19M,4.15M
+2025-01-27,22:00:00,,,New Home Sales (Dec),698K,669K,674K
+2025-01-28,20:30:00,,,Durable Goods Orders (MoM) (Dec),-2.20%,0.30%,-2.00%
+2025-01-28,22:00:00,,,CB Consumer Confidence (Jan),104.1,105.7,109.5
+2025-01-29,22:30:00,,,Crude Oil Inventories,3.463M,2.200M,-1.017M
+2025-01-30,02:00:00,,,FOMC Statement,,,
+2025-01-30,02:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.50%
+2025-01-30,02:30:00,,,FOMC Press Conference,,,
+2025-01-30,20:30:00,,,GDP (QoQ) (Q4),2.30%,2.70%,3.10%
+2025-01-30,20:30:00,,,Initial Jobless Claims,207K,224K,223K
+2025-01-31,20:30:00,,,Core PCE Price Index (YoY) (Dec),2.80%,2.80%,2.80%
+2025-01-31,20:30:00,,,Core PCE Price Index (MoM) (Dec),0.20%,0.20%,0.10%
+2025-01-31,21:45:00,,,Chicago PMI (Jan),39.5,40.3,36.9
+2025-02-03,22:00:00,,,ISM Manufacturing PMI (Jan),50.9,49.3,49.2
+2025-02-03,22:00:00,,,ISM Manufacturing Prices (Jan),54.9,52.6,52.5
+2025-02-04,22:00:00,,,JOLTS Job Openings (Dec),7.600M,8.010M,8.156M
+2025-02-05,20:15:00,,,ADP Nonfarm Employment Change (Jan),183K,148K,176K
+2025-02-05,22:00:00,,,ISM Non-Manufacturing PMI (Jan),52.8,54.2,54
+2025-02-05,22:00:00,,,ISM Non-Manufacturing Prices (Jan),60.4,,64.4
+2025-02-05,22:30:00,,,Crude Oil Inventories,8.664M,2.400M,3.463M
+2025-02-06,20:30:00,,,Initial Jobless Claims,219K,214K,208K
+2025-02-07,20:30:00,,,Average Hourly Earnings (MoM) (Jan),0.50%,0.30%,0.30%
+2025-02-07,20:30:00,,,Nonfarm Payrolls (Jan),143K,169K,323K
+2025-02-07,20:30:00,,,Unemployment Rate (Jan),4.00%,4.10%,4.10%
+2025-02-07,22:00:00,,,Fed Monetary Policy Report,,,
+2025-02-11,22:00:00,,,Fed Chair Powell Testifies,,,
+2025-02-12,20:30:00,,,Core CPI (MoM) (Jan),0.40%,0.30%,0.20%
+2025-02-12,20:30:00,,,CPI (MoM) (Jan),0.50%,0.30%,0.40%
+2025-02-12,20:30:00,,,CPI (YoY) (Jan),3.00%,2.90%,2.90%
+2025-02-12,22:00:00,,,Fed Chair Powell Testifies,,,
+2025-02-12,22:30:00,,,Crude Oil Inventories,4.070M,2.400M,8.664M
+2025-02-13,01:00:00,,,10-Year Note Auction,4.63%,,4.68%
+2025-02-13,20:30:00,,,Initial Jobless Claims,213K,217K,220K
+2025-02-13,20:30:00,,,PPI (MoM) (Jan),0.40%,0.30%,0.50%
+2025-02-14,01:00:00,,,30-Year Bond Auction,4.75%,,4.91%
+2025-02-14,20:30:00,,,Core Retail Sales (MoM) (Jan),-0.40%,0.30%,0.70%
+2025-02-14,20:30:00,,,Retail Sales (MoM) (Jan),-0.90%,-0.20%,0.70%
+2025-02-17,All Day,,,United States - Washington's Birthday,,,
+2025-02-19,09:00:00,,,U.S. President Trump Speaks,,,
+2025-02-20,02:00:00,,,FOMC Meeting Minutes,,,
+2025-02-20,20:30:00,,,Initial Jobless Claims,219K,215K,214K
+2025-02-20,20:30:00,,,Philadelphia Fed Manufacturing Index (Feb),18.1,19.4,44.3
+2025-02-21,00:00:00,,,Crude Oil Inventories,4.633M,3.200M,4.070M
+2025-02-21,22:00:00,,,Existing Home Sales (Jan),4.08M,4.13M,4.29M
+2025-02-25,22:00:00,,,CB Consumer Confidence (Feb),98.3,102.7,105.3
+2025-02-26,22:00:00,,,Crude Oil Inventories,-2.332M,2.500M,4.633M
+2025-02-26,22:00:00,,,New Home Sales (Jan),657K,679K,734K
+2025-02-27,20:30:00,,,Durable Goods Orders (MoM) (Jan),3.10%,2.00%,-1.80%
+2025-02-27,20:30:00,,,GDP (QoQ) (Q4),2.30%,2.30%,3.10%
+2025-02-27,20:30:00,,,Initial Jobless Claims,242K,222K,220K
+2025-02-28,20:30:00,,,Core PCE Price Index (YoY) (Jan),2.60%,2.60%,2.90%
+2025-02-28,20:30:00,,,Core PCE Price Index (MoM) (Jan),0.30%,0.30%,0.20%
+2025-02-28,21:45:00,,,Chicago PMI (Feb),45.5,40.5,39.5
+2025-03-03,22:00:00,,,ISM Manufacturing PMI (Feb),50.3,50.6,50.9
+2025-03-03,22:00:00,,,ISM Manufacturing Prices (Feb),62.4,56.2,54.9
+2025-03-05,09:10:00,,,U.S. President Trump Speaks,,,
+2025-03-05,20:15:00,,,ADP Nonfarm Employment Change (Feb),77K,141K,186K
+2025-03-05,22:00:00,,,ISM Non-Manufacturing PMI (Feb),53.5,52.5,52.8
+2025-03-05,22:00:00,,,ISM Non-Manufacturing Prices (Feb),62.6,60,60.4
+2025-03-05,22:30:00,,,Crude Oil Inventories,3.614M,0.600M,-2.332M
+2025-03-06,20:30:00,,,Initial Jobless Claims,221K,234K,242K
+2025-03-07,20:30:00,,,Average Hourly Earnings (MoM) (Feb),0.30%,0.30%,0.40%
+2025-03-07,20:30:00,,,Nonfarm Payrolls (Feb),151K,159K,111K
+2025-03-07,20:30:00,,,Unemployment Rate (Feb),4.10%,4.00%,4.00%
+2025-03-08,00:30:00,,,Fed Chair Powell Speaks,,,
+2025-03-08,01:30:00,,,U.S. President Trump Speaks,,,
+2025-03-11,21:00:00,,,JOLTS Job Openings (Jan),7.740M,7.650M,7.508M
+2025-03-12,19:30:00,,,Core CPI (MoM) (Feb),0.20%,0.30%,0.40%
+2025-03-12,19:30:00,,,CPI (MoM) (Feb),0.20%,0.30%,0.50%
+2025-03-12,19:30:00,,,CPI (YoY) (Feb),2.80%,2.90%,3.00%
+2025-03-12,20:30:00,,,Crude Oil Inventories,1.448M,2.100M,3.614M
+2025-03-13,00:00:00,,,10-Year Note Auction,4.31%,,4.63%
+2025-03-13,19:30:00,,,Initial Jobless Claims,220K,226K,222K
+2025-03-13,19:30:00,,,PPI (MoM) (Feb),0.00%,0.30%,0.60%
+2025-03-14,00:00:00,,,30-Year Bond Auction,4.62%,,4.75%
+2025-03-17,19:30:00,,,Core Retail Sales (MoM) (Feb),0.30%,0.30%,-0.60%
+2025-03-17,19:30:00,,,Retail Sales (MoM) (Feb),0.20%,0.60%,-1.20%
+2025-03-19,20:30:00,,,Crude Oil Inventories,1.745M,0.800M,1.448M
+2025-03-20,01:00:00,,,FOMC Economic Projections,,,
+2025-03-20,01:00:00,,,FOMC Statement,,,
+2025-03-20,01:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.50%
+2025-03-20,01:30:00,,,FOMC Press Conference,,,
+2025-03-20,19:30:00,,,Initial Jobless Claims,223K,224K,221K
+2025-03-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Mar),12.5,8.8,18.1
+2025-03-20,21:00:00,,,Existing Home Sales (Feb),4.26M,3.95M,4.09M
+2025-03-25,21:00:00,,,CB Consumer Confidence (Mar),92.9,94.2,100.1
+2025-03-25,21:00:00,,,New Home Sales (Feb),676K,682K,664K
+2025-03-26,19:30:00,,,Durable Goods Orders (MoM) (Feb),0.90%,-1.10%,3.30%
+2025-03-26,21:30:00,,,Crude Oil Inventories,-3.341M,1.500M,1.745M
+2025-03-27,08:00:00,,,U.S. President Trump Speaks,,,
+2025-03-27,19:30:00,,,GDP (QoQ) (Q4),2.40%,2.30%,3.10%
+2025-03-27,19:30:00,,,Initial Jobless Claims,224K,225K,225K
+2025-03-28,19:30:00,,,Core PCE Price Index (YoY) (Feb),2.80%,2.70%,2.70%
+2025-03-28,19:30:00,,,Core PCE Price Index (MoM) (Feb),0.40%,0.30%,0.30%
+2025-03-31,20:45:00,,,Chicago PMI (Mar),47.6,45.5,45.5
+2025-04-01,21:00:00,,,ISM Manufacturing PMI (Mar),49,49.5,50.3
+2025-04-01,21:00:00,,,ISM Manufacturing Prices (Mar),69.4,64.6,62.4
+2025-04-01,21:00:00,,,JOLTS Job Openings (Feb),7.568M,7.690M,7.762M
+2025-04-02,19:15:00,,,ADP Nonfarm Employment Change (Mar),155K,118K,84K
+2025-04-02,21:30:00,,,Crude Oil Inventories,6.165M,-0.200M,-3.341M
+2025-04-03,03:00:00,,,U.S. President Trump Speaks,,,
+2025-04-03,19:30:00,,,Initial Jobless Claims,219K,225K,225K
+2025-04-03,21:00:00,,,ISM Non-Manufacturing PMI (Mar),50.8,53,53.5
+2025-04-03,21:00:00,,,ISM Non-Manufacturing Prices (Mar),60.9,63.1,62.6
+2025-04-04,19:30:00,,,Average Hourly Earnings (MoM) (Mar),0.30%,0.30%,0.20%
+2025-04-04,19:30:00,,,Nonfarm Payrolls (Mar),228K,137K,102K
+2025-04-04,19:30:00,,,Unemployment Rate (Mar),4.20%,4.10%,4.10%
+2025-04-04,22:25:00,,,Fed Chair Powell Speaks,,,
+2025-04-09,21:30:00,,,Crude Oil Inventories,2.553M,2.200M,6.165M
+2025-04-10,00:00:00,,,10-Year Note Auction,4.44%,,4.31%
+2025-04-10,01:00:00,,,FOMC Meeting Minutes,,,
+2025-04-10,19:30:00,,,Core CPI (MoM) (Mar),0.10%,0.30%,0.20%
+2025-04-10,19:30:00,,,CPI (MoM) (Mar),-0.10%,0.10%,0.20%
+2025-04-10,19:30:00,,,CPI (YoY) (Mar),2.40%,2.50%,2.80%
+2025-04-10,19:30:00,,,Initial Jobless Claims,223K,223K,219K
+2025-04-11,00:00:00,,,30-Year Bond Auction,4.81%,,4.62%
+2025-04-11,19:30:00,,,PPI (MoM) (Mar),-0.40%,0.20%,0.10%
+2025-04-16,19:30:00,,,Core Retail Sales (MoM) (Mar),0.50%,0.40%,0.70%
+2025-04-16,19:30:00,,,Retail Sales (MoM) (Mar),1.40%,1.30%,0.20%
+2025-04-16,21:30:00,,,Crude Oil Inventories,0.515M,0.400M,2.553M
+2025-04-17,00:30:00,,,Fed Chair Powell Speaks,,,
+2025-04-17,19:30:00,,,Initial Jobless Claims,215K,225K,224K
+2025-04-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Apr),-26.4,2.2,12.5
+2025-04-18,All Day,,,United States - Good Friday,,,
+2025-04-23,21:00:00,,,New Home Sales (Mar),724K,684K,674K
+2025-04-23,21:30:00,,,Crude Oil Inventories,0.244M,-0.700M,0.515M
+2025-04-24,19:30:00,,,Durable Goods Orders (MoM) (Mar),9.20%,2.10%,0.90%
+2025-04-24,19:30:00,,,Initial Jobless Claims,222K,222K,216K
+2025-04-24,21:00:00,,,Existing Home Sales (Mar),4.02M,4.14M,4.27M
+2025-04-29,21:00:00,,,CB Consumer Confidence (Apr),86,87.7,93.9
+2025-04-29,21:00:00,,,JOLTS Job Openings (Mar),7.192M,7.490M,7.480M
+2025-04-30,19:15:00,,,ADP Nonfarm Employment Change (Apr),62K,114K,147K
+2025-04-30,19:30:00,,,GDP (QoQ) (Q1),-0.30%,0.20%,2.40%
+2025-04-30,20:45:00,,,Chicago PMI (Apr),44.6,45.9,47.6
+2025-04-30,21:00:00,,,Core PCE Price Index (MoM) (Mar),0.00%,0.10%,0.50%
+2025-04-30,21:00:00,,,Core PCE Price Index (YoY) (Mar),2.60%,2.60%,3.00%
+2025-04-30,21:30:00,,,Crude Oil Inventories,-2.696M,0.390M,0.244M
+2025-05-01,07:00:00,,,U.S. President Trump Speaks,,,
+2025-05-01,19:30:00,,,Initial Jobless Claims,241K,224K,223K
+2025-05-01,21:00:00,,,ISM Manufacturing PMI (Apr),48.7,48,49
+2025-05-01,21:00:00,,,ISM Manufacturing Prices (Apr),69.8,72.9,69.4
+2025-05-02,19:30:00,,,Average Hourly Earnings (MoM) (Apr),0.20%,0.30%,0.30%
+2025-05-02,19:30:00,,,Nonfarm Payrolls (Apr),177K,138K,120K
+2025-05-02,19:30:00,,,Unemployment Rate (Apr),4.20%,4.20%,4.20%
+2025-05-05,21:00:00,,,ISM Non-Manufacturing PMI (Apr),51.6,50.2,50.8
+2025-05-05,21:00:00,,,ISM Non-Manufacturing Prices (Apr),65.1,61.2,60.9
+2025-05-07,00:00:00,,,10-Year Note Auction,4.34%,,4.44%
+2025-05-07,21:30:00,,,Crude Oil Inventories,-2.032M,-1.700M,-2.696M
+2025-05-08,01:00:00,,,FOMC Statement,,,
+2025-05-08,01:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.50%
+2025-05-08,01:30:00,,,FOMC Press Conference,,,
+2025-05-08,19:30:00,,,Initial Jobless Claims,228K,231K,241K
+2025-05-09,00:00:00,,,30-Year Bond Auction,4.82%,,4.81%
+2025-05-13,19:30:00,,,Core CPI (MoM) (Apr),0.20%,0.30%,0.10%
+2025-05-13,19:30:00,,,CPI (MoM) (Apr),0.20%,0.30%,-0.10%
+2025-05-13,19:30:00,,,CPI (YoY) (Apr),2.30%,2.40%,2.40%
+2025-05-13,22:30:00,,,U.S. President Trump Speaks,,,
+2025-05-14,21:30:00,,,Crude Oil Inventories,3.454M,-2.000M,-2.032M
+2025-05-15,19:30:00,,,Core Retail Sales (MoM) (Apr),0.10%,0.30%,0.80%
+2025-05-15,19:30:00,,,Initial Jobless Claims,229K,229K,229K
+2025-05-15,19:30:00,,,Philadelphia Fed Manufacturing Index (May),-4,-11.3,-26.4
+2025-05-15,19:30:00,,,PPI (MoM) (Apr),-0.50%,0.20%,0.00%
+2025-05-15,19:30:00,,,Retail Sales (MoM) (Apr),0.10%,0.00%,1.70%
+2025-05-15,19:40:00,,,Fed Chair Powell Speaks,,,
+2025-05-21,21:30:00,,,Crude Oil Inventories,1.328M,-0.900M,3.454M
+2025-05-22,19:30:00,,,Initial Jobless Claims,227K,230K,229K
+2025-05-22,21:00:00,,,Existing Home Sales (Apr),4.00M,4.15M,4.02M
+2025-05-23,21:00:00,,,New Home Sales (Apr),743K,694K,670K
+2025-05-26,All Day,,,United States - Memorial Day,,,
+2025-05-26,01:40:00,,,Fed Chair Powell Speaks,,,
+2025-05-27,19:30:00,,,Durable Goods Orders (MoM) (Apr),-6.30%,-7.60%,7.60%
+2025-05-27,21:00:00,,,CB Consumer Confidence (May),98,87.1,85.7
+2025-05-29,01:00:00,,,FOMC Meeting Minutes,,,
+2025-05-29,19:30:00,,,GDP (QoQ) (Q1),-0.20%,-0.30%,2.40%
+2025-05-29,19:30:00,,,Initial Jobless Claims,240K,229K,226K
+2025-05-29,23:00:00,,,Crude Oil Inventories,-2.795M,1.000M,1.328M
+2025-05-30,19:30:00,,,Core PCE Price Index (YoY) (Apr),2.50%,2.50%,2.70%
+2025-05-30,19:30:00,,,Core PCE Price Index (MoM) (Apr),0.10%,0.10%,0.10%
+2025-05-30,20:45:00,,,Chicago PMI (May),40.5,45.1,44.6
+2025-06-02,21:00:00,,,ISM Manufacturing PMI (May),48.5,49.3,48.7
+2025-06-02,21:00:00,,,ISM Manufacturing Prices (May),69.4,70.2,69.8
+2025-06-03,00:00:00,,,Fed Chair Powell Speaks,,,
+2025-06-03,21:00:00,,,JOLTS Job Openings (Apr),7.391M,7.110M,7.200M
+2025-06-04,19:15:00,,,ADP Nonfarm Employment Change (May),37K,111K,60K
+2025-06-04,21:00:00,,,ISM Non-Manufacturing PMI (May),49.9,52,51.6
+2025-06-04,21:00:00,,,ISM Non-Manufacturing Prices (May),68.7,65.1,65.1
+2025-06-04,21:30:00,,,Crude Oil Inventories,-4.304M,-2.900M,-2.795M
+2025-06-05,19:30:00,,,Initial Jobless Claims,247K,236K,239K
+2025-06-06,19:30:00,,,Average Hourly Earnings (MoM) (May),0.40%,0.30%,0.20%
+2025-06-06,19:30:00,,,Nonfarm Payrolls (May),139K,126K,158K
+2025-06-06,19:30:00,,,Unemployment Rate (May),4.20%,4.20%,4.20%
+2025-06-11,03:00:00,,,U.S. President Trump Speaks,,,
+2025-06-11,19:30:00,,,Core CPI (MoM) (May),0.10%,0.30%,0.20%
+2025-06-11,19:30:00,,,CPI (MoM) (May),0.10%,0.20%,0.20%
+2025-06-11,19:30:00,,,CPI (YoY) (May),2.40%,2.50%,2.30%
+2025-06-11,21:30:00,,,Crude Oil Inventories,-3.644M,-2.400M,-4.304M
+2025-06-12,01:00:00,,,10-Year Note Auction,4.42%,,4.34%
+2025-06-12,19:30:00,,,Initial Jobless Claims,248K,242K,248K
+2025-06-12,19:30:00,,,PPI (MoM) (May),0.10%,0.20%,-0.20%
+2025-06-13,00:00:00,,,30-Year Bond Auction,4.84%,,4.82%
+2025-06-17,19:30:00,,,Core Retail Sales (MoM) (May),-0.30%,0.20%,0.00%
+2025-06-17,19:30:00,,,Retail Sales (MoM) (May),-0.90%,-0.50%,-0.10%
+2025-06-18,19:30:00,,,Initial Jobless Claims,245K,246K,250K
+2025-06-18,21:30:00,,,Crude Oil Inventories,-11.473M,-2.300M,-3.644M
+2025-06-19,All Day,,,United States - Juneteenth,,,
+2025-06-19,01:00:00,,,FOMC Economic Projections,,,
+2025-06-19,01:00:00,,,FOMC Statement,,,
+2025-06-19,01:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.50%
+2025-06-19,01:30:00,,,FOMC Press Conference,,,
+2025-06-20,19:30:00,,,Philadelphia Fed Manufacturing Index (Jun),-4,-1.7,-4
+2025-06-20,22:00:00,,,Fed Monetary Policy Report,,,
+2025-06-22,09:00:00,,,U.S. President Trump Speaks,,,
+2025-06-23,21:00:00,,,Existing Home Sales (May),4.03M,3.96M,4.00M
+2025-06-24,21:00:00,,,CB Consumer Confidence (Jun),93,99.4,98.4
+2025-06-24,21:00:00,,,Fed Chair Powell Testifies,,,
+2025-06-25,21:00:00,,,Fed Chair Powell Testifies,,,
+2025-06-25,21:00:00,,,New Home Sales (May),623K,694K,722K
+2025-06-25,21:30:00,,,Crude Oil Inventories,-5.836M,-1.200M,-11.473M
+2025-06-26,19:30:00,,,Durable Goods Orders (MoM) (May),16.40%,8.60%,-6.60%
+2025-06-26,19:30:00,,,GDP (QoQ) (Q1),-0.50%,-0.20%,2.40%
+2025-06-26,19:30:00,,,Initial Jobless Claims,236K,244K,246K
+2025-06-27,19:30:00,,,Core PCE Price Index (YoY) (May),2.70%,2.60%,2.60%
+2025-06-27,19:30:00,,,Core PCE Price Index (MoM) (May),0.20%,0.10%,0.10%
+2025-06-30,20:45:00,,,Chicago PMI (Jun),40.4,42.7,40.5
+2025-07-01,20:30:00,,,Fed Chair Powell Speaks,,,
+2025-07-01,21:00:00,,,ISM Manufacturing PMI (Jun),49,48.8,48.5
+2025-07-01,21:00:00,,,ISM Manufacturing Prices (Jun),69.7,69.6,69.4
+2025-07-01,21:00:00,,,JOLTS Job Openings (May),7.769M,7.320M,7.395M
+2025-07-02,19:15:00,,,ADP Nonfarm Employment Change (Jun),-33K,99K,29K
+2025-07-02,21:30:00,,,Crude Oil Inventories,3.845M,-3.500M,-5.836M
+2025-07-03,,,,United States - Independence Day - Early close at 13:00,,,
+2025-07-03,19:30:00,,,Average Hourly Earnings (MoM) (Jun),0.20%,0.30%,0.40%
+2025-07-03,19:30:00,,,Initial Jobless Claims,233K,240K,237K
+2025-07-03,19:30:00,,,Nonfarm Payrolls (Jun),147K,111K,19K
+2025-07-03,19:30:00,,,Unemployment Rate (Jun),4.10%,4.30%,4.20%
+2025-07-03,21:00:00,,,ISM Non-Manufacturing PMI (Jun),50.8,50.8,49.9
+2025-07-03,21:00:00,,,ISM Non-Manufacturing Prices (Jun),67.5,68.9,68.7
+2025-07-04,All Day,,,United States - Independence Day,,,
+2025-07-09,21:30:00,,,Crude Oil Inventories,7.070M,-1.700M,3.845M
+2025-07-10,00:00:00,,,10-Year Note Auction,4.36%,,4.42%
+2025-07-10,01:00:00,,,FOMC Meeting Minutes,,,
+2025-07-10,19:30:00,,,Initial Jobless Claims,227K,236K,232K
+2025-07-11,00:00:00,,,30-Year Bond Auction,4.89%,,4.84%
+2025-07-15,19:30:00,,,Core CPI (MoM) (Jun),0.20%,0.30%,0.10%
+2025-07-15,19:30:00,,,CPI (MoM) (Jun),0.30%,0.30%,0.10%
+2025-07-15,19:30:00,,,CPI (YoY) (Jun),2.70%,2.60%,2.40%
+2025-07-16,19:30:00,,,PPI (MoM) (Jun),0.00%,0.20%,0.30%
+2025-07-16,21:30:00,,,Crude Oil Inventories,-3.859M,-1.800M,7.070M
+2025-07-17,19:30:00,,,Core Retail Sales (MoM) (Jun),0.50%,0.30%,-0.20%
+2025-07-17,19:30:00,,,Initial Jobless Claims,221K,233K,228K
+2025-07-17,19:30:00,,,Philadelphia Fed Manufacturing Index (Jul),15.9,-1.2,-4
+2025-07-17,19:30:00,,,Retail Sales (MoM) (Jun),0.60%,0.10%,-0.90%
+2025-07-22,19:30:00,,,Fed Chair Powell Speaks,,,
+2025-07-23,21:00:00,,,Existing Home Sales (Jun),3.93M,4.00M,4.04M
+2025-07-23,21:30:00,,,Crude Oil Inventories,-3.169M,-1.400M,-3.859M
+2025-07-24,19:30:00,,,Initial Jobless Claims,217K,227K,221K
+2025-07-24,21:00:00,,,New Home Sales (Jun),627K,649K,623K
+2025-07-25,19:30:00,,,Durable Goods Orders (MoM) (Jun),-9.30%,-10.40%,16.50%
+2025-07-29,21:00:00,,,CB Consumer Confidence (Jul),97.2,95.9,95.2
+2025-07-29,21:00:00,,,JOLTS Job Openings (Jun),7.437M,7.510M,7.712M
+2025-07-30,19:15:00,,,ADP Nonfarm Employment Change (Jul),104K,77K,-23K
+2025-07-30,19:30:00,,,GDP (QoQ) (Q2),3.00%,2.50%,-0.50%
+2025-07-30,21:30:00,,,Crude Oil Inventories,7.698M,-2.300M,-3.169M
+2025-07-31,01:00:00,,,FOMC Statement,,,
+2025-07-31,01:00:00,,,Fed Interest Rate Decision,4.50%,4.50%,4.50%
+2025-07-31,01:30:00,,,FOMC Press Conference,,,
+2025-07-31,19:30:00,,,Core PCE Price Index (YoY) (Jun),2.80%,2.70%,2.80%
+2025-07-31,19:30:00,,,Core PCE Price Index (MoM) (Jun),0.30%,0.30%,0.20%
+2025-07-31,19:30:00,,,Initial Jobless Claims,218K,222K,217K
+2025-07-31,20:45:00,,,Chicago PMI (Jul),47.1,41.9,40.4
+2025-08-01,19:30:00,,,Average Hourly Earnings (MoM) (Jul),0.30%,0.30%,0.20%
+2025-08-01,19:30:00,,,Nonfarm Payrolls (Jul),73K,106K,-13K
+2025-08-01,19:30:00,,,Unemployment Rate (Jul),4.20%,4.20%,4.10%
+2025-08-01,21:00:00,,,ISM Manufacturing PMI (Jul),48,49.5,49
+2025-08-01,21:00:00,,,ISM Manufacturing Prices (Jul),64.8,69.9,69.7
+2025-08-05,19:00:00,,,U.S. President Trump Speaks,,,
+2025-08-05,21:00:00,,,ISM Non-Manufacturing PMI (Jul),50.1,51.5,50.8
+2025-08-05,21:00:00,,,ISM Non-Manufacturing Prices (Jul),69.9,66.5,67.5
+2025-08-06,21:30:00,,,Crude Oil Inventories,-3.029M,0.200M,7.698M
+2025-08-07,00:00:00,,,10-Year Note Auction,4.25%,,4.36%
+2025-08-07,19:30:00,,,Initial Jobless Claims,226K,221K,219K
+2025-08-08,00:00:00,,,30-Year Bond Auction,4.81%,,4.89%
+2025-08-08,03:00:00,,,U.S. President Trump Speaks,,,
+2025-08-12,19:30:00,,,Core CPI (MoM) (Jul),0.30%,0.30%,0.20%
+2025-08-12,19:30:00,,,CPI (MoM) (Jul),0.20%,0.20%,0.30%
+2025-08-12,19:30:00,,,CPI (YoY) (Jul),2.70%,2.80%,2.70%
+2025-08-13,21:30:00,,,Crude Oil Inventories,3.036M,-0.900M,-3.029M
+2025-08-13,22:15:00,,,U.S. President Trump Speaks,,,
+2025-08-14,19:30:00,,,Initial Jobless Claims,224K,225K,227K
+2025-08-14,19:30:00,,,PPI (MoM) (Jul),0.90%,0.20%,0.00%
+2025-08-15,00:00:00,,,U.S. President Trump Speaks,,,
+2025-08-15,19:30:00,,,Core Retail Sales (MoM) (Jul),0.30%,0.30%,0.80%
+2025-08-15,19:30:00,,,Retail Sales (MoM) (Jul),0.50%,0.60%,0.90%
+2025-08-20,21:30:00,,,Crude Oil Inventories,-6.014M,-0.800M,3.036M
+2025-08-21,01:00:00,,,FOMC Meeting Minutes,,,
+2025-08-21,19:30:00,,,Initial Jobless Claims,235K,226K,224K
+2025-08-21,19:30:00,,,Philadelphia Fed Manufacturing Index (Aug),-0.3,6.8,15.9
+2025-08-21,21:00:00,,,Existing Home Sales (Jul),4.01M,3.92M,3.93M
+2025-08-22,21:00:00,,,Fed Chair Powell Speaks,,,
+2025-08-22,23:00:00,,,U.S. President Trump Speaks,,,
+2025-08-25,21:00:00,,,New Home Sales (Jul),652K,635K,656K
+2025-08-26,19:30:00,,,Durable Goods Orders (MoM) (Jul),-2.80%,-3.80%,-9.30%
+2025-08-26,21:00:00,,,CB Consumer Confidence (Aug),97.4,96.4,98.7
+2025-08-27,21:30:00,,,Crude Oil Inventories,-2.392M,-1.700M,-6.014M
+2025-08-28,19:30:00,,,GDP (QoQ) (Q2),3.30%,3.00%,-0.50%
+2025-08-28,19:30:00,,,Initial Jobless Claims,229K,231K,234K
+2025-08-29,19:30:00,,,Core PCE Price Index (YoY) (Jul),2.90%,2.90%,2.80%
+2025-08-29,19:30:00,,,Core PCE Price Index (MoM) (Jul),0.30%,0.30%,0.30%
+2025-08-29,20:45:00,,,Chicago PMI (Aug),41.5,46.6,47.1
