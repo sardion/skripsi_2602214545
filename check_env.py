@@ -1,0 +1,13 @@
+import torch, numpy as np, pandas as pd, pyarrow as pa, sklearn, matplotlib, tqdm
+print("✅ Environment check (Local machine)")
+print("-" * 60)
+print(f"Python        : {'.'.join(map(str, __import__('sys').version_info[:3]))}")
+print(f"Torch         : {torch.__version__} | CUDA available? {torch.cuda.is_available()}")
+print(f"NumPy         : {np.__version__}")
+print(f"Pandas        : {pd.__version__}")
+print(f"PyArrow       : {pa.__version__}")
+print(f"scikit-learn  : {sklearn.__version__}")
+print(f"Matplotlib    : {matplotlib.__version__}")
+print(f"TQDM          : {tqdm.__version__}")
+print("-" * 60)
+print("✅ All core libraries successfully imported and working.")

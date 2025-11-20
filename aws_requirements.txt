@@ -1,0 +1,13 @@
+numpy>=2.2
+pandas>=2.2
+pyarrow>=21.0
+matplotlib>=3.10
+psutil>=5.9
+TQDM>=4.67
+scikit-learn>=1.7
+
+# PyTorch CPU-only (use extra index so other packages still come from PyPI)
+torch==2.8.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+# System utilities used by your efficiency scripts
+psutil>=5.9
