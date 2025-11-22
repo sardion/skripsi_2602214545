@@ -183,7 +183,7 @@ scripts/
 This ensures full reproducibility without distributing copyrighted raw data.
 
 ### 6. Optional Private Repository Access
-If required, the repository can remain private, with access granted manually to reviewers.
+If required, the repository may be set to private, with access granted manually to reviewers.
 
 ## Large Log & Profiler Files Not Included
 
