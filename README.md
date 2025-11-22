@@ -69,16 +69,10 @@ skripsi_2602214545/
 │   └── efficiency/
 │
 ├── tft/
-│   ├── stopping_embargo/
-│   ├── stopping_no_embargo/
-│   └── efficiency/
-│
-├── config/                      # Global configuration defaults
-├── splitter/                    # Train/val/test splitting (with embargo logic)
-├── figures/                     # Plotting utilities
-├── metrics/                     # Evaluation + metrics collector
-├── scripts/                     # Data preprocessing scripts
-└── results/                     # All outputs: metrics, logs, figures, checkpoints
+    ├── stopping_embargo/
+    ├── stopping_no_embargo/
+    └── efficiency/
+
 ```
 
 ## Installation
