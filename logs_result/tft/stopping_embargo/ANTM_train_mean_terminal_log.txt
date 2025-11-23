@@ -1,0 +1,60 @@
+[train_mean][TFT stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? False False vals: None None
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=0.063562 | val=RMSE:0.14|MAE:0.13|MAPE:39.00% | elapsed=1.28s
+[train_mean] Epoch 002 | train=0.015786 | val=RMSE:0.14|MAE:0.12|MAPE:37.42% | elapsed=2.57s
+[train_mean] Epoch 003 | train=0.013852 | val=RMSE:0.11|MAE:0.09|MAPE:27.08% | elapsed=3.86s
+[train_mean] Epoch 004 | train=0.010514 | val=RMSE:0.11|MAE:0.09|MAPE:29.10% | elapsed=5.16s
+[train_mean] Epoch 005 | train=0.010736 | val=RMSE:0.08|MAE:0.07|MAPE:21.44% | elapsed=6.47s
+[train_mean] Epoch 006 | train=0.009317 | val=RMSE:0.13|MAE:0.11|MAPE:34.04% | elapsed=7.80s
+[train_mean] Epoch 007 | train=0.008650 | val=RMSE:0.15|MAE:0.14|MAPE:41.82% | elapsed=9.13s
+[train_mean] Epoch 008 | train=0.007583 | val=RMSE:0.12|MAE:0.10|MAPE:30.73% | elapsed=10.50s
+[train_mean] Epoch 009 | train=0.006828 | val=RMSE:0.15|MAE:0.13|MAPE:40.05% | elapsed=11.87s
+[train_mean] Epoch 010 | train=0.006315 | val=RMSE:0.14|MAE:0.12|MAPE:38.51% | elapsed=13.25s
+[train_mean] Epoch 011 | train=0.006166 | val=RMSE:0.15|MAE:0.13|MAPE:40.90% | elapsed=14.62s
+[train_mean] Epoch 012 | train=0.005937 | val=RMSE:0.14|MAE:0.12|MAPE:37.00% | elapsed=15.99s
+[train_mean] Epoch 013 | train=0.005333 | val=RMSE:0.17|MAE:0.15|MAPE:46.34% | elapsed=17.37s
+[train_mean] Epoch 014 | train=0.005052 | val=RMSE:0.12|MAE:0.10|MAPE:32.21% | elapsed=18.74s
+[train_mean] Epoch 015 | train=0.005463 | val=RMSE:0.12|MAE:0.10|MAPE:31.33% | elapsed=20.11s
+[train_mean] Early stopping triggered at epoch 15.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 17:48:19
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 20.93s
+[train_mean] Test RMSE:0.40 | MAE:0.29 | MAPE:38.09%
+[train_mean] [TFT stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+
+[train_mean][TFT stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=0.063562 | val=RMSE:459.03|MAE:398.79|MAPE:28.85% | elapsed=1.31s
+[train_mean] Epoch 002 | train=0.015786 | val=RMSE:451.41|MAE:381.40|MAPE:27.65% | elapsed=2.60s
+[train_mean] Epoch 003 | train=0.013852 | val=RMSE:346.16|MAE:274.12|MAPE:19.97% | elapsed=3.90s
+[train_mean] Epoch 004 | train=0.010514 | val=RMSE:361.78|MAE:299.37|MAPE:21.54% | elapsed=5.21s
+[train_mean] Epoch 005 | train=0.010736 | val=RMSE:258.60|MAE:221.60|MAPE:15.89% | elapsed=6.54s
+[train_mean] Epoch 006 | train=0.009317 | val=RMSE:412.93|MAE:345.31|MAPE:25.13% | elapsed=7.87s
+[train_mean] Epoch 007 | train=0.008650 | val=RMSE:476.93|MAE:433.36|MAPE:31.03% | elapsed=9.22s
+[train_mean] Epoch 008 | train=0.007583 | val=RMSE:369.62|MAE:312.54|MAPE:22.70% | elapsed=10.56s
+[train_mean] Epoch 009 | train=0.006828 | val=RMSE:464.47|MAE:412.20|MAPE:29.67% | elapsed=11.91s
+[train_mean] Epoch 010 | train=0.006315 | val=RMSE:451.21|MAE:395.28|MAPE:28.52% | elapsed=13.26s
+[train_mean] Epoch 011 | train=0.006166 | val=RMSE:471.77|MAE:421.89|MAPE:30.32% | elapsed=14.60s
+[train_mean] Epoch 012 | train=0.005937 | val=RMSE:436.45|MAE:378.34|MAPE:27.37% | elapsed=15.94s
+[train_mean] Epoch 013 | train=0.005333 | val=RMSE:525.53|MAE:480.83|MAPE:34.40% | elapsed=17.30s
+[train_mean] Epoch 014 | train=0.005052 | val=RMSE:386.50|MAE:326.88|MAPE:23.78% | elapsed=18.66s
+[train_mean] Epoch 015 | train=0.005463 | val=RMSE:371.57|MAE:319.42|MAPE:23.16% | elapsed=20.02s
+[train_mean] Early stopping triggered at epoch 15.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 19:37:26
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 20.82s
+[train_mean] Test RMSE:1281.51 | MAE:927.54 | MAPE:33.01%
+[train_mean] [TFT stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+

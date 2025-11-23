@@ -1,0 +1,74 @@
+[train_close][TFT stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 348.0 3550.0
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_close] Epoch 001 | train=0.057349 | val=RMSE:482.18|MAE:424.82|MAPE:30.35% | elapsed=1.35s
+[train_close] Epoch 002 | train=0.014144 | val=RMSE:471.18|MAE:420.65|MAPE:30.16% | elapsed=2.66s
+[train_close] Epoch 003 | train=0.012081 | val=RMSE:365.31|MAE:316.70|MAPE:22.75% | elapsed=3.99s
+[train_close] Epoch 004 | train=0.009962 | val=RMSE:426.12|MAE:370.28|MAPE:26.67% | elapsed=5.31s
+[train_close] Epoch 005 | train=0.009349 | val=RMSE:405.74|MAE:349.22|MAPE:25.13% | elapsed=6.63s
+[train_close] Epoch 006 | train=0.008889 | val=RMSE:408.20|MAE:350.08|MAPE:25.20% | elapsed=7.96s
+[train_close] Epoch 007 | train=0.008094 | val=RMSE:418.19|MAE:358.24|MAPE:25.74% | elapsed=9.29s
+[train_close] Epoch 008 | train=0.007653 | val=RMSE:297.17|MAE:260.81|MAPE:18.55% | elapsed=10.61s
+[train_close] Epoch 009 | train=0.007428 | val=RMSE:297.48|MAE:256.91|MAPE:18.44% | elapsed=11.93s
+[train_close] Epoch 010 | train=0.006879 | val=RMSE:313.69|MAE:271.99|MAPE:19.40% | elapsed=13.27s
+[train_close] Epoch 011 | train=0.006437 | val=RMSE:429.38|MAE:368.65|MAPE:26.52% | elapsed=14.61s
+[train_close] Epoch 012 | train=0.006022 | val=RMSE:334.19|MAE:288.64|MAPE:20.62% | elapsed=15.96s
+[train_close] Epoch 013 | train=0.005654 | val=RMSE:449.29|MAE:388.98|MAPE:27.90% | elapsed=17.30s
+[train_close] Epoch 014 | train=0.005249 | val=RMSE:427.99|MAE:364.66|MAPE:26.25% | elapsed=18.63s
+[train_close] Epoch 015 | train=0.005329 | val=RMSE:349.24|MAE:306.21|MAPE:21.82% | elapsed=19.96s
+[train_close] Epoch 016 | train=0.004515 | val=RMSE:289.13|MAE:256.73|MAPE:18.32% | elapsed=21.29s
+[train_close] Epoch 017 | train=0.004757 | val=RMSE:322.52|MAE:283.96|MAPE:20.26% | elapsed=22.62s
+[train_close] Epoch 018 | train=0.003699 | val=RMSE:280.79|MAE:242.22|MAPE:17.25% | elapsed=23.95s
+[train_close] Epoch 019 | train=0.003965 | val=RMSE:279.45|MAE:245.20|MAPE:17.38% | elapsed=25.28s
+[train_close] Epoch 020 | train=0.003552 | val=RMSE:331.38|MAE:280.17|MAPE:20.15% | elapsed=26.61s
+[train_close] Epoch 021 | train=0.003207 | val=RMSE:303.86|MAE:259.16|MAPE:18.49% | elapsed=27.95s
+[train_close] Epoch 022 | train=0.003333 | val=RMSE:339.18|MAE:282.80|MAPE:20.24% | elapsed=29.30s
+[train_close] Epoch 023 | train=0.003518 | val=RMSE:413.34|MAE:362.59|MAPE:25.93% | elapsed=30.63s
+[train_close] Epoch 024 | train=0.003425 | val=RMSE:329.96|MAE:271.94|MAPE:19.55% | elapsed=31.97s
+[train_close] Epoch 025 | train=0.002748 | val=RMSE:344.38|MAE:279.75|MAPE:20.07% | elapsed=33.30s
+[train_close] Epoch 026 | train=0.002642 | val=RMSE:337.31|MAE:277.98|MAPE:19.95% | elapsed=34.65s
+[train_close] Epoch 027 | train=0.002426 | val=RMSE:377.90|MAE:316.07|MAPE:22.61% | elapsed=35.98s
+[train_close] Epoch 028 | train=0.002210 | val=RMSE:403.40|MAE:343.58|MAPE:24.67% | elapsed=37.32s
+[train_close] Epoch 029 | train=0.002275 | val=RMSE:368.61|MAE:313.63|MAPE:22.57% | elapsed=38.65s
+[train_close] Early stopping triggered at epoch 29.
+[train_close] Loaded best checkpoint safely: ANTM_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 17:39:41
+Ticker: ANTM
+[train_close] Done. Total elapsed: 39.48s
+[train_close] Test RMSE:1434.10 | MAE:1067.02 | MAPE:39.42%
+[train_close] [TFT stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_close_val_metrics.(json|txt), ANTM_close_test_metrics.(json|txt)
+================================================================================
+
+[train_close][TFT stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 348.0 3550.0
+[SPLIT] n=1948 | embargo=7 | train=(0,1363) len=1363 | val=(1370,1662) len=292 | test=(1669,1948) len=279
+[train_close] Epoch 001 | train=0.066608 | val=RMSE:386.15|MAE:360.37|MAPE:25.56% | elapsed=0.69s
+[train_close] Epoch 002 | train=0.042806 | val=RMSE:405.39|MAE:377.61|MAPE:26.79% | elapsed=1.36s
+[train_close] Epoch 003 | train=0.022067 | val=RMSE:475.74|MAE:455.52|MAPE:32.04% | elapsed=2.03s
+[train_close] Epoch 004 | train=0.014003 | val=RMSE:498.35|MAE:479.41|MAPE:33.66% | elapsed=2.69s
+[train_close] Epoch 005 | train=0.011677 | val=RMSE:296.52|MAE:249.64|MAPE:17.99% | elapsed=3.37s
+[train_close] Epoch 006 | train=0.011680 | val=RMSE:617.62|MAE:599.01|MAPE:41.93% | elapsed=4.05s
+[train_close] Epoch 007 | train=0.010517 | val=RMSE:472.76|MAE:445.56|MAPE:31.47% | elapsed=4.72s
+[train_close] Epoch 008 | train=0.009655 | val=RMSE:543.75|MAE:513.80|MAPE:36.22% | elapsed=5.40s
+[train_close] Epoch 009 | train=0.008726 | val=RMSE:450.97|MAE:419.15|MAPE:29.71% | elapsed=6.06s
+[train_close] Epoch 010 | train=0.008660 | val=RMSE:552.35|MAE:520.99|MAPE:36.74% | elapsed=6.73s
+[train_close] Epoch 011 | train=0.007558 | val=RMSE:414.03|MAE:359.28|MAPE:25.74% | elapsed=7.41s
+[train_close] Epoch 012 | train=0.007078 | val=RMSE:419.52|MAE:379.66|MAPE:27.05% | elapsed=8.08s
+[train_close] Epoch 013 | train=0.007290 | val=RMSE:399.65|MAE:350.76|MAPE:25.11% | elapsed=8.76s
+[train_close] Epoch 014 | train=0.007344 | val=RMSE:457.46|MAE:416.82|MAPE:29.63% | elapsed=9.45s
+[train_close] Epoch 015 | train=0.006709 | val=RMSE:445.27|MAE:399.41|MAPE:28.47% | elapsed=10.11s
+[train_close] Early stopping triggered at epoch 15.
+[train_close] Loaded best checkpoint safely: ANTM_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-11 15:39:07
+Ticker: ANTM
+[train_close] Done. Total elapsed: 10.73s
+[train_close] Test RMSE:1008.39 | MAE:801.74 | MAPE:32.03%
+[train_close] [TFT stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_close_val_metrics.(json|txt), ANTM_close_test_metrics.(json|txt)
+================================================================================
+
