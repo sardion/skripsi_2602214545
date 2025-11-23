@@ -1,0 +1,31 @@
+[train_close][TFT stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 4430.0 10950.0
+[SPLIT] n=1948 | embargo=0 | train=(0,1363) len=1363 | val=(1363,1655) len=292 | test=(1655,1948) len=293
+[train_close] Epoch 001 | train=0.070163 | val=RMSE:2242.40|MAE:2202.80|MAPE:21.91% | elapsed=0.67s
+[train_close] Epoch 002 | train=0.044673 | val=RMSE:2152.18|MAE:2112.20|MAPE:21.01% | elapsed=1.36s
+[train_close] Epoch 003 | train=0.019821 | val=RMSE:1223.18|MAE:1151.04|MAPE:11.37% | elapsed=2.04s
+[train_close] Epoch 004 | train=0.015668 | val=RMSE:1217.51|MAE:1148.38|MAPE:11.35% | elapsed=2.72s
+[train_close] Epoch 005 | train=0.013353 | val=RMSE:1282.60|MAE:1224.55|MAPE:12.12% | elapsed=3.39s
+[train_close] Epoch 006 | train=0.012175 | val=RMSE:824.65|MAE:722.45|MAPE:7.08% | elapsed=4.07s
+[train_close] Epoch 007 | train=0.010866 | val=RMSE:1056.11|MAE:974.34|MAPE:9.60% | elapsed=4.76s
+[train_close] Epoch 008 | train=0.009356 | val=RMSE:921.58|MAE:826.28|MAPE:8.11% | elapsed=5.43s
+[train_close] Epoch 009 | train=0.008889 | val=RMSE:1134.54|MAE:1056.15|MAPE:10.42% | elapsed=6.12s
+[train_close] Epoch 010 | train=0.008389 | val=RMSE:1019.41|MAE:934.27|MAPE:9.20% | elapsed=6.80s
+[train_close] Epoch 011 | train=0.007405 | val=RMSE:1047.78|MAE:965.06|MAPE:9.51% | elapsed=7.49s
+[train_close] Epoch 012 | train=0.007122 | val=RMSE:1197.21|MAE:1151.09|MAPE:11.41% | elapsed=8.16s
+[train_close] Epoch 013 | train=0.006766 | val=RMSE:1045.67|MAE:964.81|MAPE:9.50% | elapsed=8.83s
+[train_close] Epoch 014 | train=0.006781 | val=RMSE:976.59|MAE:888.46|MAPE:8.74% | elapsed=9.53s
+[train_close] Epoch 015 | train=0.006287 | val=RMSE:1001.77|MAE:917.34|MAPE:9.03% | elapsed=10.21s
+[train_close] Epoch 016 | train=0.005514 | val=RMSE:902.23|MAE:805.70|MAPE:7.91% | elapsed=10.89s
+[train_close] Early stopping triggered at epoch 16.
+[train_close] Loaded best checkpoint safely: BBCA_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-11 15:44:50
+Ticker: BBCA
+[train_close] Done. Total elapsed: 11.50s
+[train_close] Test RMSE:523.32 | MAE:417.94 | MAPE:4.60%
+[train_close] [TFT stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_no_embargo/results/metrics
+[save_metrics] Files: BBCA_close_val_metrics.(json|txt), BBCA_close_test_metrics.(json|txt)
+================================================================================
+

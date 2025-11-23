@@ -1,0 +1,30 @@
+[train_mean][TFT stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1948 | embargo=0 | train=(0,1363) len=1363 | val=(1363,1655) len=292 | test=(1655,1948) len=293
+[train_mean] Epoch 001 | train=0.065881 | val=RMSE:374.83|MAE:349.38|MAPE:24.82% | elapsed=1.48s
+[train_mean] Epoch 002 | train=0.042372 | val=RMSE:399.89|MAE:372.87|MAPE:26.48% | elapsed=2.78s
+[train_mean] Epoch 003 | train=0.021760 | val=RMSE:439.76|MAE:418.97|MAPE:29.55% | elapsed=4.05s
+[train_mean] Epoch 004 | train=0.013980 | val=RMSE:455.38|MAE:435.37|MAPE:30.67% | elapsed=5.16s
+[train_mean] Epoch 005 | train=0.011562 | val=RMSE:299.11|MAE:254.68|MAPE:18.37% | elapsed=6.29s
+[train_mean] Epoch 006 | train=0.011473 | val=RMSE:594.81|MAE:576.01|MAPE:40.41% | elapsed=7.44s
+[train_mean] Epoch 007 | train=0.010367 | val=RMSE:452.69|MAE:424.26|MAPE:30.05% | elapsed=8.60s
+[train_mean] Epoch 008 | train=0.009362 | val=RMSE:521.97|MAE:491.51|MAPE:34.73% | elapsed=9.73s
+[train_mean] Epoch 009 | train=0.008611 | val=RMSE:443.79|MAE:410.99|MAPE:29.19% | elapsed=10.84s
+[train_mean] Epoch 010 | train=0.008610 | val=RMSE:546.09|MAE:517.39|MAPE:36.50% | elapsed=11.98s
+[train_mean] Epoch 011 | train=0.007506 | val=RMSE:418.55|MAE:362.41|MAPE:26.00% | elapsed=13.09s
+[train_mean] Epoch 012 | train=0.007072 | val=RMSE:413.21|MAE:374.33|MAPE:26.70% | elapsed=14.22s
+[train_mean] Epoch 013 | train=0.007098 | val=RMSE:400.48|MAE:348.92|MAPE:25.04% | elapsed=15.35s
+[train_mean] Epoch 014 | train=0.007269 | val=RMSE:460.12|MAE:419.43|MAPE:29.85% | elapsed=16.46s
+[train_mean] Epoch 015 | train=0.006572 | val=RMSE:437.05|MAE:389.99|MAPE:27.86% | elapsed=17.58s
+[train_mean] Early stopping triggered at epoch 15.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-18 01:32:41
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 19.84s
+[train_mean] Test RMSE:933.66 | MAE:746.93 | MAPE:30.92%
+[train_mean] [TFT stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: C:\Users\SM\OneDrive\Documents\Binus\Thesis\skripsi_2602214545\tft\stopping_no_embargo\results\metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+

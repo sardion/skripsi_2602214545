@@ -1,0 +1,46 @@
+[train_close][TFT stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 3280.0 7575.0
+[SPLIT] n=1948 | embargo=0 | train=(0,1363) len=1363 | val=(1363,1655) len=292 | test=(1655,1948) len=293
+[train_close] Epoch 001 | train=0.069464 | val=RMSE:743.41|MAE:682.14|MAPE:14.19% | elapsed=0.68s
+[train_close] Epoch 002 | train=0.043650 | val=RMSE:875.96|MAE:824.38|MAPE:17.07% | elapsed=1.35s
+[train_close] Epoch 003 | train=0.031927 | val=RMSE:1273.87|MAE:1239.64|MAPE:25.48% | elapsed=2.02s
+[train_close] Epoch 004 | train=0.024413 | val=RMSE:869.76|MAE:825.72|MAPE:17.06% | elapsed=2.68s
+[train_close] Epoch 005 | train=0.020452 | val=RMSE:804.79|MAE:753.30|MAPE:15.62% | elapsed=3.34s
+[train_close] Epoch 006 | train=0.018124 | val=RMSE:984.84|MAE:942.72|MAPE:19.45% | elapsed=3.99s
+[train_close] Epoch 007 | train=0.015377 | val=RMSE:953.66|MAE:909.27|MAPE:18.78% | elapsed=4.63s
+[train_close] Epoch 008 | train=0.014864 | val=RMSE:963.35|MAE:917.93|MAPE:18.96% | elapsed=5.28s
+[train_close] Epoch 009 | train=0.012546 | val=RMSE:742.35|MAE:682.81|MAPE:14.20% | elapsed=5.92s
+[train_close] Epoch 010 | train=0.012448 | val=RMSE:857.38|MAE:806.35|MAPE:16.70% | elapsed=6.58s
+[train_close] Epoch 011 | train=0.011774 | val=RMSE:729.55|MAE:668.24|MAPE:13.90% | elapsed=7.24s
+[train_close] Epoch 012 | train=0.010233 | val=RMSE:839.03|MAE:785.63|MAPE:16.28% | elapsed=7.89s
+[train_close] Epoch 013 | train=0.010325 | val=RMSE:749.37|MAE:689.15|MAPE:14.33% | elapsed=8.53s
+[train_close] Epoch 014 | train=0.011940 | val=RMSE:974.97|MAE:929.86|MAPE:19.20% | elapsed=9.21s
+[train_close] Epoch 015 | train=0.009844 | val=RMSE:910.56|MAE:860.51|MAPE:17.80% | elapsed=9.86s
+[train_close] Epoch 016 | train=0.009428 | val=RMSE:764.37|MAE:701.60|MAPE:14.59% | elapsed=10.51s
+[train_close] Epoch 017 | train=0.010160 | val=RMSE:847.21|MAE:793.48|MAPE:16.44% | elapsed=11.18s
+[train_close] Epoch 018 | train=0.008671 | val=RMSE:756.75|MAE:692.16|MAPE:14.40% | elapsed=11.82s
+[train_close] Epoch 019 | train=0.009037 | val=RMSE:724.12|MAE:653.02|MAPE:13.61% | elapsed=12.46s
+[train_close] Epoch 020 | train=0.008194 | val=RMSE:759.94|MAE:698.88|MAPE:14.53% | elapsed=13.11s
+[train_close] Epoch 021 | train=0.007713 | val=RMSE:681.71|MAE:608.54|MAPE:12.71% | elapsed=13.76s
+[train_close] Epoch 022 | train=0.008143 | val=RMSE:786.66|MAE:718.39|MAPE:14.94% | elapsed=14.41s
+[train_close] Epoch 023 | train=0.007485 | val=RMSE:707.09|MAE:632.59|MAPE:13.21% | elapsed=15.06s
+[train_close] Epoch 024 | train=0.007190 | val=RMSE:889.74|MAE:825.33|MAPE:17.11% | elapsed=15.70s
+[train_close] Epoch 025 | train=0.007546 | val=RMSE:767.51|MAE:701.17|MAPE:14.59% | elapsed=16.34s
+[train_close] Epoch 026 | train=0.006768 | val=RMSE:689.66|MAE:620.59|MAPE:12.95% | elapsed=16.99s
+[train_close] Epoch 027 | train=0.006361 | val=RMSE:760.60|MAE:701.40|MAPE:14.57% | elapsed=17.64s
+[train_close] Epoch 028 | train=0.006384 | val=RMSE:805.57|MAE:744.61|MAPE:15.47% | elapsed=18.30s
+[train_close] Epoch 029 | train=0.005468 | val=RMSE:809.53|MAE:753.85|MAPE:15.64% | elapsed=18.96s
+[train_close] Epoch 030 | train=0.005356 | val=RMSE:846.34|MAE:787.34|MAPE:16.33% | elapsed=19.63s
+[train_close] Epoch 031 | train=0.005218 | val=RMSE:761.29|MAE:687.46|MAPE:14.33% | elapsed=20.29s
+[train_close] Early stopping triggered at epoch 31.
+[train_close] Loaded best checkpoint safely: ASII_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-11 15:44:00
+Ticker: ASII
+[train_close] Done. Total elapsed: 20.89s
+[train_close] Test RMSE:823.01 | MAE:787.03 | MAPE:16.47%
+[train_close] [TFT stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tft/stopping_no_embargo/results/metrics
+[save_metrics] Files: ASII_close_val_metrics.(json|txt), ASII_close_test_metrics.(json|txt)
+================================================================================
+
