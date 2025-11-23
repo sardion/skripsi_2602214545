@@ -1,0 +1,29 @@
+[train_mean][TCN stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=38.771550 | val=RMSE:1913.05|MAE:1569.68|MAPE:107.61% | elapsed=6.04s
+[train_mean] Epoch 002 | train=0.356184 | val=RMSE:882.92|MAE:726.31|MAPE:49.96% | elapsed=12.12s
+[train_mean] Epoch 003 | train=0.071978 | val=RMSE:481.65|MAE:420.84|MAPE:28.98% | elapsed=18.23s
+[train_mean] Epoch 004 | train=0.009267 | val=RMSE:140.69|MAE:113.15|MAPE:7.76% | elapsed=24.32s
+[train_mean] Epoch 005 | train=0.003483 | val=RMSE:155.81|MAE:125.04|MAPE:8.43% | elapsed=30.44s
+[train_mean] Epoch 006 | train=0.002121 | val=RMSE:141.60|MAE:107.41|MAPE:7.27% | elapsed=36.57s
+[train_mean] Epoch 007 | train=0.000947 | val=RMSE:242.11|MAE:219.92|MAPE:14.76% | elapsed=42.67s
+[train_mean] Epoch 008 | train=0.001126 | val=RMSE:160.55|MAE:128.89|MAPE:8.65% | elapsed=48.80s
+[train_mean] Epoch 009 | train=0.000677 | val=RMSE:244.18|MAE:209.14|MAPE:14.26% | elapsed=54.92s
+[train_mean] Epoch 010 | train=0.000653 | val=RMSE:203.52|MAE:183.24|MAPE:12.37% | elapsed=61.04s
+[train_mean] Epoch 011 | train=0.000588 | val=RMSE:175.57|MAE:143.87|MAPE:9.73% | elapsed=67.14s
+[train_mean] Epoch 012 | train=0.000535 | val=RMSE:164.07|MAE:134.89|MAPE:9.13% | elapsed=73.24s
+[train_mean] Epoch 013 | train=0.000798 | val=RMSE:205.90|MAE:179.64|MAPE:12.24% | elapsed=79.37s
+[train_mean] Epoch 014 | train=0.000496 | val=RMSE:201.41|MAE:169.31|MAPE:11.53% | elapsed=85.50s
+[train_mean] Early stopping triggered at epoch 14.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 16:34:52
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 87.30s
+[train_mean] Test RMSE:1338.54 | MAE:1069.23 | MAPE:41.07%
+[train_mean] [TCN stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+

@@ -1,0 +1,28 @@
+[train_close][TCN stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 2290.0 4770.0
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_close] Epoch 001 | train=46.394773 | val=RMSE:2065.83|MAE:1819.05|MAPE:60.41% | elapsed=6.12s
+[train_close] Epoch 002 | train=0.404904 | val=RMSE:553.45|MAE:444.39|MAPE:14.72% | elapsed=12.24s
+[train_close] Epoch 003 | train=0.083278 | val=RMSE:494.86|MAE:447.18|MAPE:15.11% | elapsed=18.37s
+[train_close] Epoch 004 | train=0.017537 | val=RMSE:685.02|MAE:648.37|MAPE:21.85% | elapsed=24.49s
+[train_close] Epoch 005 | train=0.007722 | val=RMSE:769.07|MAE:724.96|MAPE:24.42% | elapsed=30.59s
+[train_close] Epoch 006 | train=0.003151 | val=RMSE:717.16|MAE:645.25|MAPE:21.89% | elapsed=36.72s
+[train_close] Epoch 007 | train=0.003691 | val=RMSE:676.77|MAE:604.07|MAPE:20.53% | elapsed=42.84s
+[train_close] Epoch 008 | train=0.007125 | val=RMSE:696.54|MAE:596.21|MAPE:20.35% | elapsed=49.00s
+[train_close] Epoch 009 | train=0.004416 | val=RMSE:752.02|MAE:670.09|MAPE:22.74% | elapsed=55.14s
+[train_close] Epoch 010 | train=0.001040 | val=RMSE:716.44|MAE:620.14|MAPE:21.13% | elapsed=61.31s
+[train_close] Epoch 011 | train=0.001379 | val=RMSE:784.71|MAE:686.68|MAPE:23.34% | elapsed=67.41s
+[train_close] Epoch 012 | train=0.000941 | val=RMSE:750.39|MAE:664.14|MAPE:22.56% | elapsed=73.55s
+[train_close] Epoch 013 | train=0.001788 | val=RMSE:632.66|MAE:540.95|MAPE:18.47% | elapsed=79.69s
+[train_close] Early stopping triggered at epoch 13.
+[train_close] Loaded best checkpoint safely: TLKM_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 16:24:44
+Ticker: TLKM
+[train_close] Done. Total elapsed: 81.48s
+[train_close] Test RMSE:1059.96 | MAE:940.71 | MAPE:36.06%
+[train_close] [TCN stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_embargo/results/metrics
+[save_metrics] Files: TLKM_close_val_metrics.(json|txt), TLKM_close_test_metrics.(json|txt)
+================================================================================
+

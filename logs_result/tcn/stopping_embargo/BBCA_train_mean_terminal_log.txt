@@ -1,0 +1,31 @@
+[train_mean][TCN stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 4598.75 10837.5
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=35.663488 | val=RMSE:2853.82|MAE:2237.58|MAPE:22.42% | elapsed=6.05s
+[train_mean] Epoch 002 | train=0.373298 | val=RMSE:1270.69|MAE:979.79|MAPE:9.75% | elapsed=12.16s
+[train_mean] Epoch 003 | train=0.084361 | val=RMSE:2106.33|MAE:2007.93|MAPE:19.93% | elapsed=18.30s
+[train_mean] Epoch 004 | train=0.012961 | val=RMSE:869.77|MAE:772.02|MAPE:7.64% | elapsed=24.42s
+[train_mean] Epoch 005 | train=0.003982 | val=RMSE:1044.31|MAE:958.43|MAPE:9.46% | elapsed=30.55s
+[train_mean] Epoch 006 | train=0.003882 | val=RMSE:558.71|MAE:466.19|MAPE:4.59% | elapsed=36.66s
+[train_mean] Epoch 007 | train=0.001794 | val=RMSE:652.38|MAE:556.74|MAPE:5.48% | elapsed=42.81s
+[train_mean] Epoch 008 | train=0.001208 | val=RMSE:858.51|MAE:795.60|MAPE:7.87% | elapsed=48.96s
+[train_mean] Epoch 009 | train=0.000707 | val=RMSE:614.54|MAE:550.07|MAPE:5.44% | elapsed=55.11s
+[train_mean] Epoch 010 | train=0.000459 | val=RMSE:886.75|MAE:830.60|MAPE:8.23% | elapsed=61.27s
+[train_mean] Epoch 011 | train=0.000898 | val=RMSE:1149.75|MAE:1105.10|MAPE:10.97% | elapsed=67.44s
+[train_mean] Epoch 012 | train=0.001099 | val=RMSE:639.96|MAE:569.76|MAPE:5.62% | elapsed=73.60s
+[train_mean] Epoch 013 | train=0.000378 | val=RMSE:824.91|MAE:752.38|MAPE:7.43% | elapsed=79.77s
+[train_mean] Epoch 014 | train=0.000433 | val=RMSE:815.78|MAE:761.20|MAPE:7.55% | elapsed=85.91s
+[train_mean] Epoch 015 | train=0.000319 | val=RMSE:821.83|MAE:765.26|MAPE:7.58% | elapsed=92.02s
+[train_mean] Epoch 016 | train=0.000301 | val=RMSE:886.78|MAE:839.00|MAPE:8.33% | elapsed=98.13s
+[train_mean] Early stopping triggered at epoch 16.
+[train_mean] Loaded best checkpoint safely: BBCA_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 16:37:53
+Ticker: BBCA
+[train_mean] Done. Total elapsed: 99.91s
+[train_mean] Test RMSE:555.98 | MAE:470.86 | MAPE:5.29%
+[train_mean] [TCN stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_embargo/results/metrics
+[save_metrics] Files: BBCA_mean_val_metrics.(json|txt), BBCA_mean_test_metrics.(json|txt)
+================================================================================
+

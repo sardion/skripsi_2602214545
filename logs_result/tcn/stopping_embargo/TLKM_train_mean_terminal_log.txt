@@ -1,0 +1,28 @@
+[train_mean][TCN stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 2172.5 4750.0
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=46.110560 | val=RMSE:1303.57|MAE:1072.68|MAPE:35.58% | elapsed=6.13s
+[train_mean] Epoch 002 | train=0.341859 | val=RMSE:729.62|MAE:585.43|MAPE:19.62% | elapsed=12.19s
+[train_mean] Epoch 003 | train=0.052280 | val=RMSE:526.03|MAE:473.30|MAPE:16.02% | elapsed=18.28s
+[train_mean] Epoch 004 | train=0.016278 | val=RMSE:812.37|MAE:774.03|MAPE:26.16% | elapsed=24.42s
+[train_mean] Epoch 005 | train=0.011003 | val=RMSE:682.10|MAE:629.10|MAPE:21.42% | elapsed=30.57s
+[train_mean] Epoch 006 | train=0.003825 | val=RMSE:683.20|MAE:617.77|MAPE:21.06% | elapsed=36.72s
+[train_mean] Epoch 007 | train=0.002018 | val=RMSE:717.94|MAE:652.00|MAPE:22.18% | elapsed=42.84s
+[train_mean] Epoch 008 | train=0.001165 | val=RMSE:622.49|MAE:542.08|MAPE:18.54% | elapsed=48.99s
+[train_mean] Epoch 009 | train=0.001279 | val=RMSE:659.89|MAE:599.28|MAPE:20.40% | elapsed=55.12s
+[train_mean] Epoch 010 | train=0.001231 | val=RMSE:732.44|MAE:649.36|MAPE:22.14% | elapsed=61.22s
+[train_mean] Epoch 011 | train=0.001266 | val=RMSE:706.60|MAE:633.09|MAPE:21.56% | elapsed=67.31s
+[train_mean] Epoch 012 | train=0.000893 | val=RMSE:672.73|MAE:587.07|MAPE:20.05% | elapsed=73.42s
+[train_mean] Epoch 013 | train=0.000687 | val=RMSE:690.93|MAE:600.01|MAPE:20.50% | elapsed=79.54s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: TLKM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 16:46:55
+Ticker: TLKM
+[train_mean] Done. Total elapsed: 81.33s
+[train_mean] Test RMSE:902.51 | MAE:801.77 | MAPE:30.64%
+[train_mean] [TCN stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_embargo/results/metrics
+[save_metrics] Files: TLKM_mean_val_metrics.(json|txt), TLKM_mean_test_metrics.(json|txt)
+================================================================================
+
