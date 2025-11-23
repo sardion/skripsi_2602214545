@@ -1,0 +1,62 @@
+[train_mean][TCN stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 4598.75 10837.5
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=35.663488 | val=RMSE:2842.65|MAE:2218.72|MAPE:22.24% | elapsed=6.10s
+[train_mean] Epoch 002 | train=0.373298 | val=RMSE:1249.28|MAE:966.89|MAPE:9.62% | elapsed=12.18s
+[train_mean] Epoch 003 | train=0.084361 | val=RMSE:2093.59|MAE:1993.53|MAPE:19.79% | elapsed=18.25s
+[train_mean] Epoch 004 | train=0.012961 | val=RMSE:863.60|MAE:762.45|MAPE:7.55% | elapsed=24.36s
+[train_mean] Epoch 005 | train=0.003982 | val=RMSE:1032.90|MAE:941.96|MAPE:9.30% | elapsed=30.55s
+[train_mean] Epoch 006 | train=0.003882 | val=RMSE:556.37|MAE:463.17|MAPE:4.56% | elapsed=36.74s
+[train_mean] Epoch 007 | train=0.001794 | val=RMSE:647.24|MAE:547.60|MAPE:5.39% | elapsed=42.95s
+[train_mean] Epoch 008 | train=0.001208 | val=RMSE:850.70|MAE:780.96|MAPE:7.73% | elapsed=49.10s
+[train_mean] Epoch 009 | train=0.000707 | val=RMSE:609.36|MAE:540.75|MAPE:5.34% | elapsed=55.24s
+[train_mean] Epoch 010 | train=0.000459 | val=RMSE:877.70|MAE:814.99|MAPE:8.07% | elapsed=61.39s
+[train_mean] Epoch 011 | train=0.000898 | val=RMSE:1139.45|MAE:1089.76|MAPE:10.82% | elapsed=67.56s
+[train_mean] Epoch 012 | train=0.001099 | val=RMSE:634.23|MAE:558.88|MAPE:5.51% | elapsed=73.72s
+[train_mean] Epoch 013 | train=0.000378 | val=RMSE:815.44|MAE:735.36|MAPE:7.26% | elapsed=79.89s
+[train_mean] Epoch 014 | train=0.000433 | val=RMSE:809.09|MAE:748.04|MAPE:7.42% | elapsed=86.07s
+[train_mean] Epoch 015 | train=0.000319 | val=RMSE:813.61|MAE:750.26|MAPE:7.43% | elapsed=92.24s
+[train_mean] Epoch 016 | train=0.000301 | val=RMSE:879.35|MAE:824.84|MAPE:8.19% | elapsed=98.37s
+[train_mean] Early stopping triggered at epoch 16.
+[train_mean] Loaded best checkpoint safely: BBCA_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 17:21:20
+Ticker: BBCA
+[train_mean] Done. Total elapsed: 100.18s
+[train_mean] Test RMSE:558.11 | MAE:474.88 | MAPE:5.29%
+[train_mean] [TCN stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_no_embargo/results/metrics
+[save_metrics] Files: BBCA_mean_val_metrics.(json|txt), BBCA_mean_test_metrics.(json|txt)
+================================================================================
+
+[train_mean][TCN stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 4598.75 10837.5
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=35.663488 | val=RMSE:2842.65|MAE:2218.72|MAPE:22.24% | elapsed=6.08s
+[train_mean] Epoch 002 | train=0.373298 | val=RMSE:1249.28|MAE:966.89|MAPE:9.62% | elapsed=12.31s
+[train_mean] Epoch 003 | train=0.084361 | val=RMSE:2093.59|MAE:1993.53|MAPE:19.79% | elapsed=18.52s
+[train_mean] Epoch 004 | train=0.012961 | val=RMSE:863.60|MAE:762.45|MAPE:7.55% | elapsed=24.72s
+[train_mean] Epoch 005 | train=0.003982 | val=RMSE:1032.90|MAE:941.96|MAPE:9.30% | elapsed=30.96s
+[train_mean] Epoch 006 | train=0.003882 | val=RMSE:556.37|MAE:463.17|MAPE:4.56% | elapsed=37.17s
+[train_mean] Epoch 007 | train=0.001794 | val=RMSE:647.24|MAE:547.60|MAPE:5.39% | elapsed=43.38s
+[train_mean] Epoch 008 | train=0.001208 | val=RMSE:850.70|MAE:780.96|MAPE:7.73% | elapsed=49.58s
+[train_mean] Epoch 009 | train=0.000707 | val=RMSE:609.36|MAE:540.75|MAPE:5.34% | elapsed=55.79s
+[train_mean] Epoch 010 | train=0.000459 | val=RMSE:877.70|MAE:814.99|MAPE:8.07% | elapsed=61.97s
+[train_mean] Epoch 011 | train=0.000898 | val=RMSE:1139.45|MAE:1089.76|MAPE:10.82% | elapsed=68.13s
+[train_mean] Epoch 012 | train=0.001099 | val=RMSE:634.23|MAE:558.88|MAPE:5.51% | elapsed=74.30s
+[train_mean] Epoch 013 | train=0.000378 | val=RMSE:815.44|MAE:735.36|MAPE:7.26% | elapsed=80.47s
+[train_mean] Epoch 014 | train=0.000433 | val=RMSE:809.09|MAE:748.04|MAPE:7.42% | elapsed=86.67s
+[train_mean] Epoch 015 | train=0.000319 | val=RMSE:813.61|MAE:750.26|MAPE:7.43% | elapsed=92.83s
+[train_mean] Epoch 016 | train=0.000301 | val=RMSE:879.35|MAE:824.84|MAPE:8.19% | elapsed=99.04s
+[train_mean] Early stopping triggered at epoch 16.
+[train_mean] Loaded best checkpoint safely: BBCA_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 19:56:51
+Ticker: BBCA
+[train_mean] Done. Total elapsed: 100.92s
+[train_mean] Test RMSE:558.11 | MAE:474.88 | MAPE:5.29%
+[train_mean] [TCN stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_no_embargo/results/metrics
+[save_metrics] Files: BBCA_mean_val_metrics.(json|txt), BBCA_mean_test_metrics.(json|txt)
+================================================================================
+

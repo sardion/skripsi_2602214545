@@ -1,0 +1,56 @@
+[train_mean][TCN stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 2172.5 4750.0
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=46.110560 | val=RMSE:1302.74|MAE:1071.43|MAPE:35.33% | elapsed=6.10s
+[train_mean] Epoch 002 | train=0.341859 | val=RMSE:732.54|MAE:591.36|MAPE:19.70% | elapsed=12.20s
+[train_mean] Epoch 003 | train=0.052280 | val=RMSE:519.38|MAE:463.62|MAPE:15.63% | elapsed=18.33s
+[train_mean] Epoch 004 | train=0.016278 | val=RMSE:798.22|MAE:755.53|MAPE:25.41% | elapsed=24.44s
+[train_mean] Epoch 005 | train=0.011003 | val=RMSE:668.72|MAE:609.57|MAPE:20.69% | elapsed=30.56s
+[train_mean] Epoch 006 | train=0.003825 | val=RMSE:666.68|MAE:596.92|MAPE:20.27% | elapsed=36.67s
+[train_mean] Epoch 007 | train=0.002018 | val=RMSE:701.54|MAE:632.28|MAPE:21.41% | elapsed=42.80s
+[train_mean] Epoch 008 | train=0.001165 | val=RMSE:606.05|MAE:521.79|MAPE:17.77% | elapsed=48.94s
+[train_mean] Epoch 009 | train=0.001279 | val=RMSE:643.74|MAE:579.82|MAPE:19.65% | elapsed=55.07s
+[train_mean] Epoch 010 | train=0.001231 | val=RMSE:714.58|MAE:627.72|MAPE:21.30% | elapsed=61.21s
+[train_mean] Epoch 011 | train=0.001266 | val=RMSE:689.59|MAE:612.74|MAPE:20.77% | elapsed=67.35s
+[train_mean] Epoch 012 | train=0.000893 | val=RMSE:656.35|MAE:566.78|MAPE:19.28% | elapsed=73.47s
+[train_mean] Epoch 013 | train=0.000687 | val=RMSE:673.26|MAE:578.66|MAPE:19.68% | elapsed=79.59s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: TLKM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 17:34:32
+Ticker: TLKM
+[train_mean] Done. Total elapsed: 81.41s
+[train_mean] Test RMSE:887.94 | MAE:787.64 | MAPE:30.05%
+[train_mean] [TCN stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_no_embargo/results/metrics
+[save_metrics] Files: TLKM_mean_val_metrics.(json|txt), TLKM_mean_test_metrics.(json|txt)
+================================================================================
+
+[train_mean][TCN stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 2172.5 4750.0
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=46.110560 | val=RMSE:1302.74|MAE:1071.43|MAPE:35.33% | elapsed=6.10s
+[train_mean] Epoch 002 | train=0.341859 | val=RMSE:732.54|MAE:591.36|MAPE:19.70% | elapsed=12.18s
+[train_mean] Epoch 003 | train=0.052280 | val=RMSE:519.38|MAE:463.62|MAPE:15.63% | elapsed=18.31s
+[train_mean] Epoch 004 | train=0.016278 | val=RMSE:798.22|MAE:755.53|MAPE:25.41% | elapsed=24.49s
+[train_mean] Epoch 005 | train=0.011003 | val=RMSE:668.72|MAE:609.57|MAPE:20.69% | elapsed=30.74s
+[train_mean] Epoch 006 | train=0.003825 | val=RMSE:666.68|MAE:596.92|MAPE:20.27% | elapsed=37.00s
+[train_mean] Epoch 007 | train=0.002018 | val=RMSE:701.54|MAE:632.28|MAPE:21.41% | elapsed=43.24s
+[train_mean] Epoch 008 | train=0.001165 | val=RMSE:606.05|MAE:521.79|MAPE:17.77% | elapsed=49.47s
+[train_mean] Epoch 009 | train=0.001279 | val=RMSE:643.74|MAE:579.82|MAPE:19.65% | elapsed=55.71s
+[train_mean] Epoch 010 | train=0.001231 | val=RMSE:714.58|MAE:627.72|MAPE:21.30% | elapsed=61.96s
+[train_mean] Epoch 011 | train=0.001266 | val=RMSE:689.59|MAE:612.74|MAPE:20.77% | elapsed=68.20s
+[train_mean] Epoch 012 | train=0.000893 | val=RMSE:656.35|MAE:566.78|MAPE:19.28% | elapsed=74.48s
+[train_mean] Epoch 013 | train=0.000687 | val=RMSE:673.26|MAE:578.66|MAPE:19.68% | elapsed=80.70s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: TLKM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 20:03:03
+Ticker: TLKM
+[train_mean] Done. Total elapsed: 82.56s
+[train_mean] Test RMSE:887.94 | MAE:787.64 | MAPE:30.05%
+[train_mean] [TCN stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/tcn/stopping_no_embargo/results/metrics
+[save_metrics] Files: TLKM_mean_val_metrics.(json|txt), TLKM_mean_test_metrics.(json|txt)
+================================================================================
+
