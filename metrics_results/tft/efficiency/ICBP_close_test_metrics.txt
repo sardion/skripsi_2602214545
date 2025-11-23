@@ -1,0 +1,8 @@
+=== Evaluation Metrics Summary ===
+Ticker        : ICBP
+Data Split    : close_test
+Timestamp     : 2025-11-11T16:07:08
+RMSE (IDR)    : 321.8802
+MAE (IDR)     : 256.2350
+MAPE (%)      : 2.33
+==================================

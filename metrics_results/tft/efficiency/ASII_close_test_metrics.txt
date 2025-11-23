@@ -1,0 +1,8 @@
+=== Evaluation Metrics Summary ===
+Ticker        : ASII
+Data Split    : close_test
+Timestamp     : 2025-11-11T15:52:07
+RMSE (IDR)    : 135.1549
+MAE (IDR)     : 112.5510
+MAPE (%)      : 2.34
+==================================
