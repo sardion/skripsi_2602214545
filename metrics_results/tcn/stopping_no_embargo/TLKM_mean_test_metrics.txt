@@ -1,0 +1,8 @@
+=== Evaluation Metrics Summary ===
+Ticker        : TLKM
+Data Split    : mean_test
+Timestamp     : 2025-11-10T20:03:03
+RMSE (IDR)    : 887.9396
+MAE (IDR)     : 787.6350
+MAPE (%)      : 30.05
+==================================
