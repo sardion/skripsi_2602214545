@@ -1,0 +1,114 @@
+[train_mean][TCN efficiency] Running on device: cpu
+[train_mean][TCN efficiency] CUDA not available, running on CPU (AMP disabled, CPU-only profiling).
+[SPLIT] n=2008 | embargo=0 | train=(0,1405) len=1405 | val=(1405,1706) len=301 | test=(1706,2008) len=302
+[efficiency_mean] Epoch 001 | train=0.286912 | val=RMSE:709.15|MAE:563.25|MAPE:5.66% | epoch_time=0.78s
+[efficiency_mean] Epoch 002 | train=0.026730 | val=RMSE:687.74|MAE:586.67|MAPE:5.86% | epoch_time=0.77s
+[efficiency_mean] Epoch 003 | train=0.010914 | val=RMSE:1460.73|MAE:1398.31|MAPE:14.01% | epoch_time=0.84s
+[efficiency_mean] Epoch 004 | train=0.005108 | val=RMSE:502.53|MAE:436.10|MAPE:4.35% | epoch_time=0.83s
+[efficiency_mean] Epoch 005 | train=0.003776 | val=RMSE:572.94|MAE:509.26|MAPE:5.08% | epoch_time=0.84s
+[efficiency_mean] Epoch 006 | train=0.002427 | val=RMSE:463.55|MAE:410.39|MAPE:4.10% | epoch_time=0.83s
+[efficiency_mean] Epoch 007 | train=0.001786 | val=RMSE:452.61|MAE:386.66|MAPE:3.86% | epoch_time=0.84s
+[efficiency_mean] Epoch 008 | train=0.001883 | val=RMSE:714.10|MAE:683.02|MAPE:6.84% | epoch_time=0.84s
+[efficiency_mean] Epoch 009 | train=0.001137 | val=RMSE:694.00|MAE:654.02|MAPE:6.54% | epoch_time=0.84s
+[efficiency_mean] Epoch 010 | train=0.000820 | val=RMSE:408.41|MAE:363.67|MAPE:3.63% | epoch_time=0.83s
+[efficiency_mean] Epoch 011 | train=0.000777 | val=RMSE:542.33|MAE:499.51|MAPE:4.99% | epoch_time=0.84s
+[efficiency_mean] Epoch 012 | train=0.000845 | val=RMSE:388.79|MAE:331.76|MAPE:3.31% | epoch_time=62.05s
+[efficiency_mean] Epoch 013 | train=0.000915 | val=RMSE:458.21|MAE:416.07|MAPE:4.15% | epoch_time=0.78s
+[efficiency_mean] Epoch 014 | train=0.000890 | val=RMSE:432.24|MAE:383.37|MAPE:3.83% | epoch_time=0.78s
+[efficiency_mean] Epoch 015 | train=0.000690 | val=RMSE:517.63|MAE:472.02|MAPE:4.71% | epoch_time=0.77s
+[efficiency_mean] Epoch 016 | train=0.000583 | val=RMSE:427.81|MAE:379.97|MAPE:3.79% | epoch_time=0.80s
+[efficiency_mean] Epoch 017 | train=0.000456 | val=RMSE:438.51|MAE:395.72|MAPE:3.95% | epoch_time=0.80s
+[efficiency_mean] Epoch 018 | train=0.000371 | val=RMSE:544.20|MAE:502.41|MAPE:5.02% | epoch_time=0.80s
+[efficiency_mean] Epoch 019 | train=0.000450 | val=RMSE:379.89|MAE:342.16|MAPE:3.42% | epoch_time=0.80s
+[efficiency_mean] Epoch 020 | train=0.000457 | val=RMSE:356.08|MAE:305.71|MAPE:3.04% | epoch_time=0.80s
+[efficiency_mean] Epoch 021 | train=0.000389 | val=RMSE:346.38|MAE:304.39|MAPE:3.03% | epoch_time=0.79s
+[efficiency_mean] Epoch 022 | train=0.000361 | val=RMSE:396.80|MAE:353.53|MAPE:3.52% | epoch_time=0.80s
+[efficiency_mean] Epoch 023 | train=0.000329 | val=RMSE:519.93|MAE:484.88|MAPE:4.85% | epoch_time=0.79s
+[efficiency_mean] Epoch 024 | train=0.000308 | val=RMSE:473.61|MAE:436.69|MAPE:4.36% | epoch_time=0.80s
+[efficiency_mean] Epoch 025 | train=0.000303 | val=RMSE:399.86|MAE:359.91|MAPE:3.59% | epoch_time=0.79s
+[efficiency_mean] Epoch 026 | train=0.000317 | val=RMSE:425.99|MAE:383.40|MAPE:3.83% | epoch_time=0.80s
+[efficiency_mean] Epoch 027 | train=0.000295 | val=RMSE:346.08|MAE:307.09|MAPE:3.07% | epoch_time=0.79s
+[efficiency_mean] Epoch 028 | train=0.000373 | val=RMSE:313.65|MAE:271.41|MAPE:2.71% | epoch_time=0.80s
+[efficiency_mean] Epoch 029 | train=0.000277 | val=RMSE:390.74|MAE:352.72|MAPE:3.53% | epoch_time=0.80s
+[efficiency_mean] Epoch 030 | train=0.000301 | val=RMSE:478.78|MAE:438.90|MAPE:4.39% | epoch_time=0.79s
+[efficiency_mean] Epoch 031 | train=0.000238 | val=RMSE:421.30|MAE:384.22|MAPE:3.84% | epoch_time=0.79s
+[efficiency_mean] Epoch 032 | train=0.000281 | val=RMSE:373.41|MAE:331.86|MAPE:3.32% | epoch_time=0.80s
+[efficiency_mean] Epoch 033 | train=0.000274 | val=RMSE:336.28|MAE:289.84|MAPE:2.89% | epoch_time=0.81s
+[efficiency_mean] Epoch 034 | train=0.000245 | val=RMSE:409.69|MAE:369.21|MAPE:3.69% | epoch_time=0.81s
+[efficiency_mean] Epoch 035 | train=0.000279 | val=RMSE:305.32|MAE:260.41|MAPE:2.60% | epoch_time=0.83s
+[efficiency_mean] Epoch 036 | train=0.000278 | val=RMSE:248.68|MAE:207.37|MAPE:2.07% | epoch_time=0.80s
+[efficiency_mean] Epoch 037 | train=0.000277 | val=RMSE:332.64|MAE:287.81|MAPE:2.87% | epoch_time=0.80s
+[efficiency_mean] Epoch 038 | train=0.000220 | val=RMSE:457.92|MAE:417.30|MAPE:4.17% | epoch_time=0.80s
+[efficiency_mean] Epoch 039 | train=0.000244 | val=RMSE:414.07|MAE:373.13|MAPE:3.73% | epoch_time=0.80s
+[efficiency_mean] Epoch 040 | train=0.000187 | val=RMSE:380.30|MAE:335.50|MAPE:3.35% | epoch_time=0.79s
+[efficiency_mean] Epoch 041 | train=0.000191 | val=RMSE:467.57|MAE:429.06|MAPE:4.29% | epoch_time=0.80s
+[efficiency_mean] Epoch 042 | train=0.000220 | val=RMSE:290.00|MAE:248.37|MAPE:2.48% | epoch_time=0.79s
+[efficiency_mean] Epoch 043 | train=0.000316 | val=RMSE:299.84|MAE:257.03|MAPE:2.57% | epoch_time=0.79s
+[efficiency_mean] Epoch 044 | train=0.000197 | val=RMSE:395.24|MAE:354.79|MAPE:3.55% | epoch_time=0.79s
+[efficiency_mean] Epoch 045 | train=0.000231 | val=RMSE:393.37|MAE:345.20|MAPE:3.45% | epoch_time=0.79s
+[efficiency_mean] Epoch 046 | train=0.000230 | val=RMSE:315.17|MAE:273.29|MAPE:2.73% | epoch_time=0.80s
+[efficiency_mean] Epoch 047 | train=0.000257 | val=RMSE:360.24|MAE:316.78|MAPE:3.16% | epoch_time=0.80s
+[efficiency_mean] Epoch 048 | train=0.000208 | val=RMSE:401.58|MAE:364.47|MAPE:3.65% | epoch_time=0.78s
+[efficiency_mean] Epoch 049 | train=0.000223 | val=RMSE:361.77|MAE:318.81|MAPE:3.18% | epoch_time=0.80s
+[efficiency_mean] Epoch 050 | train=0.000200 | val=RMSE:268.59|MAE:226.98|MAPE:2.26% | epoch_time=0.78s
+[efficiency_mean] Epoch 051 | train=0.000226 | val=RMSE:337.48|MAE:294.75|MAPE:2.94% | epoch_time=0.80s
+[efficiency_mean] Epoch 052 | train=0.000134 | val=RMSE:393.56|MAE:353.74|MAPE:3.53% | epoch_time=0.80s
+[efficiency_mean] Epoch 053 | train=0.000199 | val=RMSE:394.67|MAE:350.26|MAPE:3.50% | epoch_time=0.79s
+[efficiency_mean] Epoch 054 | train=0.000208 | val=RMSE:329.12|MAE:283.63|MAPE:2.83% | epoch_time=0.80s
+[efficiency_mean] Epoch 055 | train=0.000202 | val=RMSE:315.52|MAE:269.93|MAPE:2.69% | epoch_time=0.79s
+[efficiency_mean] Epoch 056 | train=0.000171 | val=RMSE:411.21|MAE:371.40|MAPE:3.71% | epoch_time=0.79s
+[efficiency_mean] Epoch 057 | train=0.000132 | val=RMSE:311.65|MAE:267.54|MAPE:2.67% | epoch_time=0.79s
+[efficiency_mean] Epoch 058 | train=0.000185 | val=RMSE:469.88|MAE:432.56|MAPE:4.32% | epoch_time=0.79s
+[efficiency_mean] Epoch 059 | train=0.000213 | val=RMSE:338.66|MAE:296.16|MAPE:2.96% | epoch_time=0.79s
+[efficiency_mean] Epoch 060 | train=0.000205 | val=RMSE:475.00|MAE:431.95|MAPE:4.31% | epoch_time=0.81s
+[efficiency_mean] Epoch 061 | train=0.000264 | val=RMSE:385.68|MAE:346.84|MAPE:3.46% | epoch_time=0.79s
+[efficiency_mean] Epoch 062 | train=0.000206 | val=RMSE:380.59|MAE:339.99|MAPE:3.40% | epoch_time=0.80s
+[efficiency_mean] Epoch 063 | train=0.000138 | val=RMSE:301.49|MAE:260.93|MAPE:2.61% | epoch_time=0.80s
+[efficiency_mean] Epoch 064 | train=0.000141 | val=RMSE:352.09|MAE:309.91|MAPE:3.09% | epoch_time=0.80s
+[efficiency_mean] Epoch 065 | train=0.000110 | val=RMSE:319.14|MAE:276.12|MAPE:2.76% | epoch_time=0.79s
+[efficiency_mean] Epoch 066 | train=0.000190 | val=RMSE:344.72|MAE:302.38|MAPE:3.03% | epoch_time=0.79s
+[efficiency_mean] Epoch 067 | train=0.000128 | val=RMSE:300.52|MAE:259.38|MAPE:2.59% | epoch_time=0.80s
+[efficiency_mean] Epoch 068 | train=0.000110 | val=RMSE:319.16|MAE:278.19|MAPE:2.78% | epoch_time=0.80s
+[efficiency_mean] Epoch 069 | train=0.000132 | val=RMSE:234.29|MAE:195.48|MAPE:1.96% | epoch_time=0.79s
+[efficiency_mean] Epoch 070 | train=0.000148 | val=RMSE:358.32|MAE:313.37|MAPE:3.13% | epoch_time=0.80s
+[efficiency_mean] Epoch 071 | train=0.000154 | val=RMSE:284.82|MAE:242.46|MAPE:2.42% | epoch_time=0.79s
+[efficiency_mean] Epoch 072 | train=0.000214 | val=RMSE:341.91|MAE:296.53|MAPE:2.96% | epoch_time=0.79s
+[efficiency_mean] Epoch 073 | train=0.000173 | val=RMSE:378.54|MAE:334.94|MAPE:3.35% | epoch_time=0.80s
+[efficiency_mean] Epoch 074 | train=0.000134 | val=RMSE:338.34|MAE:293.62|MAPE:2.93% | epoch_time=0.80s
+[efficiency_mean] Epoch 075 | train=0.000129 | val=RMSE:334.91|MAE:295.02|MAPE:2.95% | epoch_time=0.79s
+[efficiency_mean] Epoch 076 | train=0.000112 | val=RMSE:320.56|MAE:279.05|MAPE:2.79% | epoch_time=0.79s
+[efficiency_mean] Epoch 077 | train=0.000115 | val=RMSE:350.53|MAE:310.76|MAPE:3.10% | epoch_time=0.79s
+[efficiency_mean] Epoch 078 | train=0.000142 | val=RMSE:269.80|MAE:230.95|MAPE:2.31% | epoch_time=0.79s
+[efficiency_mean] Epoch 079 | train=0.000214 | val=RMSE:314.20|MAE:268.95|MAPE:2.69% | epoch_time=0.80s
+[efficiency_mean] Epoch 080 | train=0.000186 | val=RMSE:387.65|MAE:347.61|MAPE:3.48% | epoch_time=0.79s
+[efficiency_mean] Epoch 081 | train=0.000142 | val=RMSE:373.27|MAE:334.23|MAPE:3.34% | epoch_time=0.79s
+[efficiency_mean] Epoch 082 | train=0.000128 | val=RMSE:370.85|MAE:328.53|MAPE:3.28% | epoch_time=0.80s
+[efficiency_mean] Epoch 083 | train=0.000153 | val=RMSE:356.61|MAE:314.56|MAPE:3.14% | epoch_time=0.80s
+[efficiency_mean] Epoch 084 | train=0.000163 | val=RMSE:257.75|MAE:219.08|MAPE:2.19% | epoch_time=0.79s
+[efficiency_mean] Epoch 085 | train=0.000125 | val=RMSE:356.21|MAE:313.31|MAPE:3.13% | epoch_time=0.80s
+[efficiency_mean] Epoch 086 | train=0.000124 | val=RMSE:288.10|MAE:246.71|MAPE:2.47% | epoch_time=0.81s
+[efficiency_mean] Epoch 087 | train=0.000136 | val=RMSE:391.72|MAE:352.06|MAPE:3.52% | epoch_time=0.79s
+[efficiency_mean] Epoch 088 | train=0.000124 | val=RMSE:318.10|MAE:276.80|MAPE:2.77% | epoch_time=0.79s
+[efficiency_mean] Epoch 089 | train=0.000127 | val=RMSE:365.93|MAE:324.18|MAPE:3.24% | epoch_time=0.79s
+[efficiency_mean] Epoch 090 | train=0.000110 | val=RMSE:396.31|MAE:351.45|MAPE:3.51% | epoch_time=0.80s
+[efficiency_mean] Epoch 091 | train=0.000118 | val=RMSE:344.04|MAE:301.36|MAPE:3.01% | epoch_time=0.79s
+[efficiency_mean] Epoch 092 | train=0.000133 | val=RMSE:386.71|MAE:339.85|MAPE:3.39% | epoch_time=0.79s
+[efficiency_mean] Epoch 093 | train=0.000154 | val=RMSE:373.59|MAE:331.13|MAPE:3.30% | epoch_time=0.79s
+[efficiency_mean] Epoch 094 | train=0.000207 | val=RMSE:329.93|MAE:288.18|MAPE:2.88% | epoch_time=0.79s
+[efficiency_mean] Epoch 095 | train=0.000179 | val=RMSE:363.66|MAE:318.92|MAPE:3.18% | epoch_time=0.79s
+[efficiency_mean] Epoch 096 | train=0.000140 | val=RMSE:353.12|MAE:310.29|MAPE:3.10% | epoch_time=0.79s
+[efficiency_mean] Epoch 097 | train=0.000140 | val=RMSE:416.66|MAE:377.28|MAPE:3.77% | epoch_time=0.79s
+[efficiency_mean] Epoch 098 | train=0.000179 | val=RMSE:356.46|MAE:314.03|MAPE:3.14% | epoch_time=0.80s
+[efficiency_mean] Epoch 099 | train=0.000122 | val=RMSE:385.26|MAE:341.40|MAPE:3.41% | epoch_time=0.80s
+[efficiency_mean] Epoch 100 | train=0.000125 | val=RMSE:337.58|MAE:296.71|MAPE:2.96% | epoch_time=0.79s
+Saved loss curves: BBCA_mean_training_loss_curve.png, BBCA_mean_validation_rmse_curve.png
+================================================================================
+Run timestamp: 2025-11-11 04:17:56
+Ticker: BBCA
+[efficiency_mean] Done. Total elapsed: 141.10s
+[efficiency_mean] Test RMSE=285.18 MAE=232.16 MAPE=2.57%
+[train_mean][TCN efficiency] Done on device: cpu
+[save_metrics] Final metrics in: /home/ubuntu/skripsi_2602214545/tcn/efficiency/results/metrics
+[save_metrics] Files: BBCA_mean_val_metrics.(json|txt), BBCA_mean_test_metrics.(json|txt)
+================================================================================
+
