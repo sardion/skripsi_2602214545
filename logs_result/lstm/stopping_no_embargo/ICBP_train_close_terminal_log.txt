@@ -1,0 +1,30 @@
+[train_close][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 7100.0 12800.0
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_close] Epoch 001 | train=0.022397 | val=RMSE:720.17|MAE:612.97|MAPE:5.46% | elapsed=4.62s
+[train_close] Epoch 002 | train=0.007598 | val=RMSE:711.90|MAE:570.70|MAPE:4.99% | elapsed=10.95s
+[train_close] Epoch 003 | train=0.005937 | val=RMSE:740.73|MAE:575.37|MAPE:4.97% | elapsed=20.70s
+[train_close] Epoch 004 | train=0.005209 | val=RMSE:775.43|MAE:604.19|MAPE:5.23% | elapsed=28.51s
+[train_close] Epoch 005 | train=0.004606 | val=RMSE:659.22|MAE:551.47|MAPE:4.92% | elapsed=36.74s
+[train_close] Epoch 006 | train=0.004382 | val=RMSE:792.76|MAE:613.24|MAPE:5.30% | elapsed=44.15s
+[train_close] Epoch 007 | train=0.003891 | val=RMSE:832.30|MAE:639.38|MAPE:5.50% | elapsed=50.87s
+[train_close] Epoch 008 | train=0.003841 | val=RMSE:777.57|MAE:599.47|MAPE:5.18% | elapsed=58.04s
+[train_close] Epoch 009 | train=0.003588 | val=RMSE:915.24|MAE:697.34|MAPE:5.98% | elapsed=66.00s
+[train_close] Epoch 010 | train=0.003594 | val=RMSE:786.76|MAE:598.10|MAPE:5.15% | elapsed=74.39s
+[train_close] Epoch 011 | train=0.003518 | val=RMSE:838.62|MAE:636.12|MAPE:5.45% | elapsed=82.96s
+[train_close] Epoch 012 | train=0.003210 | val=RMSE:751.06|MAE:587.08|MAPE:5.08% | elapsed=91.85s
+[train_close] Epoch 013 | train=0.003021 | val=RMSE:701.41|MAE:558.83|MAPE:4.89% | elapsed=100.57s
+[train_close] Epoch 014 | train=0.003023 | val=RMSE:780.67|MAE:611.65|MAPE:5.30% | elapsed=110.64s
+[train_close] Epoch 015 | train=0.003026 | val=RMSE:839.34|MAE:657.17|MAPE:5.67% | elapsed=121.12s
+[train_close] Early stopping triggered at epoch 15.
+[train_close] Loaded best checkpoint safely: ICBP_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:36:28
+Ticker: ICBP
+[train_close] Done. Total elapsed: 122.69s
+[train_close] Test RMSE:672.72 | MAE:515.16 | MAPE:5.02%
+[train_close] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: ICBP_close_val_metrics.(json|txt), ICBP_close_test_metrics.(json|txt)
+================================================================================
+

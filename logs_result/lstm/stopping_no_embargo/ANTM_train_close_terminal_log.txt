@@ -1,0 +1,28 @@
+[train_close][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 348.0 3550.0
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_close] Epoch 001 | train=0.024723 | val=RMSE:289.32|MAE:240.87|MAPE:17.37% | elapsed=4.65s
+[train_close] Epoch 002 | train=0.008625 | val=RMSE:352.13|MAE:303.78|MAPE:21.75% | elapsed=9.71s
+[train_close] Epoch 003 | train=0.006968 | val=RMSE:214.34|MAE:179.20|MAPE:12.65% | elapsed=15.03s
+[train_close] Epoch 004 | train=0.006101 | val=RMSE:337.77|MAE:294.11|MAPE:20.98% | elapsed=20.49s
+[train_close] Epoch 005 | train=0.005276 | val=RMSE:349.95|MAE:293.01|MAPE:21.04% | elapsed=26.01s
+[train_close] Epoch 006 | train=0.004740 | val=RMSE:280.90|MAE:230.98|MAPE:16.50% | elapsed=31.60s
+[train_close] Epoch 007 | train=0.004130 | val=RMSE:267.65|MAE:221.90|MAPE:15.72% | elapsed=37.41s
+[train_close] Epoch 008 | train=0.003660 | val=RMSE:291.30|MAE:240.95|MAPE:17.17% | elapsed=43.36s
+[train_close] Epoch 009 | train=0.003901 | val=RMSE:262.30|MAE:213.63|MAPE:15.16% | elapsed=49.38s
+[train_close] Epoch 010 | train=0.003554 | val=RMSE:263.47|MAE:216.21|MAPE:15.38% | elapsed=55.39s
+[train_close] Epoch 011 | train=0.003507 | val=RMSE:273.11|MAE:227.54|MAPE:16.11% | elapsed=61.18s
+[train_close] Epoch 012 | train=0.003600 | val=RMSE:282.54|MAE:231.03|MAPE:16.44% | elapsed=68.89s
+[train_close] Epoch 013 | train=0.003648 | val=RMSE:252.40|MAE:207.83|MAPE:14.88% | elapsed=78.05s
+[train_close] Early stopping triggered at epoch 13.
+[train_close] Loaded best checkpoint safely: ANTM_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:29:02
+Ticker: ANTM
+[train_close] Done. Total elapsed: 79.62s
+[train_close] Test RMSE:1298.05 | MAE:968.03 | MAPE:35.97%
+[train_close] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: ANTM_close_val_metrics.(json|txt), ANTM_close_test_metrics.(json|txt)
+================================================================================
+

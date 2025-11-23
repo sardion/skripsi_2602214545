@@ -1,0 +1,30 @@
+[train_mean][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 4598.75 10837.5
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=0.025606 | val=RMSE:770.72|MAE:656.93|MAPE:6.45% | elapsed=5.51s
+[train_mean] Epoch 002 | train=0.008537 | val=RMSE:893.83|MAE:797.18|MAPE:7.84% | elapsed=12.33s
+[train_mean] Epoch 003 | train=0.006296 | val=RMSE:913.91|MAE:825.51|MAPE:8.12% | elapsed=18.92s
+[train_mean] Epoch 004 | train=0.005599 | val=RMSE:594.11|MAE:524.58|MAPE:5.16% | elapsed=26.86s
+[train_mean] Epoch 005 | train=0.004905 | val=RMSE:489.71|MAE:419.59|MAPE:4.14% | elapsed=32.37s
+[train_mean] Epoch 006 | train=0.004476 | val=RMSE:757.10|MAE:668.82|MAPE:6.58% | elapsed=39.93s
+[train_mean] Epoch 007 | train=0.004098 | val=RMSE:973.61|MAE:913.61|MAPE:9.03% | elapsed=48.34s
+[train_mean] Epoch 008 | train=0.004066 | val=RMSE:689.43|MAE:608.19|MAPE:5.98% | elapsed=58.58s
+[train_mean] Epoch 009 | train=0.003646 | val=RMSE:794.87|MAE:716.70|MAPE:7.06% | elapsed=68.58s
+[train_mean] Epoch 010 | train=0.003534 | val=RMSE:853.02|MAE:787.09|MAPE:7.76% | elapsed=77.41s
+[train_mean] Epoch 011 | train=0.003559 | val=RMSE:812.45|MAE:741.74|MAPE:7.31% | elapsed=86.61s
+[train_mean] Epoch 012 | train=0.003814 | val=RMSE:692.49|MAE:623.83|MAPE:6.14% | elapsed=96.95s
+[train_mean] Epoch 013 | train=0.003115 | val=RMSE:597.34|MAE:523.52|MAPE:5.14% | elapsed=107.00s
+[train_mean] Epoch 014 | train=0.003328 | val=RMSE:645.45|MAE:569.05|MAPE:5.59% | elapsed=116.41s
+[train_mean] Epoch 015 | train=0.002986 | val=RMSE:518.86|MAE:452.31|MAPE:4.45% | elapsed=127.10s
+[train_mean] Early stopping triggered at epoch 15.
+[train_mean] Loaded best checkpoint safely: BBCA_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:53:38
+Ticker: BBCA
+[train_mean] Done. Total elapsed: 128.64s
+[train_mean] Test RMSE:850.99 | MAE:707.62 | MAPE:8.17%
+[train_mean] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: BBCA_mean_val_metrics.(json|txt), BBCA_mean_test_metrics.(json|txt)
+================================================================================
+

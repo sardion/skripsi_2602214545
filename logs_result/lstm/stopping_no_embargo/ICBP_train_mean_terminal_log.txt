@@ -1,0 +1,27 @@
+[train_mean][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 7137.5 12687.5
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=0.022782 | val=RMSE:741.38|MAE:637.94|MAPE:5.86% | elapsed=4.89s
+[train_mean] Epoch 002 | train=0.007721 | val=RMSE:675.79|MAE:519.21|MAPE:4.53% | elapsed=13.04s
+[train_mean] Epoch 003 | train=0.006052 | val=RMSE:784.12|MAE:611.24|MAPE:5.33% | elapsed=18.78s
+[train_mean] Epoch 004 | train=0.004873 | val=RMSE:758.09|MAE:573.04|MAPE:4.98% | elapsed=26.80s
+[train_mean] Epoch 005 | train=0.004365 | val=RMSE:714.33|MAE:591.90|MAPE:5.28% | elapsed=35.72s
+[train_mean] Epoch 006 | train=0.004158 | val=RMSE:797.80|MAE:594.66|MAPE:5.14% | elapsed=44.23s
+[train_mean] Epoch 007 | train=0.003733 | val=RMSE:847.25|MAE:639.01|MAPE:5.49% | elapsed=53.71s
+[train_mean] Epoch 008 | train=0.003916 | val=RMSE:855.69|MAE:723.46|MAPE:6.43% | elapsed=63.04s
+[train_mean] Epoch 009 | train=0.003449 | val=RMSE:776.71|MAE:632.47|MAPE:5.61% | elapsed=72.62s
+[train_mean] Epoch 010 | train=0.003340 | val=RMSE:842.35|MAE:661.45|MAPE:5.77% | elapsed=82.74s
+[train_mean] Epoch 011 | train=0.003194 | val=RMSE:855.87|MAE:670.47|MAPE:5.83% | elapsed=93.26s
+[train_mean] Epoch 012 | train=0.003082 | val=RMSE:914.27|MAE:735.31|MAPE:6.41% | elapsed=103.27s
+[train_mean] Early stopping triggered at epoch 12.
+[train_mean] Loaded best checkpoint safely: ICBP_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:57:47
+Ticker: ICBP
+[train_mean] Done. Total elapsed: 104.84s
+[train_mean] Test RMSE:712.63 | MAE:557.16 | MAPE:5.39%
+[train_mean] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: ICBP_mean_val_metrics.(json|txt), ICBP_mean_test_metrics.(json|txt)
+================================================================================
+

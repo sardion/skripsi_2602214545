@@ -1,0 +1,28 @@
+[train_mean][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_mean] Epoch 001 | train=0.025478 | val=RMSE:281.77|MAE:251.02|MAPE:17.89% | elapsed=4.66s
+[train_mean] Epoch 002 | train=0.009090 | val=RMSE:241.03|MAE:211.83|MAPE:15.02% | elapsed=10.82s
+[train_mean] Epoch 003 | train=0.006473 | val=RMSE:131.70|MAE:111.08|MAPE:7.84% | elapsed=17.10s
+[train_mean] Epoch 004 | train=0.005478 | val=RMSE:244.23|MAE:210.52|MAPE:15.15% | elapsed=23.93s
+[train_mean] Epoch 005 | train=0.005244 | val=RMSE:206.49|MAE:169.86|MAPE:12.31% | elapsed=30.03s
+[train_mean] Epoch 006 | train=0.004903 | val=RMSE:225.22|MAE:187.73|MAPE:13.58% | elapsed=36.12s
+[train_mean] Epoch 007 | train=0.004294 | val=RMSE:206.49|MAE:171.10|MAPE:12.41% | elapsed=42.68s
+[train_mean] Epoch 008 | train=0.003965 | val=RMSE:231.66|MAE:198.07|MAPE:14.31% | elapsed=49.86s
+[train_mean] Epoch 009 | train=0.003956 | val=RMSE:232.44|MAE:204.80|MAPE:14.69% | elapsed=57.32s
+[train_mean] Epoch 010 | train=0.003862 | val=RMSE:157.32|MAE:129.52|MAPE:9.36% | elapsed=64.82s
+[train_mean] Epoch 011 | train=0.003439 | val=RMSE:194.12|MAE:160.06|MAPE:11.59% | elapsed=72.34s
+[train_mean] Epoch 012 | train=0.003523 | val=RMSE:215.01|MAE:184.76|MAPE:13.26% | elapsed=79.42s
+[train_mean] Epoch 013 | train=0.003334 | val=RMSE:235.68|MAE:205.14|MAPE:14.70% | elapsed=88.53s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:49:52
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 90.09s
+[train_mean] Test RMSE:1059.14 | MAE:782.96 | MAPE:28.96%
+[train_mean] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+

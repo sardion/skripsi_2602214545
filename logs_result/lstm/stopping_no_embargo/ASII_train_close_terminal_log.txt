@@ -1,0 +1,32 @@
+[train_close][LSTM stopping_no_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 3280.0 7575.0
+[SPLIT] n=1828 | embargo=0 | train=(0,1279) len=1279 | val=(1279,1553) len=274 | test=(1553,1828) len=275
+[train_close] Epoch 001 | train=0.033965 | val=RMSE:878.60|MAE:828.93|MAPE:17.12% | elapsed=4.81s
+[train_close] Epoch 002 | train=0.010001 | val=RMSE:538.52|MAE:477.67|MAPE:9.97% | elapsed=9.94s
+[train_close] Epoch 003 | train=0.008326 | val=RMSE:665.58|MAE:582.54|MAPE:12.16% | elapsed=15.77s
+[train_close] Epoch 004 | train=0.007365 | val=RMSE:631.94|MAE:541.28|MAPE:11.35% | elapsed=23.27s
+[train_close] Epoch 005 | train=0.006592 | val=RMSE:697.47|MAE:633.09|MAPE:13.21% | elapsed=31.47s
+[train_close] Epoch 006 | train=0.006222 | val=RMSE:625.65|MAE:535.47|MAPE:11.26% | elapsed=39.00s
+[train_close] Epoch 007 | train=0.005905 | val=RMSE:457.47|MAE:380.06|MAPE:8.02% | elapsed=46.72s
+[train_close] Epoch 008 | train=0.005555 | val=RMSE:634.34|MAE:563.44|MAPE:11.80% | elapsed=54.48s
+[train_close] Epoch 009 | train=0.004985 | val=RMSE:523.69|MAE:433.91|MAPE:9.17% | elapsed=63.33s
+[train_close] Epoch 010 | train=0.004941 | val=RMSE:528.14|MAE:440.66|MAPE:9.30% | elapsed=71.61s
+[train_close] Epoch 011 | train=0.005095 | val=RMSE:771.81|MAE:694.96|MAPE:14.48% | elapsed=80.26s
+[train_close] Epoch 012 | train=0.005301 | val=RMSE:678.98|MAE:597.91|MAPE:12.49% | elapsed=89.28s
+[train_close] Epoch 013 | train=0.004720 | val=RMSE:724.05|MAE:652.95|MAPE:13.61% | elapsed=98.11s
+[train_close] Epoch 014 | train=0.005141 | val=RMSE:699.24|MAE:621.75|MAPE:12.95% | elapsed=105.81s
+[train_close] Epoch 015 | train=0.004222 | val=RMSE:725.95|MAE:641.58|MAPE:13.38% | elapsed=113.63s
+[train_close] Epoch 016 | train=0.004086 | val=RMSE:660.64|MAE:581.56|MAPE:12.12% | elapsed=121.76s
+[train_close] Epoch 017 | train=0.004027 | val=RMSE:604.87|MAE:532.35|MAPE:11.10% | elapsed=130.67s
+[train_close] Early stopping triggered at epoch 17.
+[train_close] Loaded best checkpoint safely: ASII_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 15:25:38
+Ticker: ASII
+[train_close] Done. Total elapsed: 132.22s
+[train_close] Test RMSE:600.51 | MAE:476.56 | MAPE:9.64%
+[train_close] [LSTM stopping_no_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_no_embargo/results/metrics
+[save_metrics] Files: ASII_close_val_metrics.(json|txt), ASII_close_test_metrics.(json|txt)
+================================================================================
+
