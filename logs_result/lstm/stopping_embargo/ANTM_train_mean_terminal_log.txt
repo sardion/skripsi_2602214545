@@ -1,0 +1,56 @@
+[LSTM stopping_embargo][train_mean] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=0.025478 | val=RMSE:284.11|MAE:253.86|MAPE:18.09% | elapsed=4.59s
+[train_mean] Epoch 002 | train=0.009090 | val=RMSE:248.25|MAE:217.90|MAPE:15.45% | elapsed=10.70s
+[train_mean] Epoch 003 | train=0.006473 | val=RMSE:134.43|MAE:114.01|MAPE:8.04% | elapsed=16.90s
+[train_mean] Epoch 004 | train=0.005478 | val=RMSE:248.12|MAE:214.87|MAPE:15.46% | elapsed=23.69s
+[train_mean] Epoch 005 | train=0.005244 | val=RMSE:210.70|MAE:175.21|MAPE:12.68% | elapsed=29.74s
+[train_mean] Epoch 006 | train=0.004903 | val=RMSE:229.71|MAE:193.22|MAPE:13.97% | elapsed=35.79s
+[train_mean] Epoch 007 | train=0.004294 | val=RMSE:209.71|MAE:175.67|MAPE:12.73% | elapsed=42.32s
+[train_mean] Epoch 008 | train=0.003965 | val=RMSE:233.84|MAE:200.65|MAPE:14.50% | elapsed=49.43s
+[train_mean] Epoch 009 | train=0.003956 | val=RMSE:235.05|MAE:207.85|MAPE:14.91% | elapsed=56.82s
+[train_mean] Epoch 010 | train=0.003862 | val=RMSE:159.42|MAE:132.37|MAPE:9.56% | elapsed=64.31s
+[train_mean] Epoch 011 | train=0.003439 | val=RMSE:198.92|MAE:166.11|MAPE:12.02% | elapsed=71.76s
+[train_mean] Epoch 012 | train=0.003523 | val=RMSE:219.76|MAE:190.30|MAPE:13.65% | elapsed=78.82s
+[train_mean] Epoch 013 | train=0.003334 | val=RMSE:241.48|MAE:211.98|MAPE:15.18% | elapsed=87.89s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 14:27:41
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 89.44s
+[train_mean] Test RMSE:1086.72 | MAE:819.15 | MAPE:30.12%
+[train_mean] [LSTM stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+
+[train_mean][LSTM stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 356.5 3527.5
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_mean] Epoch 001 | train=0.025478 | val=RMSE:284.11|MAE:253.86|MAPE:18.09% | elapsed=4.65s
+[train_mean] Epoch 002 | train=0.009090 | val=RMSE:248.25|MAE:217.90|MAPE:15.45% | elapsed=10.83s
+[train_mean] Epoch 003 | train=0.006473 | val=RMSE:134.43|MAE:114.01|MAPE:8.04% | elapsed=17.17s
+[train_mean] Epoch 004 | train=0.005478 | val=RMSE:248.12|MAE:214.87|MAPE:15.46% | elapsed=24.05s
+[train_mean] Epoch 005 | train=0.005244 | val=RMSE:210.70|MAE:175.21|MAPE:12.68% | elapsed=30.17s
+[train_mean] Epoch 006 | train=0.004903 | val=RMSE:229.71|MAE:193.22|MAPE:13.97% | elapsed=36.31s
+[train_mean] Epoch 007 | train=0.004294 | val=RMSE:209.71|MAE:175.67|MAPE:12.73% | elapsed=42.91s
+[train_mean] Epoch 008 | train=0.003965 | val=RMSE:233.84|MAE:200.65|MAPE:14.50% | elapsed=50.11s
+[train_mean] Epoch 009 | train=0.003956 | val=RMSE:235.05|MAE:207.85|MAPE:14.91% | elapsed=57.60s
+[train_mean] Epoch 010 | train=0.003862 | val=RMSE:159.42|MAE:132.37|MAPE:9.56% | elapsed=65.13s
+[train_mean] Epoch 011 | train=0.003439 | val=RMSE:198.92|MAE:166.11|MAPE:12.02% | elapsed=72.67s
+[train_mean] Epoch 012 | train=0.003523 | val=RMSE:219.76|MAE:190.30|MAPE:13.65% | elapsed=79.79s
+[train_mean] Epoch 013 | train=0.003334 | val=RMSE:241.48|MAE:211.98|MAPE:15.18% | elapsed=88.91s
+[train_mean] Early stopping triggered at epoch 13.
+[train_mean] Loaded best checkpoint safely: ANTM_mean_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 14:36:06
+Ticker: ANTM
+[train_mean] Done. Total elapsed: 90.47s
+[train_mean] Test RMSE:1086.72 | MAE:819.15 | MAPE:30.12%
+[train_mean] [LSTM stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_embargo/results/metrics
+[save_metrics] Files: ANTM_mean_val_metrics.(json|txt), ANTM_mean_test_metrics.(json|txt)
+================================================================================
+

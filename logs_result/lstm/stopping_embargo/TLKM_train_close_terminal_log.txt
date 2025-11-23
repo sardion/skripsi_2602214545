@@ -1,0 +1,26 @@
+[train_close][LSTM stopping_embargo] Running on device: cpu
+[debug] has y_min/y_max? True True vals: 2290.0 4770.0
+[SPLIT] n=1828 | embargo=7 | train=(0,1279) len=1279 | val=(1286,1560) len=274 | test=(1567,1828) len=261
+[train_close] Epoch 001 | train=0.034385 | val=RMSE:808.63|MAE:727.18|MAPE:24.86% | elapsed=4.57s
+[train_close] Epoch 002 | train=0.011164 | val=RMSE:957.94|MAE:905.67|MAPE:30.67% | elapsed=10.44s
+[train_close] Epoch 003 | train=0.008654 | val=RMSE:863.09|MAE:796.54|MAPE:27.11% | elapsed=17.74s
+[train_close] Epoch 004 | train=0.007837 | val=RMSE:931.15|MAE:862.77|MAPE:29.31% | elapsed=27.84s
+[train_close] Epoch 005 | train=0.006787 | val=RMSE:1050.90|MAE:1000.31|MAPE:33.78% | elapsed=37.24s
+[train_close] Epoch 006 | train=0.006575 | val=RMSE:921.73|MAE:843.08|MAPE:28.69% | elapsed=50.17s
+[train_close] Epoch 007 | train=0.006345 | val=RMSE:928.74|MAE:844.70|MAPE:28.75% | elapsed=63.51s
+[train_close] Epoch 008 | train=0.005779 | val=RMSE:922.52|MAE:863.38|MAPE:29.29% | elapsed=74.02s
+[train_close] Epoch 009 | train=0.005297 | val=RMSE:921.24|MAE:849.73|MAPE:28.91% | elapsed=86.32s
+[train_close] Epoch 010 | train=0.004975 | val=RMSE:918.85|MAE:843.91|MAPE:28.71% | elapsed=99.84s
+[train_close] Epoch 011 | train=0.005424 | val=RMSE:912.41|MAE:843.86|MAPE:28.70% | elapsed=113.81s
+[train_close] Early stopping triggered at epoch 11.
+[train_close] Loaded best checkpoint safely: TLKM_close_best.pt (weights_only)
+================================================================================
+Run timestamp: 2025-11-10 14:18:59
+Ticker: TLKM
+[train_close] Done. Total elapsed: 115.34s
+[train_close] Test RMSE:838.61 | MAE:695.62 | MAPE:26.71%
+[train_close] [LSTM stopping_embargo] Done on device: cpu
+[save_metrics] Final result artifacts in: /home/ubuntu/skripsi_2602214545/lstm/stopping_embargo/results/metrics
+[save_metrics] Files: TLKM_close_val_metrics.(json|txt), TLKM_close_test_metrics.(json|txt)
+================================================================================
+
