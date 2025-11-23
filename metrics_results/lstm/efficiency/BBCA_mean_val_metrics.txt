@@ -1,0 +1,8 @@
+=== Evaluation Metrics Summary ===
+Ticker        : BBCA
+Data Split    : mean_val
+Timestamp     : 2025-11-11T03:30:59
+RMSE (IDR)    : 1173.4043
+MAE (IDR)     : 1076.9579
+MAPE (%)      : 10.70
+==================================
