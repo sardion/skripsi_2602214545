@@ -1,0 +1,8 @@
+=== Evaluation Metrics Summary ===
+Ticker        : ANTM
+Data Split    : close_test
+Timestamp     : 2025-11-11T15:45:13
+RMSE (IDR)    : 988.1104
+MAE (IDR)     : 782.9696
+MAPE (%)      : 31.85
+==================================
