@@ -21,7 +21,6 @@ For each ticker:
    data/raw_features/{TICKER}_integrated_features_all_normalized.csv
 7) Write sidecar JSON documenting rules + per-column stats + fill counts
 
-Author: (your name)
 """
 
 from __future__ import annotations
@@ -279,3 +278,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
