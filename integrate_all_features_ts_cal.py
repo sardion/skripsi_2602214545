@@ -17,8 +17,6 @@ Assumptions:
 - All _ts_cal.csv live in data/processed/
 - Each CSV has calendar_date as the first/index column
 - calendar_date alignment is tz-naive and ascending
-
-Author: (your name)
 """
 
 from __future__ import annotations
@@ -174,3 +172,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
