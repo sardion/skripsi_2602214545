@@ -107,11 +107,12 @@ This generates: all_metrics_summary.csv
 
 ## Computational Environment (AWS)
 This research was executed on AWS:
-- **Instance Type: r6i.2xlarge
+- **Instance Type: c7i.4xlarge
 - **OS: Ubuntu 24.04
 - **Python: 3.10
 - **PyTorch: 2.8 (CPU mode)
 - **Environment: Virtual environment (venv)
+
 
 ## 📦 Raw Data Policy
 
@@ -232,4 +233,7 @@ These profiler traces are **not required** to reproduce metrics or conclusions o
 This repository may be set to private to protect academic integrity.
 Examiners can request access by contacting:
 Email: sardion.maranatha@binus.ac.id / sardion.maranatha@gmail.com
+
+## Experiment Results
+all experiment results are stored in exp_* folder to see the figures, accuracy metrics and efficiency results
 
